@@ -1,5 +1,7 @@
 [
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+
+  //key items
   {
     "name": "Mini Map",
     "type": "toggle",
@@ -24,6 +26,7 @@
     "img": "images/items/toggle.png",
     "codes": "toggle"
   },
+
   //classes
 
   {
