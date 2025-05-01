@@ -1,13 +1,123 @@
 [
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
   {
-    "name": "Toggle",
+    "name": "Mini Map",
     "type": "toggle",
     "img": "images/items/toggle.png",
     "codes": "toggle"
   },
   {
-    "name": "Progressive",
+    "name": "Blade License",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Skell Licence",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Overdrive",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },
+  //classes
+
+  {
+    "name": "Drifter",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Striker",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Samurai Gunner",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Duelist",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Sheild Trooper",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Bastion Warrior",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Commando",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },{
+    "name": "Winged Viper",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },{
+    "name": "Full Metal Jaguar",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },{
+    "name": "Partisan Eagle",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },{
+    "name": "Astral Crusader",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Enforcer",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },{
+    "name": "Psycorruptor",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },{
+    "name": "Mastermind",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },{
+    "name": "Blast Fencer",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },{
+    "name": "Galactic Knight",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },
+
+  //feild skills
+  {
+    "name": "mechanical",
     "type": "progressive",
     "allow_disabled": true,
     "initial_stage_idx": 0,
@@ -20,6 +130,72 @@
       {
         "img": "images/items/progressive_2.png",
         "codes": "progressive_2",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/progressive_3.png",
+        "codes": "progressive_3",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/progressive_4.png",
+        "codes": "progressive_4",
+        "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "biological",
+    "type": "progressive",
+    "allow_disabled": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/progressive.png",
+        "codes": "progressive",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/progressive_2.png",
+        "codes": "progressive_2",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/progressive_3.png",
+        "codes": "progressive_3",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/progressive_4.png",
+        "codes": "progressive_4",
+        "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "geological",
+    "type": "progressive",
+    "allow_disabled": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/progressive.png",
+        "codes": "progressive",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/progressive_2.png",
+        "codes": "progressive_2",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/progressive_3.png",
+        "codes": "progressive_3",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/progressive_4.png",
+        "codes": "progressive_4",
         "inherit_codes": false
       }
     ]
