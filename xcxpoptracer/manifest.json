@@ -5,7 +5,7 @@
   "name": "Xenoblade X",
   "game_name": "Xenoblade Chronicles X",
   "package_version": "1.0.0.0",
-  "package_uid": "template_pack",
+  "package_uid": "XCX_pack",
   // enables SNES memory autotracking interface - remove/change if not needed
   "platform": "WiiU",
   "author": "Limit_Fears",
@@ -14,7 +14,7 @@
   "target_poptracker_version": "0.28.0",
   "variants": {
     "standard": {
-      "display_name": "Enemy Tracker",
+      "display_name": "full Tracker",
       "flags": [
         // enables AP autotracking interface - remove if not needed
         "ap"
