@@ -1,0 +1,47 @@
+{
+    "Class_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "class_Drifter",
+                "class_Striker",
+                "class_Gunner",
+                "class_Duelist"
+              ],
+              [
+                "class_Trooper",
+                "class_Warrior",
+                "class_Commando",
+                "class_Viper"
+              ],
+              [
+                "class_Jaguar",
+                "class_Eagle",
+                "class_Crusader",
+                "class_Enforcer"
+              ],
+              [
+                "class_Psycorruptor",
+                "class_Mastermind",
+                "class_Fencer",
+                "class_Knight"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

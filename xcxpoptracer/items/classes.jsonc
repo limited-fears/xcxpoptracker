@@ -1,0 +1,95 @@
+ //classes
+[
+  {
+    "name": "Drifter",
+    "type": "toggle",
+    "img": "images/items/Drifter.png",
+    "codes": "class_Drfter"
+  },
+  {
+    "name": "Striker",
+    "type": "toggle",
+    "img": "images/items/Striker.png",
+    "codes": "class_Striker"
+  },
+  {
+    "name": "Samurai Gunner",
+    "type": "toggle",
+    "img": "images/items/Gunner.png",
+    "codes": "class_Gunner"
+  },
+  {
+    "name": "Duelist",
+    "type": "toggle",
+    "img": "images/items/Duelist.png",
+    "codes": "class_Duelist"
+  },
+  {
+    "name": "Sheild Trooper",
+    "type": "toggle",
+    "img": "images/items/Trooper.png",
+    "codes": "class_Trooper"
+  },
+  {
+    "name": "Bastion Warrior",
+    "type": "toggle",
+    "img": "images/items/Warrior.png",
+    "codes": "class_Bastion"
+  },
+  {
+    "name": "Commando",
+    "type": "toggle",
+    "img": "images/items/commando.png",
+    "codes": "class_Commando"
+  },
+  {
+    "name": "Winged Viper",
+    "type": "toggle",
+    "img": "images/items/Viper.png",
+    "codes": "class_Viper"
+  },
+  {
+    "name": "Full Metal Jaguar",
+    "type": "toggle",
+    "img": "images/items/Jaguar.png",
+    "codes": "class_Jaguar"
+  },
+  {
+    "name": "Partisan Eagle",
+    "type": "toggle",
+    "img": "images/items/Eagle.png",
+    "codes": "class_Eagle"
+  },
+  {
+    "name": "Astral Crusader",
+    "type": "toggle",
+    "img": "images/items/Crusader.png",
+    "codes": "class_Crusader"
+  },
+  {
+    "name": "Enforcer",
+    "type": "toggle",
+    "img": "images/items/Enforcer.png",
+    "codes": "class_Enforcer"
+  },{
+    "name": "Psycorruptor",
+    "type": "toggle",
+    "img": "images/items/Psycorruptor.png",
+    "codes": "class_Psycorruptor"
+  },{
+    "name": "Mastermind",
+    "type": "toggle",
+    "img": "images/items/Mastermind.png",
+    "codes": "class_Mastermind"
+  },{
+    "name": "Blast Fencer",
+    "type": "toggle",
+    "img": "images/items/Fencer.png",
+    "codes": "class_Fencer"
+  },{
+    "name": "Galactic Knight",
+    "type": "toggle",
+    "img": "images/items/Knight.png",
+    "codes": "class_Knight"
+  }
+]

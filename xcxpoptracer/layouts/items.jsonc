@@ -1,7 +1,7 @@
 {
   // sets layouts for shadred items grids
   // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
-  "shared_item_grid": {
+  "Key_grid": {
     "type": "array",
     "orientation": "vertical",
     "margin": "0,0",
@@ -13,16 +13,15 @@
         "content": [
           {
             "type": "itemgrid",
-            "item_margin": "10, 10",
+            "item_margin": "5, 5",
             "h_alignment": "left",
             "rows": [
               [
-                "toggle",
-                "progressive"
-              ],
-              [
-                "consumable",
-                "progressive_toggle"
+                "Key_MMap",
+                "Key_Blade",
+                "Key_Skell",
+                "Key_Overdrive",
+                "Key_Flight"
               ]
             ]
           }
