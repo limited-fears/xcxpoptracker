@@ -1,0 +1,29 @@
+[ {
+    "name": "L",
+    "type": "progressive",
+    "allow_disabled": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/progressive.png",
+        "codes": "Affin_L",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/progressive_2.png",
+        "codes": "Affin_L_2",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/progressive_3.png",
+        "codes": "Affin_L_3",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/progressive_4.png",
+        "codes": "Affin_L_4",
+        "inherit_codes": false
+      }
+    ]
+}
+]
