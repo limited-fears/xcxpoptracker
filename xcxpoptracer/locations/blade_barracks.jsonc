@@ -1,0 +1,29 @@
+[
+	{
+		"name": "blade barracks",
+		"children": [
+			{
+				"name": "blade barracks",
+				"sections": [
+					{
+						"name": "Chapter 1"
+					},
+					{
+						"name": "chapter 2",
+						"visibility_rules": [
+							"<chapter_1>"
+						]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "barracks_xcx",
+						"x": 440,
+						"y": 327,
+						"size": 30
+					}
+				]
+			}
+        ]
+    }
+]

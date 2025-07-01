@@ -1,0 +1,35 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+
+  //key items
+  {
+    "name": "Mini Map",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "Key_MMap"
+  },
+  {
+    "name": "Blade License",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "Key_Blade"
+  },
+  {
+    "name": "Skell Licence",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "Key_Skell"
+  },
+  {
+    "name": "Overdrive",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "Key_Overdrive"
+  },
+   {
+    "name": "Flight Module",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "Key_Flight"
+  }
+]

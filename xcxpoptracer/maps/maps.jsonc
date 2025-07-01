@@ -1,0 +1,15 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
+  {
+    "name": "World Map",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/full_map_xcx.png"
+  },
+  {
+    "name": "Manon Ship",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/manon_ship_xcx.png"
+  }
+]
