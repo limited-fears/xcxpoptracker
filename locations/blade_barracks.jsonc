@@ -3,7 +3,7 @@
 		"name": "blade barracks",
 		"children": [
 			{
-				"name": "blade barracks",
+				"name": "barracks",
 				"sections": [
 					{
 						"name": "Chapter 1"
@@ -17,7 +17,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "barracks_xcx",
+						"map": "barracks",
 						"x": 440,
 						"y": 327,
 						"size": 30
