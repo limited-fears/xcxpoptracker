@@ -16,7 +16,7 @@
             {
               "type": "group",
               "header": "Items",
-              "dock": "center",
+              "dock": "left",
               "content": {
                 "type": "layout",
                 "v_alignment": "stretch",
