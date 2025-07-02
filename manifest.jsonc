@@ -4,7 +4,7 @@
   // for more info on the manifest check: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#manifest
   "name": "Xenoblade X",
   "game_name": "Xenoblade Chronicles X",
-  "package_version": "1.0.0.0",
+  "package_version": "0.0.0.1",
   "package_uid":"XenobladeX",
   "platform": "WiiU",
   "author": "Limit_Fears",

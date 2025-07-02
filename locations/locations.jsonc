@@ -1,13 +1,10 @@
 [
   {
-    "name": "Example Parent",
+    "name": "Full_Map",
     "children": [
       {
         "name": "Example Location 1",
         "access_rules": [
-          //read as: progressive_2 or toggle
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {

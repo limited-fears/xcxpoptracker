@@ -3,27 +3,20 @@
 		"name": "blade barracks",
 		"children": [
 			{
-				"name": "barracks",
+				"name": "story mission 1",
 				"sections": [
 					{
-						"name": "Chapter 1"
-					},
-					{
-						"name": "chapter 2",
-						"visibility_rules": [
-							"<chapter_1>"
-						]
+						"chest_unopened_img": "images/enemies/incomplete.png",
+          "chest_opened_img": "images/enemies/complete.png"}]
 					}
 				],
 				"map_locations": [
 					{
-						"map": "barracks",
+						"map": "Barks",
 						"x": 440,
 						"y": 327,
 						"size": 30
 					}
 				]
-			}
-        ]
-    }
+	}
 ]
