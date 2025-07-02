@@ -1,19 +1,16 @@
-{"key_grid": {
+{"key_grid":{
     "type": "array",
     "orientation": "vertical",
     "margin": "0,0",
-    "content": [
-      {
+    "content": [{
         "type": "array",
         "orientation": "horizontal",
         "margin": "0,0",
-        "content": [
-          {
+        "content": [{
             "type": "itemgrid",
             "item_margin": "4, 4",
             "h_alignment": "left",
-            "rows": [
-              [
+            "rows": [[
                 "class_Drifter",
                 "class_Striker",
                 "class_Gunner",
