@@ -5,31 +5,31 @@
   {
     "name": "Mini Map",
     "type": "toggle",
-    "img": "images/items/toggle.png",
+    "img": "images/items/complete.png",
     "codes": "Key_MMap"
   },
   {
     "name": "Blade License",
     "type": "toggle",
-    "img": "images/items/toggle.png",
+    "img": "images/items/complete.png",
     "codes": "Key_Blade"
   },
   {
     "name": "Skell Licence",
     "type": "toggle",
-    "img": "images/items/toggle.png",
+    "img": "images/items/complete.png",
     "codes": "Key_Skell"
   },
   {
     "name": "Overdrive",
     "type": "toggle",
-    "img": "images/items/toggle.png",
+    "img": "images/items/complete.png",
     "codes": "Key_Overdrive"
   },
    {
     "name": "Flight Module",
     "type": "toggle",
-    "img": "images/items/toggle.png",
+    "img": "images/items/complete.png",
     "codes": "Key_Flight"
   }
 ]

@@ -1,22 +1,27 @@
 [
 	{
 		"name": "blade barracks",
-		"children": [
+		"children": 
+		[
 			{
 				"name": "story mission 1",
-				"sections": [
+				"sections": 
+				[
 					{
-						"chest_unopened_img": "images/enemies/incomplete.png",
-          "chest_opened_img": "images/enemies/complete.png"}]
+					"chest_unopened_img": "images/items/incomplete.png",
+          			"chest_opened_img": "images/items/complete.png"
 					}
+				]
+			}
 				],
-				"map_locations": [
+				"map_locations": 
+				[
 					{
 						"map": "Barks",
 						"x": 440,
 						"y": 327,
 						"size": 30
 					}
-				]
-	}
-]
+				]		
+			}
+		]
