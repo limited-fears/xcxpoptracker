@@ -5,8 +5,7 @@
   "name": "Xenoblade X",
   "game_name": "Xenoblade Chronicles X",
   "package_version": "1.0.0.0",
-  "package_uid": "XCX_pack",
-  // enables SNES memory autotracking interface - remove/change if not needed
+  
   "platform": "WiiU",
   "author": "Limit_Fears",
   "min_poptracker_version": "0.25.9",
