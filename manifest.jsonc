@@ -5,26 +5,13 @@
   "name": "Xenoblade X",
   "game_name": "Xenoblade Chronicles X",
   "package_version": "1.0.0.0",
-  
+  "package_uid":"XenobladeX",
   "platform": "WiiU",
   "author": "Limit_Fears",
-  "min_poptracker_version": "0.25.9",
-  // put the version you tested against here!
-  "target_poptracker_version": "0.28.0",
   "variants": {
     "standard": {
-      "display_name": "full Tracker",
-      "flags": [
-        // enables AP autotracking interface - remove if not needed
-        "ap"
-      ]
-    },
-    "var_itemsonly": {
-      "display_name": "Items Only",
-      "flags": [
-        // enables AP autotracking interface - remove if not needed
-        "ap"
-      ]
+      "display_name": "Map Tracker",
+      "flags": ["ap"]
     }
   }
 }
