@@ -5,16 +5,10 @@
 		[
 			{
 				"name": "story mission 1",
-				"sections": 
-				[
-					{
+				"sections":[{
 					"chest_unopened_img": "images/items/incomplete.png",
-          			"chest_opened_img": "images/items/complete.png"
-					}
-				]
-			}
-				],
-				"map_locations": 
+          			"chest_opened_img": "images/items/complete.png"}],
+					"map_locations": 
 				[
 					{
 						"map": "Barks",
@@ -22,6 +16,9 @@
 						"y": 327,
 						"size": 30
 					}
-				]		
+				]
 			}
 		]
+						
+	}
+]
