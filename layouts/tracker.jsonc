@@ -28,11 +28,11 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "Map 1",
+              "title": "barracks",
               "content": {
                 "type": "map",
                 "maps": [
-                  "map1"
+                  "barracks"
                 ]
               }
             },
