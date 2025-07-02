@@ -8,9 +8,9 @@
 					"map_locations": 
 				[{
 						"map": "Barks",
-						"x": 440,
-						"y": 327,
-						"size": 100
+						"x": 40,
+						"y": 37,
+						"size": 1000
 					}
 				]
 			}
