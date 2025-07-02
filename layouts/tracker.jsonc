@@ -16,10 +16,11 @@
             {
               "type": "group",
               "header": "Items",
-              "dock": "top",
+              "dock": "center",
               "content": {
                 "type": "layout",
-                "key": "vertical_item_grid"
+                "v_alignment": "stretch",
+                "key": "items"
               }
             }
           ]
@@ -27,72 +28,84 @@
         {
           "type": "tabbed",
           "tabs": [
+            {
+              "title": "World Map",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "WlrdMp"
+                ]
+              }
+            },
+            {
+              "title": "Manon Ship",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "MnShp"
+                ]
+              }
+            },
             {
               "title": "barracks",
               "content": {
                 "type": "map",
                 "maps": [
-                  "barracks"
+                  "Barks"
                 ]
               }
             },
             {
-              "title": "Map 2",
+              "title": "NLA",
               "content": {
                 "type": "map",
                 "maps": [
-                  "map2"
-                ]
-              }
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "tracker_horizontal": {
-    "type": "container",
-    "background": "#000000",
-    "content": {
-      "type": "dock",
-      "dropshadow": true,
-      "content": [
-        {
-          "type": "dock",
-          "dock": "bottom",
-          "content": [
-            {
-              "type": "group",
-              "header": "Items",
-              "dock": "left",
-              "margin": "0,0,3,0",
-              "content": {
-                "type": "layout",
-                "h_alignment": "center",
-                "v_alignment": "center",
-                "key": "shared_item_grid"
-              }
-            }
-          ]
-        },
-        {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "Map 1",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "map1"
+                  "NLA"
                 ]
               }
             },
             {
-              "title": "Map 2",
+              "title": "Primordia",
               "content": {
                 "type": "map",
                 "maps": [
-                  "map2"
+                  "Prm"
+                ]
+              }
+            },
+            {
+              "title": "Noctilum",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Noc"
+                ]
+              }
+            },
+            {
+              "title": "Oblivia",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Obl"
+                ]
+              }
+            },
+            {
+              "title": "Sylum",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Syl"
+                ]
+              }
+            },
+            {
+              "title": "Cauldros",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Cau"
                 ]
               }
             }

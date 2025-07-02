@@ -1,19 +1,19 @@
 [
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
   {
-    "name": "World Map",
+    "name": "WlrdMp",
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/World_Map.png"
   },
   {
-    "name": "Manon Ship",
+    "name": "MnShp",
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/Manon_Ship.png"
   },
   {
-    "name": "Barracks",
+    "name": "Barks",
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/Barracks.png"
@@ -25,31 +25,31 @@
     "img": "images/maps/NLA.png"
   },
   {
-    "name": "Primordia",
+    "name": "Prm",
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/Primordia.png"
   },
   {
-    "name": "Noctilum",
+    "name": "Noc",
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/Noctilum.png"
   },
   {
-    "name": "Oblivia",
+    "name": "Obl",
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/Oblivia.png"
   },
   {
-    "name": "Sylum",
+    "name": "Syl",
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/Sylum.png"
   },
   {
-    "name": "Cauldros",
+    "name": "Cau",
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/Cauldros.png"
