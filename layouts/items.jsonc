@@ -1,7 +1,7 @@
 {
   // sets layouts for shadred items grids
   // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
-  "Key_grid": {
+  "Keys": {
     "type": "array",
     "orientation": "vertical",
     "margin": "0,0",

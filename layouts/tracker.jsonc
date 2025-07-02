@@ -15,12 +15,12 @@
           "content": [
             {
               "type": "group",
-              "header": "Items",
+              "header": "Key Items",
               "dock": "left",
               "content": {
                 "type": "layout",
                 "v_alignment": "stretch",
-                "key": "items"
+                "key": "Keys"
               }
             }
           ]
