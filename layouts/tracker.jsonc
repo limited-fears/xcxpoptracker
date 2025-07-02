@@ -19,7 +19,7 @@
               "dock": "top",
               "content": {
                 "type": "layout",
-                "key": "shared_item_grid"
+                "key": "vertical_item_grid"
               }
             }
           ]

@@ -4,18 +4,54 @@
     "name": "World Map",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "xcxpoptracer/images/maps/full_map_xcx.png"
+    "img": "images/maps/World_Map.png"
   },
   {
     "name": "Manon Ship",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "xcxpoptracer/images/maps/manon_ship_xcx.png"
+    "img": "images/maps/Manon_Ship.png"
+  },
+  {
+    "name": "Barracks",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Barracks.png"
+  },
+  {
+    "name": "NLA",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/NLA.png"
+  },
+  {
+    "name": "Oblivia",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Oblivia.pngg"
+  },
+  {
+    "name": "Noctilum",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Noctilum.png"
   },
   {
     "name": "barracks",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "xcxpoptracer/images/maps/barracks_xcx.png"
-  }
+    "img": "images/maps/barracks_xcx.png"
+  },
+  {
+    "name": "barracks",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/barracks_xcx.png"
+  },
+  {
+    "name": "barracks",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/barracks_xcx.png"
+  },
 ]
