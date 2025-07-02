@@ -25,10 +25,10 @@
     "img": "images/maps/NLA.png"
   },
   {
-    "name": "Oblivia",
+    "name": "Primordia",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/Oblivia.pngg"
+    "img": "images/maps/Primordia.png"
   },
   {
     "name": "Noctilum",
@@ -37,21 +37,21 @@
     "img": "images/maps/Noctilum.png"
   },
   {
-    "name": "barracks",
+    "name": "Oblivia",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/barracks_xcx.png"
+    "img": "images/maps/Oblivia.png"
   },
   {
-    "name": "barracks",
+    "name": "Sylum",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/barracks_xcx.png"
+    "img": "images/maps/Sylum.png"
   },
   {
-    "name": "barracks",
+    "name": "Cauldros",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/barracks_xcx.png"
-  },
+    "img": "images/maps/Cauldros.png"
+  }
 ]
