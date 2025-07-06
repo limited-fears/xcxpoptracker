@@ -1,54 +1,31 @@
-[
-  {
-    "name": "Full_Map",
-    "children": [
-      {
-        "name": "Example Location 1",
-        "access_rules": [
+[{
+		"name": "barracks",
+		"children":[
+			{
+				"name": "Ch_1",
+				"access_rules": [
         ],
-        "sections": [
-          {
-            "name": "Example Section 1",
-            "item_count": 1
-          },
-          {
-            "name": "Example Section 2",
-            "item_count": 3
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "map1",
-            "x": 1750,
-            "y": 700
-          },
-          {
-            "map": "map2",
-            "x": 1000,
-            "y": 500
-          }
-        ]
-      },
-      {
-        "name": "Example Location 2",
-        "access_rules": [
-          //read as: progressive_toggle_2 and has more than 4 consumable
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
-        ],
-        "sections": [
-          {
-            "name": "Example Section 1",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "map1",
-            "x": 1500,
-            "y": 400
-          }
-        ]
-      }
-    ]
-  }
-]
+				"sections":[
+				    {
+                    "name": "BarksSection1",
+                    "item_count": 1
+                    }
+                ],
+				"map_locations": [
+					{				
+						"map": "Barks",
+						"x": 24,
+						"y": 24,
+						"size": 10
+					}
+				]
+			}
+		]
+						
+	}
+	]
+
+
+	///
+	///				"chest_unopened_img": "images/items/incomplete.png",
+    ///     			"chest_opened_img": "images/items/complete.png"},
