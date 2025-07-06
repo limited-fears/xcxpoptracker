@@ -7,8 +7,12 @@
         ],
 				"sections":[
 				    {
-                    "name": "BarksSection1",
+                    "name": "Barks Sec1",
                     "item_count": 1
+                    },
+					{
+                    "name": "Barks Sec2",
+                    "item_count": 3
                     }
                 ],
 				"map_locations": [
