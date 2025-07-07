@@ -29,7 +29,8 @@
       "dock": "left",
       "content": {
           "type": "layout",
-          "v_alignment": "stretch",
+          "v_alignment": "center",
+          "h_alignment":"center",
           "key": "Class"
           }
          }
@@ -39,7 +40,7 @@
         "type": "dock",
 			  "content": {
 						"type": "layout",
-						"key": "tabbed_cups"
+						"key": "tabbed_Maps"
         }
        }
       ]
