@@ -1,134 +1,45 @@
 {
   //sets the trackers layout
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#layouts
-  "tracker_default": {
-    "type": "container",
-    "background": "#000000",
+"tracker_default": {
+"type": "container",
+"background": "#000000",
+"content": {
+  "type": "dock",
+  "dropshadow": true,
+  "content": [
+      {
+        "type": "dock",
+        "dock": "bottom",
+        "content": [
+          {
+    "type": "group",
+    "header": "Key Items",
+    "dock": "left",
     "content": {
-      "type": "dock",
-      "dropshadow": true,
-      "content": [
-        {
-          "type": "group",
-          "group": "bottom",
+      "type": "layout",
+      "v_alignment": "center",
+      "h_alignment":"center",
+      "key": "Keys"
+          }
+      },
+    {   
+      "type": "group",
+      "header": "Classes",
+      "dock": "left",
+      "content": {
+          "type": "layout",
           "v_alignment": "stretch",
-          "content": [
-            {
-              "type": "group",
-              "header": "Key Items",
-              "dock": "bottom",
-              "content": {
-                "type": "layout",
-                "v_alignment": "stretch",
-                "key": "Keys"
-              }
-            }
-          ]
-        },
-        {
-          "type": "group",
-          "dock": "bottom",
-          "v_alignment": "stretch",
-          "content": [
-            {
-              "type": "group",
-              "header": "Class",
-              "dock": "left",
-              "content": {
-                "type": "layout",
-                "v_alignment": "stretch",
-                "key": "Class"
-              }
-            }
-          ]
-        },
-        {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "World Map",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "WlrdMp"
-                ]
-              }
-            },
-            {
-              "title": "Manon Ship",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "MnShp"
-                ]
-              }
-            },
-            {
-              "title": "barracks",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "Barks"
-                ]
-              }
-            },
-            {
-              "title": "NLA",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "NLA"
-                ]
-              }
-            },
-            {
-              "title": "Primordia",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "Prm"
-                ]
-              }
-            },
-            {
-              "title": "Noctilum",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "Noc"
-                ]
-              }
-            },
-            {
-              "title": "Oblivia",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "Obl"
-                ]
-              }
-            },
-            {
-              "title": "Sylum",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "Syl"
-                ]
-              }
-            },
-            {
-              "title": "Cauldros",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "Cau"
-                ]
-              }
-            }
-          ]
-        }
+          "key": "Class"
+          }
+         }
+        ]
+       }
       ]
     }
   }
 }
+
+
+    
+

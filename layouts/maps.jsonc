@@ -1,0 +1,73 @@
+ {
+    "tabbed_Map":{
+    "type": "tabbed",
+    "tabs": [
+        {
+
+    
+        "title": "World Map",
+        "content": {
+        "type": "map",
+        "maps": ["WlrdMp"]
+            }
+        },
+            {
+              "title": "Manon Ship",
+              "content": {
+                "type": "map",
+                "maps": ["MnShp"]
+              }
+            },
+            {
+              "title": "barracks",
+              "content": {
+                "type": "map",
+                "maps": ["Barks"]
+              }
+            },
+            {
+              "title": "NLA",
+              "content": {
+                "type": "map",
+                "maps": ["NLA"]
+              }
+            },
+            {
+              "title": "Primordia",
+              "content": {
+                "type": "map",
+                "maps": ["Prm"]
+              }
+            },
+            {
+              "title": "Noctilum",
+              "content": {
+                "type": "map",
+                "maps": ["Noc"]
+              }
+            },
+            {
+              "title": "Oblivia",
+              "content": {
+                "type": "map",
+                "maps": ["Obl"]
+              }
+            },
+            {
+              "title": "Sylum",
+              "content": {
+                "type": "map",
+                "maps": ["Syl"]
+              }
+            },
+            {
+              "title": "Cauldros",
+              "content": {
+                "type": "map",
+                "maps": ["Cau"]
+                }
+            }
+        ]
+    }
+}
+    
