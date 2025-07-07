@@ -23,7 +23,7 @@
       "key": "Keys"
           }
       },
-    {   
+      {   
       "type": "group",
       "header": "Classes",
       "dock": "left",
@@ -33,7 +33,19 @@
           "h_alignment":"center",
           "key": "Class"
           }
-         }
+         },
+      {
+    "type": "group",
+    "header": "Feild Skills",
+    "dock": "left",
+    "content": {
+      "type": "layout",
+      "v_alignment": "center",
+      "h_alignment":"center",
+      "key": "fldskls"
+          }
+      }
+    
         ]
        },
     {
