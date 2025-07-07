@@ -34,8 +34,8 @@
   {
     "name": "Bastion Warrior",
     "type": "toggle",
-    "img": "images/classes/Warrior.png",
-    "codes": "class_Bastion"
+    "img": "images/classes/warrior.png",
+    "codes": "class_Warrior"
   },
   {
     "name": "Commando",
