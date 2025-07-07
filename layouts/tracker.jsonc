@@ -32,7 +32,7 @@
           "content": [
             {
               "type": "group",
-              "header": "classes",
+              "header": "Class",
               "dock": "left",
               "content": {
                 "type": "layout",
