@@ -2,23 +2,8 @@
 		"name": "barracks",
 		"children":[
 			{
-				"name": "Ch_1",
-				"access_rules": [
-        ],
-				"sections":[
-				    {
-                    "name": "BarksSection1",
-                    "item_count": 1
-                    }
-                ],
-				"map_locations": [
-					{				
-						"map": "Barks",
-						"x": 24,
-						"y": 24,
-						"size": 10
-					}
-				]
+			
+
 			}
 		]
 						
