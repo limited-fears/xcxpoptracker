@@ -3,8 +3,6 @@
     "type": "tabbed",
     "tabs": [
         {
-
-    
         "title": "World Map",
         "content": {
         "type": "map",
