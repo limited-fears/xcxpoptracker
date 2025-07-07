@@ -5,7 +5,7 @@
     "name": "Drifter",
     "type": "toggle",
     "img": "images/classes/Drifter.png",
-    "codes": "class_Drfter"
+    "codes": "class_Drifter"
   },
   {
     "name": "Striker",
@@ -75,7 +75,7 @@
   },{
     "name": "Psycorruptor",
     "type": "toggle",
-    "img": "images/classes/Psycorruptor.png",
+    "img": "images/classes/Psy.png",
     "codes": "class_Psycorruptor"
   },{
     "name": "Mastermind",
