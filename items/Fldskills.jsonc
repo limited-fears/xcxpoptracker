@@ -4,6 +4,7 @@
     "type": "progressive",
     "allow_disabled": true,
     "initial_stage_idx": 0,
+    "img": "images/items/drifter.png",
     "stages": [
       {
         "img": "images/items/drifter.png",
