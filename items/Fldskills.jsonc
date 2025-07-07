@@ -6,22 +6,22 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/items/progressive.png",
+        "img": "images/items/drifter.png",
         "codes": "Mech",
         "inherit_codes": false
       },
       {
-        "img": "images/items/progressive_2.png",
+        "img": "images/items/duelist.png",
         "codes": "Mech_2",
         "inherit_codes": false
       },
       {
-        "img": "images/items/progressive_3.png",
+        "img": "images/items/gunner.png",
         "codes": "Mech_3",
         "inherit_codes": false
       },
       {
-        "img": "images/items/progressive_4.png",
+        "img": "images/items/mech_5.png",
         "codes": "Mech_4",
         "inherit_codes": false
       }

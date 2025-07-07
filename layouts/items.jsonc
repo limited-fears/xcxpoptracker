@@ -12,17 +12,14 @@
         "content": [
           {
             "type": "itemgrid",
-            "item_margin": "5, 2",
-            "h_alignment": "left",
+            "item_margin": "3, 3",
+            "v_alignment": "center",
+            "h_alignment": "center",
             "item_size":50,
             "rows": [
-              [
-                "Key_MMap",
-                "Key_Blade",
-                "Key_Skell",
-                "Key_Overdrive",
-                "Key_Flight"
-              ]
+              ["Key_MMap","Key_Blade"],
+              ["Key_Skell","Key_Overdrive"],
+              ["Key_Flight"]
             ]
           }
         ]
