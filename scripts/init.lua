@@ -25,6 +25,10 @@ ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlusWrapper.lua")
 
 -- Items
 Tracker:AddItems("items/items.jsonc")
+Tracker:AddItems("items/affinity.jsonc")
+Tracker:AddItems("items/classes.jsonc")
+Tracker:AddItems("items/Fldskills.jsonc")
+Tracker:AddItems("items/enemies.jsonc")
 
 if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     -- Maps
@@ -48,6 +52,7 @@ Tracker:AddLayouts("layouts/tracker.jsonc")
 Tracker:AddLayouts("layouts/broadcast.jsonc")
 Tracker:AddLayouts("layouts/maps.jsonc")
 Tracker:AddLayouts("layouts/classes.jsonc")
+Tracker:AddLayouts("layouts/fldskills.jsonc")
 
 -- AutoTracking for Poptracker
 if PopVersion and PopVersion >= "0.18.0" then

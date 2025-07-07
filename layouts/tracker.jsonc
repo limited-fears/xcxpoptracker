@@ -36,7 +36,7 @@
          },
       {
     "type": "group",
-    "header": "Feild Skills",
+    "header": "Field Skills",
     "dock": "left",
     "content": {
       "type": "layout",
