@@ -10,7 +10,7 @@
       "content": [
         {
           "type": "group",
-          "dock": "left",
+          "group": "bottom",
           "v_alignment": "stretch",
           "content": [
             {
@@ -26,8 +26,8 @@
           ]
         },
         {
-          "type": "dock",
-          "dock": "left",
+          "type": "group",
+          "dock": "bottom",
           "v_alignment": "stretch",
           "content": [
             {
