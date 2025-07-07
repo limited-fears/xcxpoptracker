@@ -3,16 +3,16 @@
   // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
   "Keys": {
     "type": "array",
-    "orientation": "vertical",
+    "orientation": "horizontal",
     "margin": "0,0",
     "content": [
       {
         "type": "array",
-        "orientation": "horizontal",
+        "orientation": "vertical",
         "content": [
           {
             "type": "itemgrid",
-            "item_margin": "5, 1",
+            "item_margin": "5, 2",
             "h_alignment": "left",
             "item_size":50,
             "rows": [
