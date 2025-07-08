@@ -36,6 +36,17 @@
           "key": "Class"
           }
          },
+        {   
+      "type": "group",
+      "header": "Character Affinity",
+      "dock": "left",
+      "content": {
+          "type": "layout",
+          "v_alignment": "center",
+          "h_alignment":"center",
+          "key": "affin"
+          }
+         },
       {
     "type": "group",
     "header": "Field Skills",

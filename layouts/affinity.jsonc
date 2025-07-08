@@ -1,7 +1,7 @@
 {
   // sets layouts for shadred items grids
   // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
-  "fldskls": {
+  "affin": {
     "type": "array",
     "orientation": "horizontal",
     "margin": "0,0",
@@ -17,9 +17,8 @@
             "item_v_alignment": "stretch",
             "item_size":50,
             "rows": [
-              [
-                "mech_2","Bio_2","Geo_2"
-              ]
+              ["Doug_2","Elma_2","Gwin_2"],
+              ["Irina_2","L_2","Lao_2","Lin_2"]
             ]
           }
         ]

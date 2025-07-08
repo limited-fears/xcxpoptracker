@@ -53,6 +53,7 @@ Tracker:AddLayouts("layouts/broadcast.jsonc")
 Tracker:AddLayouts("layouts/maps.jsonc")
 Tracker:AddLayouts("layouts/classes.jsonc")
 Tracker:AddLayouts("layouts/fldskills.jsonc")
+Tracker:AddLayouts("layouts/fldskills.jsonc")
 
 -- AutoTracking for Poptracker
 if PopVersion and PopVersion >= "0.18.0" then
