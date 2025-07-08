@@ -14,7 +14,7 @@
             "type": "itemgrid",
             "item_margin": "2, 5",
             "h_alignment": "center",
-            "item_v_alignment": "stretch",
+            "item_v_alignment": "center",
             "item_size":50,
             "rows": [
               [

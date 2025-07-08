@@ -197,7 +197,7 @@
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/items/progressive.png",
+        "img": "images/affin/Lin_max.png",
         "img_mods": "@disabled"
         
       },
