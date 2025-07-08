@@ -22,54 +22,63 @@
       },
       {
         "img": "images/fldskls/mech_5.png",
-        
+        "codes": "mech_5"
       }
     ]
   },
   {
     "name": "biological",
     "type": "progressive",
-    "allow_disabled": true,
+    "allow_disabled": false,
     "stages": [
       {
         "img": "images/classes/Drifter.png",
-  
+        "img_mods": "@enabled"
       },
       {
         "img": "images/items/progressive_2.png",
-      
+        "codes": "bio_2"
       },
       {
         "img": "images/items/progressive_3.png",
-      
+      "codes": "bio_3"
       },
       {
         "img": "images/items/progressive_4.png",
-      
+      "codes": "bio_4"
+      },
+      {
+        "img": "images/items/progressive_4.png",
+      "codes": "bio_5"
       }
+
     ]
   },
   {
     "name": "geological",
     "type": "progressive",
-    "allow_disabled": true,
+    "allow_disabled": false,
     "initial_stage_idx": 0,
     "stages": [
       {
         "img": "images/items/progressive.png",
-  
+        "img_mods": "@enabled"
       },
       {
         "img": "images/items/progressive_2.png",
-      
+        "codes": "geo_2"
       },
       {
         "img": "images/items/progressive_3.png",
-      
+        "codes": "geo_3"
+      },
+      {
+        "img": "images/items/progressive_3.png",
+        "codes": "geo_4"
       },
       {
         "img": "images/items/progressive_4.png",
-      
+        "codes": "geo_5"
       }
     ]
   }

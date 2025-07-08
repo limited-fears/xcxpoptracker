@@ -11,6 +11,8 @@
       {
         "type": "dock",
         "dock": "bottom",
+        "v_alignment": "center",
+        "h_alignment":"center",
         "content": [
           {
     "type": "group",

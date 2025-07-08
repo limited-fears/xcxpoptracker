@@ -1,28 +1,225 @@
-[ {
-    "name": "L",
+[ 
+  {
+    "name": "Doug",
     "type": "progressive",
-    "allow_disabled": true,
-    "initial_stage_idx": 0,
+    "allow_disabled": false,
     "stages": [
       {
         "img": "images/items/progressive.png",
-        "codes": "Affin_L",
-        "inherit_codes": false
+        "img_mods": "@disabled"
+        
       },
       {
         "img": "images/items/progressive_2.png",
-        "codes": "Affin_L_2",
-        "inherit_codes": false
+        "codes": "Doug_2"
+        
       },
       {
         "img": "images/items/progressive_3.png",
-        "codes": "Affin_L_3",
-        "inherit_codes": false
+        "codes": "Doug_3"
+        
+      },
+      {
+        "img": "images/items/progressive_3.png",
+        "codes": "Doug_4"
+        
       },
       {
         "img": "images/items/progressive_4.png",
-        "codes": "Affin_L_4",
-        "inherit_codes": false
+        "codes": "Doug_5"
+        
+      }
+    ]
+},
+{
+    "name": "Elma",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/items/progressive.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "images/items/progressive_2.png",
+        "codes": "Elma_2"
+        
+      },
+      {
+        "img": "images/items/progressive_3.png",
+        "codes": "Elma_3"
+        
+      },
+      {
+        "img": "images/items/progressive_3.png",
+        "codes": "Elma_4"
+        
+      },
+      {
+        "img": "images/affin/elma_max.png",
+        "codes": "Elma_5"
+        
+      }
+    ]
+},
+{
+    "name": "Gwin",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/items/progressive.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "images/items/progressive_2.png",
+        "codes": "Gwin_2"
+        
+      },
+      {
+        "img": "images/items/progressive_3.png",
+        "codes": "Gwin_3"
+        
+      },
+      {
+        "img": "images/items/progressive_3.png",
+        "codes": "Gwin_4"
+        
+      },
+      {
+        "img": "images/affin/Gwin_max.png",
+        "codes": "Gwin_5"
+        
+      }
+    ]
+},
+{
+    "name": "Irina",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/items/progressive.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "images/items/progressive_2.png",
+        "codes": "Irina_2"
+        
+      },
+      {
+        "img": "images/items/progressive_3.png",
+        "codes": "Irina_3"
+        
+      },
+      {
+        "img": "images/items/progressive_3.png",
+        "codes": "Irina_4"
+        
+      },
+      {
+        "img": "images/affin/Irina_max.png",
+        "codes": "Irina_5"
+        
+      }
+    ]
+},
+{
+    "name": "L",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/items/progressive.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "images/items/progressive_2.png",
+        "codes": "L_2"
+        
+      },
+      {
+        "img": "images/items/progressive_3.png",
+        "codes": "L_3"
+        
+      },
+      {
+        "img": "images/items/progressive_4.png",
+        "codes": "L_4"
+        
+      },
+      {
+        "img": "images/affin/L_max.png",
+        "codes": "L_5"
+        
+      }
+    ]
+},
+{
+    "name": "Lao",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/items/progressive.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "images/items/progressive_2.png",
+        "codes": "Lao_2"
+        
+      },
+      {
+        "img": "images/items/progressive_3.png",
+        "codes": "Lao_3"
+        
+      },
+      {
+        "img": "images/items/progressive_4.png",
+        "codes": "Lao_4"
+        
+      },
+      {
+        "img": "images/affin/lao_max.png",
+        "codes": "Lao_5"
+        
+      }
+    ]
+},
+{
+    "name": "Lin",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/items/progressive.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "images/items/progressive_2.png",
+        "codes": "Lin_2"
+        
+      },
+      {
+        "img": "images/items/progressive_3.png",
+        "codes": "Lin_3"
+        
+      },
+      {
+        "img": "images/items/progressive_3.png",
+        "codes": "Lin_4"
+        
+      },
+      {
+        "img": "images/affin/Lin_max.png",
+        "codes": "Lin_5"
+        
       }
     ]
 }

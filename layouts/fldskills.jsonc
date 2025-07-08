@@ -12,7 +12,7 @@
         "content": [
           {
             "type": "itemgrid",
-            "item_margin": "5, 2",
+            "item_margin": "2, 5",
             "h_alignment": "left",
             "item_size":50,
             "rows": [
