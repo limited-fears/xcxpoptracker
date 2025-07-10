@@ -1,58 +1,155 @@
 [ 
   {
+    "name": "Alexa",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/affin/Alexa_base.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "",
+        "codes": "Alexa_2"
+        
+      },
+      {
+        "img": "",
+        "codes": "Alexa_3"
+        
+      },
+      {
+        "img": "",
+        "codes": "Alexa_4"
+        
+      },
+      {
+        "img": "",
+        "codes": "Alexa_5"
+        
+      }
+    ]
+},
+{
+    "name": "Boze",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/affin/Boze_base.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "",
+        "codes": "Boze_2"
+        
+      },
+      {
+        "img": "",
+        "codes": "Boze_3"
+        
+      },
+      {
+        "img": "",
+        "codes": "Boze_4"
+        
+      },
+      {
+        "img": "",
+        "codes": "Boze_5"
+        
+      }
+    ]
+},
+{
+    "name": "Celica",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/affin/Celica_base.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "",
+        "codes": "Celica_2"
+        
+      },
+      {
+        "img": "",
+        "codes": "Celica_3"
+        
+      },
+      {
+        "img": "",
+        "codes": "Celica_4"
+        
+      },
+      {
+        "img": "",
+        "codes": "Celica_5"
+        
+      }
+    ]
+},
+  {
     "name": "Doug",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/items/progressive.png",
+        "img": "images/affin/Doug_base.png",
         "img_mods": "@disabled"
         
       },
       {
-        "img": "images/items/progressive_2.png",
+        "img": "",
         "codes": "Doug_2"
         
       },
       {
-        "img": "images/items/progressive_3.png",
+        "img": "",
         "codes": "Doug_3"
         
       },
       {
-        "img": "images/items/progressive_3.png",
+        "img": "",
         "codes": "Doug_4"
         
       },
       {
-        "img": "images/items/progressive_4.png",
+        "img": "",
         "codes": "Doug_5"
         
       }
     ]
-},
+  },
+
 {
     "name": "Elma",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/items/progressive.png",
+        "img": "images/affin/elma_base.png",
         "img_mods": "@disabled"
         
       },
       {
-        "img": "images/items/progressive_2.png",
+        "img": "",
         "codes": "Elma_2"
         
       },
       {
-        "img": "images/items/progressive_3.png",
+        "img": "",
         "codes": "Elma_3"
         
       },
       {
-        "img": "images/items/progressive_3.png",
+        "img": "",
         "codes": "Elma_4"
         
       },
@@ -62,29 +159,62 @@
         
       }
     ]
+  },
+{
+    "name": "Frye",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/affin/Frye_base.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "",
+        "codes": "Frye_2"
+        
+      },
+      {
+        "img": "",
+        "codes": "Frye_3"
+        
+      },
+      {
+        "img": "",
+        "codes": "Frye_4"
+        
+      },
+      {
+        "img": "",
+        "codes": "Frye_5"
+        
+      }
+    ]
 },
+
 {
     "name": "Gwin",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/items/progressive.png",
+        "img": "images/affin/gwin_base.png",
         "img_mods": "@disabled"
         
       },
       {
-        "img": "images/items/progressive_2.png",
+        "img": "",
         "codes": "Gwin_2"
         
       },
       {
-        "img": "images/items/progressive_3.png",
+        "img": "",
         "codes": "Gwin_3"
         
       },
       {
-        "img": "images/items/progressive_3.png",
+        "img": "",
         "codes": "Gwin_4"
         
       },
@@ -94,29 +224,93 @@
         
       }
     ]
-},
+  },
+{
+    "name": "H.B.",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/affin/H.B._base.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "",
+        "codes": "H.B._2"
+        
+      },
+      {
+        "img": "",
+        "codes": "H.B._3"
+        
+      },
+      {
+        "img": "",
+        "codes": "H.B._4"
+        
+      },
+      {
+        "img": "",
+        "codes": "H.B._5"
+        
+      }
+    ]
+  },
+{
+    "name": "Hope",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/affin/Hope_base.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "",
+        "codes": "Hope_2"
+        
+      },
+      {
+        "img": "",
+        "codes": "Hope_3"
+        
+      },
+      {
+        "img": "",
+        "codes": "Hope_4"
+        
+      },
+      {
+        "img": "",
+        "codes": "Hope_5"
+        
+      }
+    ]
+  },
 {
     "name": "Irina",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/items/progressive.png",
+        "img": "images/affin/Irina_base.png",
         "img_mods": "@disabled"
         
       },
       {
-        "img": "images/items/progressive_2.png",
+        "img": "",
         "codes": "Irina_2"
         
       },
       {
-        "img": "images/items/progressive_3.png",
+        "img": "",
         "codes": "Irina_3"
         
       },
       {
-        "img": "images/items/progressive_3.png",
+        "img": "",
         "codes": "Irina_4"
         
       },
@@ -126,29 +320,29 @@
         
       }
     ]
-},
+  },
 {
     "name": "L",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/items/progressive.png",
+        "img": "images/affin/L_base.png",
         "img_mods": "@disabled"
         
       },
       {
-        "img": "images/items/progressive_2.png",
+        "img": "",
         "codes": "L_2"
         
       },
       {
-        "img": "images/items/progressive_3.png",
+        "img": "",
         "codes": "L_3"
         
       },
       {
-        "img": "images/items/progressive_4.png",
+        "img": "",
         "codes": "L_4"
         
       },
@@ -158,29 +352,29 @@
         
       }
     ]
-},
+  },
 {
     "name": "Lao",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/items/progressive.png",
+        "img": "images/affin/Lao_base.png",
         "img_mods": "@disabled"
         
       },
       {
-        "img": "images/items/progressive_2.png",
+        "img": "",
         "codes": "Lao_2"
         
       },
       {
-        "img": "images/items/progressive_3.png",
+        "img": "",
         "codes": "Lao_3"
         
       },
       {
-        "img": "images/items/progressive_4.png",
+        "img": "",
         "codes": "Lao_4"
         
       },
@@ -190,29 +384,29 @@
         
       }
     ]
-},
+  },
 {
     "name": "Lin",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/affin/Lin_max.png",
+        "img": "images/affin/Lin_base.png",
         "img_mods": "@disabled"
         
       },
       {
-        "img": "images/items/progressive_2.png",
+        "img": "",
         "codes": "Lin_2"
         
       },
       {
-        "img": "images/items/progressive_3.png",
+        "img": "",
         "codes": "Lin_3"
         
       },
       {
-        "img": "images/items/progressive_3.png",
+        "img": "",
         "codes": "Lin_4"
         
       },
@@ -222,5 +416,197 @@
         
       }
     ]
-}
+  },
+{
+    "name": "Mia",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/affin/Mia_base.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "",
+        "codes": "Mia_2"
+        
+      },
+      {
+        "img": "",
+        "codes": "Mia_3"
+        
+      },
+      {
+        "img": "",
+        "codes": "Mia_4"
+        
+      },
+      {
+        "img": "",
+        "codes": "Mia_5"
+        
+      }
+    ]
+  },
+{
+    "name": "Murderess",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/affin/Murderess_base.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "",
+        "codes": "Murderess_2"
+        
+      },
+      {
+        "img": "",
+        "codes": "Murderess_3"
+        
+      },
+      {
+        "img": "",
+        "codes": "Murderess_4"
+        
+      },
+      {
+        "img": "",
+        "codes": "Murderess_5"
+        
+      }
+    ]
+  },
+{
+    "name": "Nagi",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/affin/Nagi_base.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "",
+        "codes": "Nagi_2"
+        
+      },
+      {
+        "img": "",
+        "codes": "Nagi_3"
+        
+      },
+      {
+        "img": "",
+        "codes": "Nagi_4"
+        
+      },
+      {
+        "img": "",
+        "codes": "Nagi_5"
+        
+      }
+    ]
+  },
+{
+    "name": "Phog",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/affin/Phog_base.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "",
+        "codes": "Phog_2"
+        
+      },
+      {
+        "img": "",
+        "codes": "Phog_3"
+        
+      },
+      {
+        "img": "",
+        "codes": "Phog_4"
+        
+      },
+      {
+        "img": "",
+        "codes": "Phog_5"
+        
+      }
+    ]
+  },
+{
+    "name": "Tatsu",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/affin/Tatsu_base.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "",
+        "codes": "Tatsu_2"
+        
+      },
+      {
+        "img": "",
+        "codes": "Tatsu_3"
+        
+      },
+      {
+        "img": "",
+        "codes": "Tatsu_4"
+        
+      },
+      {
+        "img": "",
+        "codes": "Tatsu_5"
+        
+      }
+    ]
+  },
+{
+    "name": "Yelv",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/affin/Yelv_base.png",
+        "img_mods": "@disabled"
+        
+      },
+      {
+        "img": "",
+        "codes": "Yelv_2"
+        
+      },
+      {
+        "img": "",
+        "codes": "Yelv_3"
+        
+      },
+      {
+        "img": "",
+        "codes": "Yelv_4"
+        
+      },
+      {
+        "img": "",
+        "codes": "Yelv_5"
+        
+      }
+    ]
+  }
 ]
