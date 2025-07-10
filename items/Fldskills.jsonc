@@ -5,23 +5,23 @@
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/classes/commando.png",
+        "img": "",
         "img_mods": "@enabled"
       },
       {
-        "img": "images/classes/crusader.png",
+        "img": "",
         "codes": "mech_2"
       },
       {
-        "img": "images/classes/commando.png",
+        "img": "",
         "codes": "mech_3"
       },
       {
-        "img": "images/classes/gunner.png",
+        "img": "",
         "codes": "mech_4"
       },
       {
-        "img": "images/fldskls/mech_5.png",
+        "img": "",
         "codes": "mech_5"
       }
     ]
@@ -32,23 +32,23 @@
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/classes/Drifter.png",
+        "img": "",
         "img_mods": "@enabled"
       },
       {
-        "img": "images/items/progressive_2.png",
+        "img": "",
         "codes": "bio_2"
       },
       {
-        "img": "images/items/progressive_3.png",
+        "img": "",
       "codes": "bio_3"
       },
       {
-        "img": "images/items/progressive_4.png",
+        "img": "",
       "codes": "bio_4"
       },
       {
-        "img": "images/items/progressive_4.png",
+        "img": "",
       "codes": "bio_5"
       }
 
@@ -61,23 +61,23 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/items/progressive.png",
+        "img": "",
         "img_mods": "@enabled"
       },
       {
-        "img": "images/items/progressive_2.png",
+        "img": "",
         "codes": "geo_2"
       },
       {
-        "img": "images/items/progressive_3.png",
+        "img": "",
         "codes": "geo_3"
       },
       {
-        "img": "images/items/progressive_3.png",
+        "img": "",
         "codes": "geo_4"
       },
       {
-        "img": "images/items/progressive_4.png",
+        "img": "",
         "codes": "geo_5"
       }
     ]
