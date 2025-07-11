@@ -17,9 +17,9 @@
             "h_alignment": "center",
             "item_size":50,
             "rows": [
-              ["Key_MMap","Key_Blade"],
-              ["Key_Skell","Key_Overdrive"],
-              ["Key_Flight"]
+              ["key:fnet","key:bladelicense"],
+              ["key:skelllicense","key:flightmodule"],
+              ["key:overdrive"]
             ]
           }
         ]
