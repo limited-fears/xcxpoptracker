@@ -19,6 +19,6 @@ Still having trouble realizing your pack and looking for help or just want more 
 
 Feel free to use this template without credit for all your PopTracker packs!
 
-#this is a pop tracker for the game xenoblade chronicles X
+# this is a pop tracker for the game xenoblade chronicles X
 
 if you have any suggestions or find any issues feel free to send a message on discord 
