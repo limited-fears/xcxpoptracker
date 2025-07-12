@@ -61,7 +61,7 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "",
+        "img": "images/items/Geo.png",
         "img_mods": "@enabled"
       },
       {
