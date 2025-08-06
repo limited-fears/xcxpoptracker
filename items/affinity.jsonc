@@ -1,612 +1,195 @@
 [ 
   {
-    "name": "Alexa",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/Alexa_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "Alexa_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "Alexa_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "Alexa_4"
-        
-      },
-      {
-        "img": "",
-        "codes": "Alexa_5"
-        
-      }
-    ]
+      "name": "Alexa",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Alexa.png",
+  "overlay_background": "#000",
+    "codes": "Alexa"
+
 },
 {
-    "name": "Boze",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/Boze_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "Boze_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "Boze_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "Boze_4"
-        
-      },
-      {
-        "img": "",
-        "codes": "Boze_5"
-        
-      }
-    ]
+  "name": "Boze",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Boze.png",
+  "overlay_background": "#000",
+    "codes": "Boze"
 },
 {
-    "name": "Celica",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/Celica_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "Celica_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "Celica_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "Celica_4"
-        
-      },
-      {
-        "img": "",
-        "codes": "Celica_5"
-        
-      }
-    ]
+   "name": "Celica",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Celica.png",
+  "overlay_background": "#000",
+    "codes": "Celica"
 },
   {
-    "name": "Doug",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/Doug_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "Doug_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "Doug_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "Doug_4"
-        
-      },
-      {
-        "img": "",
-        "codes": "Doug_5"
-        
-      }
-    ]
+      "name": "Doug",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Doug.png",
+  "overlay_background": "#000",
+    "codes": "Doug"
   },
 
 {
-    "name": "Elma",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/elma_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "Elma_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "Elma_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "Elma_4"
-        
-      },
-      {
-        "img": "images/affin/elma_max.png",
-        "codes": "Elma_5"
-        
-      }
-    ]
+   "name": "elma",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/elma.png",
+  "overlay_background": "#000",
+    "codes": "elma"
   },
 {
-    "name": "Frye",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/Frye_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "Frye_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "Frye_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "Frye_4"
-        
-      },
-      {
-        "img": "",
-        "codes": "Frye_5"
-        
-      }
-    ]
+     "name": "Frye",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Frye.png",
+  "overlay_background": "#000",
+    "codes": "Frye"
 },
 
 {
-    "name": "Gwin",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/gwin_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "Gwin_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "Gwin_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "Gwin_4"
-        
-      },
-      {
-        "img": "images/affin/Gwin_max.png",
-        "codes": "Gwin_5"
-        
-      }
-    ]
+  "name": "gwin",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/gwin.png",
+  "overlay_background": "#000",
+    "codes": "gwin"
   },
 {
     "name": "H.B.",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/H.B._base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "H.B._2"
-        
-      },
-      {
-        "img": "",
-        "codes": "H.B._3"
-        
-      },
-      {
-        "img": "",
-        "codes": "H.B._4"
-        
-      },
-      {
-        "img": "",
-        "codes": "H.B._5"
-        
-      }
-    ]
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+  "img": "images/affin/H.B..png",
+  "overlay_background": "#000",
+    "codes": "H.B."
   },
 {
     "name": "Hope",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/Hope_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "Hope_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "Hope_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "Hope_4"
-        
-      },
-      {
-        "img": "",
-        "codes": "Hope_5"
-        
-      }
-    ]
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Hope.png",
+  "overlay_background": "#000",
+    "codes": "Hope"
   },
 {
     "name": "Irina",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/Irina_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "Irina_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "Irina_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "Irina_4"
-        
-      },
-      {
-        "img": "images/affin/Irina_max.png",
-        "codes": "Irina_5"
-        
-      }
-    ]
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Irina.png",
+  "overlay_background": "#000",
+    "codes": "Irina"
   },
 {
     "name": "L",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/L_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "L_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "L_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "L_4"
-        
-      },
-      {
-        "img": "images/affin/L_max.png",
-        "codes": "L_5"
-        
-      }
-    ]
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/L.png",
+  "overlay_background": "#000",
+    "codes": "L"
   },
 {
     "name": "Lao",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/Lao_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "Lao_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "Lao_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "Lao_4"
-        
-      },
-      {
-        "img": "images/affin/lao_max.png",
-        "codes": "Lao_5"
-        
-      }
-    ]
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Lao.png",
+  "overlay_background": "#000",
+    "codes": "Lao"
   },
 {
     "name": "Lin",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/Lin_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "Lin_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "Lin_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "Lin_4"
-        
-      },
-      {
-        "img": "images/affin/Lin_max.png",
-        "codes": "Lin_5"
-        
-      }
-    ]
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Lin.png",
+  "overlay_background": "#000",
+    "codes": "Lin"
   },
 {
     "name": "Mia",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/Mia_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "Mia_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "Mia_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "Mia_4"
-        
-      },
-      {
-        "img": "",
-        "codes": "Mia_5"
-        
-      }
-    ]
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Mia.png",
+  "overlay_background": "#000",
+    "codes": "Mia"
   },
 {
     "name": "Murderess",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/Murderess_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "Murderess_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "Murderess_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "Murderess_4"
-        
-      },
-      {
-        "img": "",
-        "codes": "Murderess_5"
-        
-      }
-    ]
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Murderess.png",
+  "overlay_background": "#000",
+    "codes": "Murderess"
   },
 {
     "name": "Nagi",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/Nagi_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "Nagi_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "Nagi_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "Nagi_4"
-        
-      },
-      {
-        "img": "",
-        "codes": "Nagi_5"
-        
-      }
-    ]
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Nagi.png",
+  "overlay_background": "#000",
+    "codes": "Nagi"
   },
 {
     "name": "Phog",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/Phog_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "Phog_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "Phog_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "Phog_4"
-        
-      },
-      {
-        "img": "",
-        "codes": "Phog_5"
-        
-      }
-    ]
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Phog.png",
+  "overlay_background": "#000",
+    "codes": "Phog"
   },
 {
     "name": "Tatsu",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/Tatsu_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "Tatsu_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "Tatsu_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "Tatsu_4"
-        
-      },
-      {
-        "img": "",
-        "codes": "Tatsu_5"
-        
-      }
-    ]
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Tatsu.png",
+  "overlay_background": "#000",
+    "codes": "Tatsu"
   },
 {
     "name": "Yelv",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "images/affin/Yelv_base.png",
-        "img_mods": "@disabled"
-        
-      },
-      {
-        "img": "",
-        "codes": "Yelv_2"
-        
-      },
-      {
-        "img": "",
-        "codes": "Yelv_3"
-        
-      },
-      {
-        "img": "",
-        "codes": "Yelv_4"
-        
-      },
-      {
-        "img": "",
-        "codes": "Yelv_5"
-        
-      }
-    ]
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Yelv.png",
+  "overlay_background": "#000",
+    "codes": "Yelv"
   }
 ]

@@ -6,30 +6,30 @@
     "name": "Skell Licence",
     "type": "toggle",
     "img": "images/items/complete.png",
-    "codes": "key:skelllicense"
+    "codes": "skelllicense"
   },
   {
     "name": "Flight Module",
     "type": "toggle",
     "img": "images/items/complete.png",
-    "codes": "key:flightmodule"
+    "codes": "flightmodule"
   },
   {
     "name": "Overdrive",
     "type": "toggle",
     "img": "images/items/complete.png",
-    "codes": "key:overdrive"
+    "codes": "overdrive"
   },
   {
     "name": "Mini Map",
     "type": "toggle",
     "img": "images/items/complete.png",
-    "codes": "key:fnet"
+    "codes": "fnet"
   },
   {
     "name": "Blade License",
     "type": "toggle",
     "img": "images/items/complete.png",
-    "codes": "key:bladelicense"
+    "codes": "bladelicense"
   }
 ]

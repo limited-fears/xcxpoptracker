@@ -1,85 +1,33 @@
 [
   {
-    "name": "mechanical",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "",
-        "img_mods": "@enabled"
-      },
-      {
-        "img": "",
-        "codes": "mech_2"
-      },
-      {
-        "img": "",
-        "codes": "mech_3"
-      },
-      {
-        "img": "",
-        "codes": "mech_4"
-      },
-      {
-        "img": "",
-        "codes": "mech_5"
-      }
-    ]
+    "name": "Mechanical",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/items/Mech.png",
+  "overlay_background": "#000",
+    "codes": "mechanical"
   },
   {
-    "name": "biological",
-    "type": "progressive",
-    "allow_disabled": false,
-    "stages": [
-      {
-        "img": "",
-        "img_mods": "@enabled"
-      },
-      {
-        "img": "",
-        "codes": "bio_2"
-      },
-      {
-        "img": "",
-      "codes": "bio_3"
-      },
-      {
-        "img": "",
-      "codes": "bio_4"
-      },
-      {
-        "img": "",
-      "codes": "bio_5"
-      }
+  "name": "Biological",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/items/Bio.png",
+  "overlay_background": "#000",
+    "codes": "biological"
 
-    ]
   },
   {
-    "name": "geological",
-    "type": "progressive",
-    "allow_disabled": false,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/Geo.png",
-        "img_mods": "@enabled"
-      },
-      {
-        "img": "",
-        "codes": "geo_2"
-      },
-      {
-        "img": "",
-        "codes": "geo_3"
-      },
-      {
-        "img": "",
-        "codes": "geo_4"
-      },
-      {
-        "img": "",
-        "codes": "geo_5"
-      }
-    ]
+  "name": "Archeological",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/items/Arch.png",
+  "overlay_background": "#000",
+    "codes": "archeological"
   }
 ]
