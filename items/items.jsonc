@@ -5,19 +5,19 @@
   {
     "name": "Skell Licence",
     "type": "toggle",
-    "img": "images/items/complete.png",
+    "img": "images/items/skell.png",
     "codes": "skelllicense"
   },
   {
     "name": "Flight Module",
     "type": "toggle",
-    "img": "images/items/complete.png",
+    "img": "images/items/Flight-Pack-01.png",
     "codes": "flightmodule"
   },
   {
     "name": "Overdrive",
     "type": "toggle",
-    "img": "images/items/complete.png",
+    "img": "images/items/overdrive.png",
     "codes": "overdrive"
   },
   {
