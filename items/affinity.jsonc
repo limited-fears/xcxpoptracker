@@ -1,29 +1,195 @@
-[ {
+[ 
+  {
+      "name": "Alexa",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Alexa.png",
+  "overlay_background": "#000",
+    "codes": "Alexa"
+
+},
+{
+  "name": "Boze",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Boze.png",
+  "overlay_background": "#000",
+    "codes": "Boze"
+},
+{
+   "name": "Celica",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Celica.png",
+  "overlay_background": "#000",
+    "codes": "Celica"
+},
+  {
+      "name": "Doug",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Doug.png",
+  "overlay_background": "#000",
+    "codes": "Doug"
+  },
+
+{
+   "name": "elma",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/elma.png",
+  "overlay_background": "#000",
+    "codes": "elma"
+  },
+{
+     "name": "Frye",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Frye.png",
+  "overlay_background": "#000",
+    "codes": "Frye"
+},
+
+{
+  "name": "gwin",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/gwin.png",
+  "overlay_background": "#000",
+    "codes": "gwin"
+  },
+{
+    "name": "H.B.",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+  "img": "images/affin/H.B..png",
+  "overlay_background": "#000",
+    "codes": "H.B."
+  },
+{
+    "name": "Hope",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Hope.png",
+  "overlay_background": "#000",
+    "codes": "Hope"
+  },
+{
+    "name": "Irina",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Irina.png",
+  "overlay_background": "#000",
+    "codes": "Irina"
+  },
+{
     "name": "L",
-    "type": "progressive",
-    "allow_disabled": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/progressive.png",
-        "codes": "Affin_L",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_2.png",
-        "codes": "Affin_L_2",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_3.png",
-        "codes": "Affin_L_3",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_4.png",
-        "codes": "Affin_L_4",
-        "inherit_codes": false
-      }
-    ]
-}
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/L.png",
+  "overlay_background": "#000",
+    "codes": "L"
+  },
+{
+    "name": "Lao",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Lao.png",
+  "overlay_background": "#000",
+    "codes": "Lao"
+  },
+{
+    "name": "Lin",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Lin.png",
+  "overlay_background": "#000",
+    "codes": "Lin"
+  },
+{
+    "name": "Mia",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Mia.png",
+  "overlay_background": "#000",
+    "codes": "Mia"
+  },
+{
+    "name": "Murderess",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Murderess.png",
+  "overlay_background": "#000",
+    "codes": "Murderess"
+  },
+{
+    "name": "Nagi",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Nagi.png",
+  "overlay_background": "#000",
+    "codes": "Nagi"
+  },
+{
+    "name": "Phog",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Phog.png",
+  "overlay_background": "#000",
+    "codes": "Phog"
+  },
+{
+    "name": "Tatsu",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Tatsu.png",
+  "overlay_background": "#000",
+    "codes": "Tatsu"
+  },
+{
+    "name": "Yelv",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/affin/Yelv.png",
+  "overlay_background": "#000",
+    "codes": "Yelv"
+  }
 ]

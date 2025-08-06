@@ -25,18 +25,35 @@ ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlusWrapper.lua")
 
 -- Items
 Tracker:AddItems("items/items.jsonc")
+Tracker:AddItems("items/affinity.jsonc")
+Tracker:AddItems("items/classes.jsonc")
+Tracker:AddItems("items/Fldskills.jsonc")
+Tracker:AddItems("items/enemies.jsonc")
 
 if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     -- Maps
     Tracker:AddMaps("maps/maps.jsonc")
     -- Locations
     Tracker:AddLocations("locations/locations.jsonc")
+    Tracker:AddLocations("locations/barracks/barracks.jsonc")
+    Tracker:AddLocations("locations/Manon Ship/manonship.jsonc")
+    Tracker:AddLocations("locations/Cauldros/cauldros.jsonc")
+    Tracker:AddLocations("locations/NLA/nla.jsonc")
+    Tracker:AddLocations("locations/Noctilum/noctilum.jsonc")
+    Tracker:AddLocations("locations/Oblivia/oblivia.jsonc")
+    Tracker:AddLocations("locations/Primordia/primordia.jsonc")
+    Tracker:AddLocations("locations/Sylum/sylum.jsonc")
+    Tracker:AddLocations("locations/World Map/worldmap.jsonc")
 end
 
 -- Layout
 Tracker:AddLayouts("layouts/items.jsonc")
 Tracker:AddLayouts("layouts/tracker.jsonc")
 Tracker:AddLayouts("layouts/broadcast.jsonc")
+Tracker:AddLayouts("layouts/maps.jsonc")
+Tracker:AddLayouts("layouts/classes.jsonc")
+Tracker:AddLayouts("layouts/fldskills.jsonc")
+Tracker:AddLayouts("layouts/affinity.jsonc")
 
 -- AutoTracking for Poptracker
 if PopVersion and PopVersion >= "0.18.0" then

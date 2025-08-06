@@ -1,28 +1,25 @@
 {
   // sets layouts for shadred items grids
   // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
-  "Key_grid": {
+  "Keys": {
     "type": "array",
-    "orientation": "vertical",
+    "orientation": "horizontal",
     "margin": "0,0",
     "content": [
       {
         "type": "array",
-        "orientation": "horizontal",
-        "margin": "0,0",
+        "orientation": "vertical",
         "content": [
           {
             "type": "itemgrid",
-            "item_margin": "5, 5",
-            "h_alignment": "left",
+            "item_margin": "3, 3",
+            "v_alignment": "center",
+            "h_alignment": "center",
+            "item_size":50,
             "rows": [
-              [
-                "Key_MMap",
-                "Key_Blade",
-                "Key_Skell",
-                "Key_Overdrive",
-                "Key_Flight"
-              ]
+              ["key:fnet","key:bladelicense"],
+              ["key:skelllicense","key:flightmodule"],
+              ["key:overdrive"]
             ]
           }
         ]

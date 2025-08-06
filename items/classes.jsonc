@@ -1,95 +1,96 @@
- //classes
+ 
 [
+  //classes
   {
     "name": "Drifter",
     "type": "toggle",
     "img": "images/classes/Drifter.png",
-    "codes": "class_Drfter"
+    "codes": "drifter"
   },
   {
     "name": "Striker",
     "type": "toggle",
     "img": "images/classes/Striker.png",
-    "codes": "class_Striker"
+    "codes": "striker"
   },
   {
     "name": "Samurai Gunner",
     "type": "toggle",
     "img": "images/classes/Gunner.png",
-    "codes": "class_Gunner"
+    "codes": "samuraigunner"
   },
   {
     "name": "Duelist",
     "type": "toggle",
     "img": "images/classes/Duelist.png",
-    "codes": "class_Duelist"
+    "codes": "Duelist"
   },
   {
     "name": "Sheild Trooper",
     "type": "toggle",
     "img": "images/classes/Trooper.png",
-    "codes": "class_Trooper"
+    "codes": "Shield Trooper"
   },
   {
     "name": "Bastion Warrior",
     "type": "toggle",
-    "img": "images/classes/Warrior.png",
-    "codes": "class_Bastion"
+    "img": "images/classes/warrior.png",
+    "codes": "Bastion Warrior"
   },
   {
     "name": "Commando",
     "type": "toggle",
     "img": "images/classes/commando.png",
-    "codes": "class_Commando"
+    "codes": "Commando"
   },
   {
     "name": "Winged Viper",
     "type": "toggle",
     "img": "images/classes/Viper.png",
-    "codes": "class_Viper"
+    "codes": "Winged Viper"
   },
   {
     "name": "Full Metal Jaguar",
     "type": "toggle",
     "img": "images/classes/Jaguar.png",
-    "codes": "class_Jaguar"
+    "codes": "Full Metal Jaguar"
   },
   {
     "name": "Partisan Eagle",
     "type": "toggle",
     "img": "images/classes/Eagle.png",
-    "codes": "class_Eagle"
+    "codes": "Partisan Eagle"
   },
   {
     "name": "Astral Crusader",
     "type": "toggle",
     "img": "images/classes/Crusader.png",
-    "codes": "class_Crusader"
+    "codes": "Astral Crusader"
   },
   {
     "name": "Enforcer",
     "type": "toggle",
     "img": "images/classes/Enforcer.png",
-    "codes": "class_Enforcer"
+    "codes": "Enforcer"
   },{
     "name": "Psycorruptor",
     "type": "toggle",
-    "img": "images/classes/Psycorruptor.png",
-    "codes": "class_Psycorruptor"
+    "img": "images/classes/Psy.png",
+    "codes": "Psycorruptor"
   },{
     "name": "Mastermind",
     "type": "toggle",
     "img": "images/classes/Mastermind.png",
-    "codes": "class_Mastermind"
+    "codes": "Mastermind"
   },{
     "name": "Blast Fencer",
     "type": "toggle",
     "img": "images/classes/Fencer.png",
-    "codes": "class_Fencer"
+    "codes": "Blast Fencer"
   },{
     "name": "Galactic Knight",
     "type": "toggle",
     "img": "images/classes/Knight.png",
-    "codes": "class_Knight"
+    "codes": "Galactic Knight"
   }
 ]

@@ -1,86 +1,33 @@
 [
   {
-    "name": "mechanical",
-    "type": "progressive",
-    "allow_disabled": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/progressive.png",
-        "codes": "Mech",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_2.png",
-        "codes": "Mech_2",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_3.png",
-        "codes": "Mech_3",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_4.png",
-        "codes": "Mech_4",
-        "inherit_codes": false
-      }
-    ]
+    "name": "Mechanical",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/items/Mech.png",
+  "overlay_background": "#000",
+    "codes": "mechanical"
   },
   {
-    "name": "biological",
-    "type": "progressive",
-    "allow_disabled": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/progressive.png",
-        "codes": "Bio",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_2.png",
-        "codes": "Bio_2",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_3.png",
-        "codes": "Bio_3",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_4.png",
-        "codes": "Bio_4",
-        "inherit_codes": false
-      }
-    ]
+  "name": "Biological",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/items/Bio.png",
+  "overlay_background": "#000",
+    "codes": "biological"
+
   },
   {
-    "name": "geological",
-    "type": "progressive",
-    "allow_disabled": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/progressive.png",
-        "codes": "Geo",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_2.png",
-        "codes": "Geo_2",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_3.png",
-        "codes": "Geo_3",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_4.png",
-        "codes": "Geo_4",
-        "inherit_codes": false
-      }
-    ]
+  "name": "Archeological",
+	"type": "consumable",
+  "max_quantity": 5,
+  "increment": 1,
+	"allow_disabled": false,
+	"img": "images/items/Arch.png",
+  "overlay_background": "#000",
+    "codes": "archeological"
   }
 ]

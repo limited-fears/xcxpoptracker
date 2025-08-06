@@ -1,0 +1,31 @@
+[{
+		"name": "Oblivia",
+		"children":[
+			{
+				"name": "Ch_1",
+				"access_rules": [
+        ],
+				"sections":[
+				    {
+                    "name": "Oblivia Sec1",
+                    "item_count": 1
+                    }
+                ],
+				"map_locations": [
+					{				
+						"map": "Obl",
+						"x": 24,
+						"y": 24,
+						"size": 10
+					}
+				]
+			}
+		]
+						
+	}
+	]
+
+
+	///
+	///				"chest_unopened_img": "images/items/incomplete.png",
+    ///     			"chest_opened_img": "images/items/complete.png"},

@@ -1,0 +1,30 @@
+[{
+    "name": "Manon Ship",
+    "children": [
+      {
+        "name": "Ship check",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Ship Sec1",
+            "item_count": 1
+          },
+          {
+            "name": "Ship Sec2",
+            "item_count": 2
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MnShp",
+            "x": 10,
+            "y": 10,
+            "size": 10
+          }
+        ]
+      }
+      
+    ]
+  }
+]
