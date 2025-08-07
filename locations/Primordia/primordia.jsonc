@@ -2,20 +2,48 @@
 		"name": "Primordia",
 		"children":[
 			{
-				"name": "Ch_1",
+				"name": "FN Site 113",
 				"access_rules": [
         ],
 				"sections":[
 				    {
-                    "name": "Prm Sec1",
+                    "name": "FN Node 113",
+                    "item_count": 1
+                    },
+
+					{
+                    "name": "Check 2",
                     "item_count": 1
                     }
                 ],
 				"map_locations": [
 					{				
 						"map": "Prm",
-						"x": 24,
-						"y": 24,
+						"x": 124,
+						"y": 156,
+						"size": 10
+					}
+				]
+			},
+			{
+				"name": "Daril, the Eradicator Site",
+				"access_rules": [
+		],
+				"sections":[
+					{
+					"name": "SEG: Daril, the Eradicator - Prim: Castaway Cavern - Tyrant - Nighttime",
+					"item_count": 1
+					},
+					{
+					"name": "EBK: Daril, the Eradicator - Prim: Castaway Cavern - Nighttime",
+					"item_count": 1
+					}
+				],
+				"map_locations":[
+					{				
+						"map": "Prm",
+						"x": 130,
+						"y": 170,
 						"size": 10
 					}
 				]
