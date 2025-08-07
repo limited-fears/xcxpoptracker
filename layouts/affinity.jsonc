@@ -17,11 +17,8 @@
             "item_v_alignment": "center",
             "item_size":50,
             "rows": [
-              ["Alexa","Boze","Celica","Doug"],
-              ["Elma","Frye","Gwin","H.B."],
-              ["Hope","Irina","L","Lao"],
-              ["Lin","Mia","Murderess","Nagi"],
-              ["Phog","Tatsu","Yelv"]
+              ["Alexa","Boze","Celica","Doug","Elma","Frye","Gwin","H.B.","Hope","Irina"],
+              ["L","Lao","Lin","Mia","Murderess","Nagi","Phog","Tatsu","Yelv"]
             ]
           }
         ]
