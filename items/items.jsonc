@@ -5,13 +5,13 @@
   {
     "name": "Skell Licence",
     "type": "toggle",
-    "img": "images/items/skell.png",
+    "img": "images/items/complete.png",
     "codes": "skelllicense"
   },
   {
     "name": "Flight Module",
     "type": "toggle",
-    "img": "images/items/Flight-Pack-01.png",
+    "img": "images/items/complete.png",
     "codes": "flightmodule"
   },
   {
