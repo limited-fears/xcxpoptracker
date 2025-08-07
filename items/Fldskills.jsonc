@@ -2,6 +2,7 @@
   {
     "name": "Mechanical",
 	"type": "consumable",
+  "min_quantity":1,
   "max_quantity": 5,
   "increment": 1,
 	"allow_disabled": false,
@@ -12,6 +13,7 @@
   {
   "name": "Biological",
 	"type": "consumable",
+  "min_quantity":1,
   "max_quantity": 5,
   "increment": 1,
 	"allow_disabled": false,
@@ -23,6 +25,7 @@
   {
   "name": "Archeological",
 	"type": "consumable",
+  "min_quantity":1,
   "max_quantity": 5,
   "increment": 1,
 	"allow_disabled": false,

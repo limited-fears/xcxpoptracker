@@ -1430,7 +1430,7 @@ LOCATION_MAPPING = {
 	[4101703] = {"@EBK/Marnuck Windtrooper/Prim/Castaway Cavern/Nighttime"},
 
 	--nodes
-
+--primordia
 	[4101704] = {"@FNO/FN Node 101/Prim"},
 	[4101705] = {"@FNO/FN Node 102/Prim"},
 	[4101706] = {"@FNO/FN Node 103/Prim"},
@@ -1452,6 +1452,7 @@ LOCATION_MAPPING = {
 	[4101722] = {"@FNO/FN Node 120/Prim"},
 	[4101723] = {"@FNO/FN Node 121/Prim"},
 	[4101724] = {"@FNO/FN Node 105/Prim"},
+	--noctilum
 	[4101725] = {"@FNO/FN Node 201/Noct"},
 	[4101726] = {"@FNO/FN Node 202/Noct"},
 	[4101727] = {"@FNO/FN Node 203/Noct"},
@@ -1477,6 +1478,7 @@ LOCATION_MAPPING = {
 	[4101747] = {"@FNO/FN Node 223/Noct"},
 	[4101748] = {"@FNO/FN Node 224/Noct"},
 	[4101749] = {"@FNO/FN Node 225/Noct"},
+	--oblivia
 	[4101752] = {"@FNO/FN Node 301/Obli"},
 	[4101753] = {"@FNO/FN Node 302/Obli"},
 	[4101754] = {"@FNO/FN Node 303/Obli"},
@@ -1499,6 +1501,7 @@ LOCATION_MAPPING = {
 	[4101771] = {"@FNO/FN Node 321/Obli"},
 	[4101772] = {"@FNO/FN Node 319/Obli"},
 	[4101773] = {"@FNO/FN Node 322/Obli"},
+	--sylvum
 	[4101777] = {"@FNO/FN Node 401/Sylv"},
 	[4101778] = {"@FNO/FN Node 402/Sylv"},
 	[4101779] = {"@FNO/FN Node 403/Sylv"},
@@ -1519,6 +1522,7 @@ LOCATION_MAPPING = {
 	[4101794] = {"@FNO/FN Node 418/Sylv"},
 	[4101795] = {"@FNO/FN Node 419/Sylv"},
 	[4101796] = {"@FNO/FN Node 420/Sylv"},
+	--caul
 	[4101797] = {"@FNO/FN Node 501/Caul"},
 	[4101798] = {"@FNO/FN Node 502/Caul"},
 	[4101799] = {"@FNO/FN Node 503/Caul"},
@@ -1538,6 +1542,7 @@ LOCATION_MAPPING = {
 
 	--segments
 
+	--indust
 	[4101813] = {"@SEG/Celica 5 H2H/Indu Dist/Test Hangar/Night"},
 	[4101814] = {"@SEG/Nagi 2 H2H/Indu Dist/Test Hangar/Morning"},
 	[4101815] = {"@SEG/The Gauntlet/Indu Dist/Test Hangar/Chp 12"},
@@ -1592,6 +1597,8 @@ LOCATION_MAPPING = {
 	[4101864] = {"@SEG/Gold Rush/Indu Dist/Central/Night/Chp 11"},
 	[4101865] = {"@SEG/Frye 1 H2H/Indu Dist/Repenta Diner"},
 	[4101866] = {"@SEG/Bottoms Up/Aff Mission/Night/Indu Dist/Repenta Diner/Chp 4"},
+
+	--comm
 	[4101867] = {"@SEG/Going Viral/Comm Dist/West Melville Street/Chp 7"},
 	[4101868] = {"@SEG/Gwin 5 H2H/Comm Dist/West Melville Street/Evening"},
 	[4101869] = {"@SEG/Alien Nation/Comm Dist/West Melville Street/Chp 7"},
@@ -1641,6 +1648,8 @@ LOCATION_MAPPING = {
 	[4101913] = {"@SEG/Hope 2 H2H/Comm Dist/East Melville Street/Evening"},
 	[4101914] = {"@SEG/A Dish Served Cold/Comm Dist/East Melville Street/Chp 11"},
 	[4101915] = {"@SEG/Elma 3 H2H/Comm Dist/East Melville Street/Morning"},
+
+	--manon
 	[4101916] = {"@SEG/Forbidden Love/Ma-non Ship/Port Side/Chp 8"},
 	[4101917] = {"@SEG/No-show Nenceleg/Ma-non Ship/Port Side/Chp 10"},
 	[4101918] = {"@SEG/Gorkwa Games/Ma-non Ship/Port Side/Chp 7"},
@@ -1664,6 +1673,8 @@ LOCATION_MAPPING = {
 	[4101936] = {"@SEG/The Art of War/Ma-non Ship/Starboard/Chp 8"},
 	[4101937] = {"@SEG/Slovitys Revenge/Ma-non Ship/Starboard/Chp 11"},
 	[4101938] = {"@SEG/The Party Line/Ma-non Ship/Starboard/Chp 12"},
+
+	--resi
 	[4101939] = {"@SEG/Phog 1 H2H/Resi Dist/Deliverance Park"},
 	[4101940] = {"@SEG/Circle of Life/Resi Dist/Deliverance Park/Chp 7"},
 	[4101941] = {"@SEG/Phog/Resi Dist/Deliverance Park"},
@@ -1724,6 +1735,8 @@ LOCATION_MAPPING = {
 	[4101996] = {"@SEG/A Fateful Choice/Resi Dist/Cathedral/Chp 12"},
 	[4101997] = {"@SEG/The Journey Begins/Resi Dist/Cathedral/Chp 7"},
 	[4101998] = {"@SEG/Hope 1 H2H/Resi Dist/Ishmael Hills"},
+
+	--admin
 	[4101999] = {"@SEG/The Duel II/Admi Dist/BLADE Tower/Chp 11"},
 	[4102000] = {"@SEG/Nagi/Admi Dist/BLADE Tower"},
 	[4102001] = {"@SEG/Cavern Crushers/Admi Dist/BLADE Tower/Chp 9"},
@@ -1788,6 +1801,8 @@ LOCATION_MAPPING = {
 	[4102060] = {"@SEG/Myles to Go/Admi Dist/East Gate/Chp 2"},
 	[4102061] = {"@SEG/Slovitys Rampage/Admi Dist/East Gate/Chp 10"},
 	[4102062] = {"@SEG/Blitzkrieg/Aff Mission/Admi Dist/East Gate/Phog 3 Frye 3/Chp 8"},
+
+	--prim
 	[4102063] = {"@SEG/Caesar, the Hundred-Eyed/Prim/Stonelattice Cavern/Tyrant"},
 	[4102064] = {"@SEG/Snipe Hunt/Prim/Bedrock Hold"},
 	[4102065] = {"@SEG/Skell Wreckage/Prim/Bedrock Hold/Mechanical 1"},
@@ -1854,6 +1869,8 @@ LOCATION_MAPPING = {
 	[4102126] = {"@SEG/Ji-ett, the Thunderclap/Prim//Tyrant/Nighttime"},
 	[4102127] = {"@SEG/Rajidi, the Cumuliform/Prim/Grieving Plains/Tyrant/Rarely"},
 	[4102128] = {"@SEG/Patrol Chopper Wreckage/Prim/West Gate Plains/Mechanical 4"},
+
+	--noct
 	[4102129] = {"@SEG/Strange Tree/Noct/Narcissus Tree/Biological 5"},
 	[4102130] = {"@SEG/Skell Wreckage/Noct/Sato Headwater/Mechanical 2"},
 	[4102131] = {"@SEG/A Fateful Choice/Noct/Divine Roost"},
@@ -1906,6 +1923,8 @@ LOCATION_MAPPING = {
 	[4102178] = {"@SEG/Skell Wreckage/Noct/Ensanguined Font/Mechanical 2"},
 	[4102179] = {"@SEG/Alien Container/Noct/Lakeview Stronghold/Archeological 4"},
 	[4102180] = {"@SEG/Data Miner/Noct/Potters Rock/Chp 3"},
+
+	--obliv
 	[4102181] = {"@SEG/White Whale Debris/Obli/Oblivia Ingress/Mechanical 4"},
 	[4102182] = {"@SEG/Melanya, the Sound Sleeper/Obli/Oblivia Ingress/Tyrant"},
 	[4102183] = {"@SEG/Sunceleg Rises/Obli/Stoyanov Trail"},
@@ -1979,6 +1998,8 @@ LOCATION_MAPPING = {
 	[4102251] = {"@SEG/The Trading Floor/Obli/Sea Whisper Valley/Chp 3"},
 	[4102252] = {"@SEG/Alien Container/Obli/Jair Fortress/Archeological 4"},
 	[4102253] = {"@SEG/Spy Games/Obli/Jair Fortress"},
+
+	--caul
 	[4102254] = {"@SEG/White Whale Debris/Caul/Far Isle of Tzuo/Mechanical 1"},
 	[4102255] = {"@SEG/Alien Reliquary/Caul/Scholes Battlegrounds/Archeological 2"},
 	[4102256] = {"@SEG/Supplies Surprise/Caul/Drongo Caravan/Chp 4"},
@@ -2038,6 +2059,8 @@ LOCATION_MAPPING = {
 	[4102310] = {"@SEG/Alien Reliquary/Caul/Old Ceremonial Hollow/Archeological 4"},
 	[4102311] = {"@SEG/Alien Wreckage/Caul/Mgando Gorge/Archeological 2"},
 	[4102312] = {"@SEG/Indigen Nest/Caul/Mount Mgando/Biological 3"},
+
+	--sylv
 	[4102313] = {"@SEG/Alien Container/Sylv/Shivering Sands/Archeological 4"},
 	[4102314] = {"@SEG/Yune, the Ambusher/Sylv/Seabirds Beak/Tyrant/Rarely"},
 	[4102315] = {"@SEG/Strange Petrified Tree/Sylv/Seabirds Beak/Biological 3"},
@@ -2110,6 +2133,8 @@ LOCATION_MAPPING = {
 	[4102382] = {"@SEG/The Sword of Legendaryness/Sylv/Behemoths Shadows"},
 	[4102383] = {"@SEG/Alien Container/Sylv/Southern Searoad/Archeological 2"},
 	[4102384] = {"@SEG/Oc-serv, the Ancient/Sylv/Sylvalum Searoad/Tyrant"},
+
+	--blade barracks
 	[4102385] = {"@SEG/The Repair Job/Aff Mission/BLADE Barracks/Lin 1/Chp 3"},
 	[4102386] = {"@SEG/Lin/BLADE Barracks"},
 	[4102387] = {"@SEG/A Day in the Life/Aff Mission/BLADE Barracks/Chp 4"},
