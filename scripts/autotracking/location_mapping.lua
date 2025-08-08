@@ -1559,7 +1559,7 @@ LOCATION_MAPPING = {
 	[4101811] = {"@FNO/FN Node 515/Caul"},
 	[4101812] = {"@FNO/FN Node 516/Caul"},
 
-	--segments
+--segments
 
 	--indust
 	[4101813] = {"@SEG/Celica 5 H2H/Indu Dist/Test Hangar/Night"},
@@ -2562,6 +2562,9 @@ LOCATION_MAPPING = {
 	[4102788] = {"@LOC/FN Site 514"},
 	[4102789] = {"@LOC/FN Site 515"},
 	[4102790] = {"@LOC/FN Site 516"},
+
+	--base camps
+
 	[4102791] = {"@LOC/Shadow Rise BC"},
 	[4102792] = {"@LOC/Shadow Beach BC"},
 	[4102793] = {"@LOC/East Gate BC"},
@@ -2602,6 +2605,8 @@ LOCATION_MAPPING = {
 	[4102836] = {"@LOC/Samuel Incline BC"},
 	[4102837] = {"@LOC/North Silent Sandsea BC"},
 	[4102838] = {"@LOC/Cauldros Threshold BC"},
+
+	-- final mission?
 	[4102841] = {"@LOC/NLA Last Defense Line"},
 	[4102842] = {"@LOC/NLA Primary Defense Line"},
 	[4102843] = {"@LOC/Zu Pharg Interception Line"},
