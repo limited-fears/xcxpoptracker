@@ -1632,12 +1632,15 @@ LOCATION_MAPPING = {
 	[4101843] = {"@Indu Dist/SEG/Container/Production Plant/Mechanical 3"},	
 	[4101849] = {"@Indu Dist/SEG/Rise of the Blood Lobster/Test Hangar/Chp 3"},	
 
-
+	--char
 	[4101821] = {"@Indu Dist/SEG/Celica"},
-	[4101825] = {"@Indu Dist/SEG/Alien Wreckage/Test Hangar/Archeological 2"},
 	[4101855] = {"@Indu Dist/SEG/Alexa/Test Hangar"},
 	[4101859] = {"@Indu Dist/SEG/Horonalderon/Aff Shift"},
 	[4101860] = {"@Indu Dist/SEG/Frye/Repenta Diner"},
+
+	--arc
+	[4101825] = {"@Indu Dist/SEG/Alien Wreckage/Test Hangar/Archeological 2"},
+
 
 
 
@@ -2218,7 +2221,7 @@ LOCATION_MAPPING = {
 
 
 
-	--locations
+--locations
 	
 	[4102401] = {"@LOC/Barracks Interior"},
 	[4102402] = {"@LOC/Interior"},
