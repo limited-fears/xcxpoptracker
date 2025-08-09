@@ -1562,60 +1562,84 @@ LOCATION_MAPPING = {
 --segments
 
 	--indust
-	[4101813] = {"@SEG/Celica 5 H2H/Indu Dist/Test Hangar/Night"},
-	[4101814] = {"@SEG/Nagi 2 H2H/Indu Dist/Test Hangar/Morning"},
-	[4101815] = {"@SEG/The Gauntlet/Indu Dist/Test Hangar/Chp 12"},
-	[4101816] = {"@SEG/Two Warriors/Indu Dist/Test Hangar/Night/Chp 11"},
-	[4101817] = {"@SEG/Data Probe Challenge/Indu Dist/Test Hangar/Chp 8"},
-	[4101818] = {"@SEG/Good Fortun/Indu Dist/Central/Chp 10"},
-	[4101819] = {"@SEG/Celica 4 H2H/Indu Dist/Production Plant"},
-	[4101820] = {"@SEG/New in New LA/Indu Dist/Production Plant/Chp 9"},
-	[4101821] = {"@SEG/Celica/Indu Dist/Production Plant"},
-	[4101822] = {"@SEG/Yardleys Scheme/Indu Dist/Test Hangar/Chp 3"},
-	[4101823] = {"@SEG/Off the Record Biological/Indu Dist/Test Hangar/Chp 3"},
-	[4101824] = {"@SEG/Boot Camp/Indu Dist/Test Hangar/Gwin 1/Chp 10"},
-	[4101825] = {"@SEG/Alien Wreckage/Indu Dist/Test Hangar/Archeological 2"},
-	[4101826] = {"@SEG/A Girls Wings/Indu Dist/Test Hangar/Chp 9"},
-	[4101827] = {"@SEG/Muimuis Meltdown/Indu Dist/Central/Chp 9"},
-	[4101828] = {"@SEG/Turf War/Indu Dist/Central/Chp 10"},
-	[4101829] = {"@SEG/Doug 2 H2H/Indu Dist/Central/Morning"},
-	[4101830] = {"@SEG/A Proper Chopper/Indu Dist/Central/Chp 4"},
-	[4101831] = {"@SEG/Murderess 3 H2H/Indu Dist/Production Plant"},
-	[4101832] = {"@SEG/Forest Foray/Indu Dist/Production Plant/Chp 3"},
-	[4101833] = {"@SEG/Pollution Solution/Indu Dist/Production Plant/Chp 7"},
-	[4101834] = {"@SEG/Good Neighbors/Indu Dist/Test Hangar/Chp 7"},
-	[4101835] = {"@SEG/Irina 4 H2H/Indu Dist/Test Hangar"},
-	[4101836] = {"@SEG/Lin 1 H2H/Indu Dist/Test Hangar"},
-	[4101837] = {"@SEG/Data Probe Breakthrough/Indu Dist/Test Hangar/Chp 11"},
-	[4101838] = {"@SEG/Data Probe Revolution/Indu Dist/Test Hangar/Chp 12"},
-	[4101839] = {"@SEG/Elma 1 H2H/Indu Dist/Central/Afternoon"},
-	[4101840] = {"@SEG/Lone Survivors/Indu Dist/Central/Chp 8"},
-	[4101841] = {"@SEG/Entrepreneurial Spirit/Indu Dist/Central/Chp 8"},
-	[4101842] = {"@SEG/Child of Mira/Indu Dist/Central/Chp 11"},
-	[4101843] = {"@SEG/Container/Indu Dist/Production Plant/Mechanical 3"},
-	[4101844] = {"@SEG/Orphean Pluck/Indu Dist/Production Plant/Chp 10"},
-	[4101845] = {"@SEG/Data Probe Progress/Indu Dist/Production Plant/Chp 10"},
-	[4101846] = {"@SEG/Data Probe Evolution/Indu Dist/Test Hangar/Chp 12"},
-	[4101847] = {"@SEG/The Pip-Squeak/Indu Dist/Test Hangar/Chp 5"},
-	[4101848] = {"@SEG/Professorial/Indu Dist/Test Hangar/Chp 12"},
-	[4101849] = {"@SEG/Rise of the Blood Lobster/Indu Dist/Test Hangar/Chp 3"},
-	[4101850] = {"@SEG/Mia 3 H2H/Indu Dist/Test Hangar/Late Night"},
-	[4101851] = {"@SEG/Hope 3 H2H/Indu Dist/Central/Morning "},
-	[4101852] = {"@SEG/Pack It In/Indu Dist/Central/Chp 9"},
-	[4101853] = {"@SEG/Irina 1 H2H/Indu Dist/Central"},
-	[4101854] = {"@SEG/Frye 5 H2H/Indu Dist/Production Plant"},
-	[4101855] = {"@SEG/Alexa/Indu Dist/Test Hangar"},
-	[4101856] = {"@SEG/Celica 1 H2H/Indu Dist/Test Hangar"},
-	[4101857] = {"@SEG/Mystery Man/Indu Dist/Central/Chp 5"},
-	[4101858] = {"@SEG/The Voltant Visionary/Indu Dist/Central/Chp 7"},
-	[4101859] = {"@SEG/Horonalderon/Aff Shift/Indu Dist/Central"},
-	[4101860] = {"@SEG/Frye/Indu Dist/Repenta Diner"},
-	[4101861] = {"@SEG/The Good Thief/Indu Dist/Repenta Diner/Chp 9"},
-	[4101862] = {"@SEG/Fitting In/Aff Mission/Indu Dist/Test Hangar/Chp 11"},
-	[4101863] = {"@SEG/Professor Bs Return/Indu Dist/Central/Chp 7"},
-	[4101864] = {"@SEG/Gold Rush/Indu Dist/Central/Night/Chp 11"},
-	[4101865] = {"@SEG/Frye 1 H2H/Indu Dist/Repenta Diner"},
-	[4101866] = {"@SEG/Bottoms Up/Aff Mission/Night/Indu Dist/Repenta Diner/Chp 4"},
+		--h2h
+	[4101813] = {"@Indu Dist/SEG/Celica 5 H2H/Test Hangar/Night"},
+	[4101814] = {"@Indu Dist/SEG/Nagi 2 H2H/Test Hangar/Morning"},
+	[4101819] = {"@Indu Dist/SEG/Celica 4 H2H/Production Plant"},
+	[4101829] = {"@Indu Dist/SEG/Doug 2 H2H/Central/Morning"},
+	[4101831] = {"@Indu Dist/SEG/Murderess 3 H2H/Production Plant"},
+	[4101835] = {"@Indu Dist/SEG/Irina 4 H2H/Test Hangar"},
+	[4101836] = {"@Indu Dist/SEG/Lin 1 H2H/Test Hangar"},
+	[4101839] = {"@Indu Dist/SEG/Elma 1 H2H/Central/Afternoon"},
+	[4101850] = {"@Indu Dist/SEG/Mia 3 H2H/Test Hangar/Late Night"},
+	[4101851] = {"@Indu Dist/SEG/Hope 3 H2H/Central/Morning "},
+	[4101853] = {"@Indu Dist/SEG/Irina 1 H2H/Central"},
+	[4101854] = {"@Indu Dist/SEG/Frye 5 H2H/Production Plant"},
+	[4101856] = {"@Indu Dist/SEG/Celica 1 H2H/Test Hangar"},
+	[4101865] = {"@Indu Dist/SEG/Frye 1 H2H/Repenta Diner"},
+
+	--ch12
+	[4101815] = {"@Indu Dist/SEG/The Gauntlet/Test Hangar/Chp 12"},
+	[4101838] = {"@Indu Dist/SEG/Data Probe Revolution/Test Hangar/Chp 12"},
+	[4101846] = {"@Indu Dist/SEG/Data Probe Evolution/Test Hangar/Chp 12"},
+	[4101848] = {"@Indu Dist/SEG/Professorial/Test Hangar/Chp 12"},
+
+	--ch11
+	[4101816] = {"@Indu Dist/SEG/Two Warriors/Test Hangar/Night/Chp 11"},
+	[4101837] = {"@Indu Dist/SEG/Data Probe Breakthrough/Test Hangar/Chp 11"},
+	[4101842] = {"@Indu Dist/SEG/Child of Mira/Central/Chp 11"},
+	[4101862] = {"@Indu Dist/SEG/Fitting In/Aff Mission/Test Hangar/Chp 11"},
+	[4101864] = {"@Indu Dist/SEG/Gold Rush/Central/Night/Chp 11"},	
+
+	--ch10
+	[4101818] = {"@Indu Dist/SEG/Good Fortun/Central/Chp 10"},
+	[4101824] = {"@Indu Dist/SEG/Boot Camp/Test Hangar/Gwin 1/Chp 10"},	
+	[4101828] = {"@Indu Dist/SEG/Turf War/Central/Chp 10"},
+	[4101844] = {"@Indu Dist/SEG/Orphean Pluck/Production Plant/Chp 10"},
+	[4101845] = {"@Indu Dist/SEG/Data Probe Progress/Production Plant/Chp 10"},
+
+	--ch9
+	[4101820] = {"@Indu Dist/SEG/New in New LA/Production Plant/Chp 9"},
+	[4101826] = {"@Indu Dist/SEG/A Girls Wings/Test Hangar/Chp 9"},
+	[4101827] = {"@Indu Dist/SEG/Muimuis Meltdown/Central/Chp 9"},
+	[4101852] = {"@Indu Dist/SEG/Pack It In/Central/Chp 9"},	
+	[4101861] = {"@Indu Dist/SEG/The Good Thief/Repenta Diner/Chp 9"},
+
+	--ch8
+	[4101817] = {"@Indu Dist/SEG/Data Probe Challenge/Test Hangar/Chp 8"},
+	[4101840] = {"@Indu Dist/SEG/Lone Survivors/Central/Chp 8"},
+	[4101841] = {"@Indu Dist/SEG/Entrepreneurial Spirit/Central/Chp 8"},
+
+	--ch7
+	[4101833] = {"@Indu Dist/SEG/Pollution Solution/Production Plant/Chp 7"},
+	[4101834] = {"@Indu Dist/SEG/Good Neighbors/Test Hangar/Chp 7"},
+	[4101858] = {"@Indu Dist/SEG/The Voltant Visionary/Central/Chp 7"},
+	[4101863] = {"@Indu Dist/SEG/Professor Bs Return/Central/Chp 7"},
+
+	--ch5
+	[4101847] = {"@Indu Dist/SEG/The Pip-Squeak/Test Hangar/Chp 5"},
+	[4101857] = {"@Indu Dist/SEG/Mystery Man/Central/Chp 5"},
+
+	--ch4
+	[4101830] = {"@Indu Dist/SEG/A Proper Chopper/Central/Chp 4"},
+	[4101866] = {"@Indu Dist/SEG/Bottoms Up/Aff Mission/Night/Repenta Diner/Chp 4"},
+
+
+	--ch3
+	[4101822] = {"@Indu Dist/SEG/Yardleys Scheme/Test Hangar/Chp 3"},
+	[4101823] = {"@Indu Dist/SEG/Off the Record Biological/Test Hangar/Chp 3"},
+	[4101832] = {"@Indu Dist/SEG/Forest Foray/Production Plant/Chp 3"},
+	[4101843] = {"@Indu Dist/SEG/Container/Production Plant/Mechanical 3"},	
+	[4101849] = {"@Indu Dist/SEG/Rise of the Blood Lobster/Test Hangar/Chp 3"},	
+
+
+	[4101821] = {"@Indu Dist/SEG/Celica"},
+	[4101825] = {"@Indu Dist/SEG/Alien Wreckage/Test Hangar/Archeological 2"},
+	[4101855] = {"@Indu Dist/SEG/Alexa/Test Hangar"},
+	[4101859] = {"@Indu Dist/SEG/Horonalderon/Aff Shift"},
+	[4101860] = {"@Indu Dist/SEG/Frye/Repenta Diner"},
+
+
 
 	--comm
 	[4101867] = {"@SEG/Going Viral/Comm Dist/West Melville Street/Chp 7"},
