@@ -2178,22 +2178,45 @@ LOCATION_MAPPING = {
 	[4102384] = {"@SEG/Oc-serv, the Ancient/Sylv/Sylvalum Searoad/Tyrant"},
 
 	--blade barracks
-	[4102385] = {"@SEG/The Repair Job/Aff Mission/BLADE Barracks/Lin 1/Chp 3"},
+
+		--h2h
+	[4102390] = {"@SEG/Elma 5 H2H/Night"},
+	[4102393] = {"@SEG/Nagi 4 H2H/BLADE Barracks"},
+
+	--characters
 	[4102386] = {"@SEG/Lin/BLADE Barracks"},
-	[4102387] = {"@SEG/A Day in the Life/Aff Mission/BLADE Barracks/Chp 4"},
+	[4102395] = {"@SEG/Elma/BLADE Barracks"},
+
+	--ch12
 	[4102388] = {"@SEG/Then and Now/Aff Mission/BLADE Barracks/Elma 4/Chp 12"},
 	[4102389] = {"@SEG/To Serve Nopon/Aff Mission/BLADE Barracks/Lin 4/Chp 12"},
-	[4102390] = {"@SEG/Elma 5 H2H/Night"},
-	[4102391] = {"@SEG/Nagis Time/Aff Mission/BLADE Barracks/Chp 8"},
-	[4102392] = {"@SEG/A Challenger Approaches/Aff Mission/BLADE Barracks/Chp 10"},
-	[4102393] = {"@SEG/Nagi 4 H2H/BLADE Barracks"},
-	[4102394] = {"@SEG/We Were Soldiers/Aff Mission/BLADE Barracks/Elma 1/Chp 3"},
-	[4102395] = {"@SEG/Elma/BLADE Barracks"},
+
+	--11
 	[4102396] = {"@SEG/Two Peas in a Pod/Aff Mission/BLADE Barracks/Lin 3/Chp 11"},
 	[4102397] = {"@SEG/Fathers and Sons/Aff Mission/BLADE Barracks/Irina 40/Chp 11"},
-	[4102398] = {"@SEG/BFFs/Aff Mission/BLADE Barracks/Chp 5"},
+
+	--ch10
+	[4102392] = {"@SEG/A Challenger Approaches/Aff Mission/BLADE Barracks/Chp 10"},
+
+	--ch9
 	[4102399] = {"@SEG/Prospective Partners/Aff Mission/BLADE Barracks/Chp 9"},
+
+	--ch8
+	[4102391] = {"@SEG/Nagis Time/Aff Mission/BLADE Barracks/Chp 8"},
+
+	--ch5
+	[4102398] = {"@SEG/BFFs/Aff Mission/BLADE Barracks/Chp 5"},
 	[4102400] = {"@SEG/A Friend in Need/Aff Mission/BLADE Barracks/Chp 5"},
+
+	--ch4
+	[4102387] = {"@SEG/A Day in the Life/Aff Mission/BLADE Barracks/Chp 4"},
+
+	--ch3
+	[4102385] = {"@SEG/The Repair Job/Aff Mission/BLADE Barracks/Lin 1/Chp 3"},
+	[4102394] = {"@SEG/We Were Soldiers/Aff Mission/BLADE Barracks/Elma 1/Chp 3"},
+
+
+
 
 	--locations
 	
