@@ -1767,43 +1767,72 @@ LOCATION_MAPPING = {
 		[4101982] = {"@Res-Dist/SEG/Nagi 5 H2H/Ishmael Hills/Afternoon"},
 		[4101998] = {"@Res-Dist/SEG/Hope 1 H2H/Ishmael Hills"},
 
-		
-		[4101940] = {"@Res-Dist/SEG/Circle of Life/Deliverance Park/Chp 7"},
-		[4101941] = {"@Res-Dist/SEG/Phog/Deliverance Park"},
-		[4101943] = {"@Res-Dist/SEG/Off the Record Archeological/Deliverance Park"},
-		[4101945] = {"@Res-Dist/SEG/Alien Wreckage/Sports Complex/Archeological 4"},
-		[4101947] = {"@Res-Dist/SEG/Herbivores, Unite!/Deliverance Park/Chp 9"},
-		[4101948] = {"@Res-Dist/SEG/A Present for Hope/Aff Mission/Deliverance Park/Hope 4/Chp 10"},
-		[4101949] = {"@Res-Dist/SEG/The Celeste Three/Deliverance Park/Chp 4"},
-		[4101955] = {"@Res-Dist/SEG/The Line of Fire/Deliverance Park/Chp 9"},
-		[4101956] = {"@Res-Dist/SEG/Hope/Deliverance Park"},
-		[4101957] = {"@Res-Dist/SEG/Planetary Pioneer V/Deliverance Park/Chp 11"},
-		[4101962] = {"@Res-Dist/SEG/Foggy Dilemma/Aff Mission/Water Puri Plant/Chp 4"},
-		[4101965] = {"@Res-Dist/SEG/Alien Wreckage/Ishmael Hills/Archeological 3"},
-		[4101967] = {"@Res-Dist/SEG/Bread and a Circus/Ishmael Hills/Chp 10"},
-		[4101969] = {"@Res-Dist/SEG/New Frontier/Cathedral/Chp 12"},
-		[4101970] = {"@Res-Dist/SEG/Off the Record Mechanical/Cathedral"},
-		[4101972] = {"@Res-Dist/SEG/Caroline/Aff Shift/Ishmael Hills"},
-		[4101973] = {"@Res-Dist/SEG/Alexs Last Stand/Ishmael Hills/Chp 10"},
-		[4101975] = {"@Res-Dist/SEG/Konluarb/Aff Shift/Ishmael Hills"},
-		[4101976] = {"@Res-Dist/SEG/Lakeside Getaway/Water Puri Plant/Chp 6"},
-		[4101977] = {"@Res-Dist/SEG/Water Woes/Water Puri Plant/Chp 5"},
-		[4101981] = {"@Res-Dist/SEG/Wendy/Aff Shift/Ishmael Hills"},
-		[4101983] = {"@Res-Dist/SEG/H.B./Water Puri Plant"},
+		--ch3
 		[4101984] = {"@Res-Dist/SEG/Hope Springs Eternal/Aff Mission/Cathedral/Chp 3"},
+
+		--ch4
+		[4101949] = {"@Res-Dist/SEG/The Celeste Three/Deliverance Park/Chp 4"},
+		[4101962] = {"@Res-Dist/SEG/Foggy Dilemma/Aff Mission/Water Puri Plant/Chp 4"},
+
+		--ch5
+		[4101977] = {"@Res-Dist/SEG/Water Woes/Water Puri Plant/Chp 5"},
+
+		--ch6
+		[4101976] = {"@Res-Dist/SEG/Lakeside Getaway/Water Puri Plant/Chp 6"},
 		[4101985] = {"@Res-Dist/SEG/The Miracle Maker/Cathedral/Chp 6"},
-		[4101986] = {"@Res-Dist/SEG/The Divine Nopopon/Ishmael Hills/Chp 12"},
+
+		--ch7
+		[4101940] = {"@Res-Dist/SEG/Circle of Life/Deliverance Park/Chp 7"},
 		[4101987] = {"@Res-Dist/SEG/A Great Divide/Aff Mission/Ishmael Hills/Phog 2/Chp 7"},
-		[4101988] = {"@Res-Dist/SEG/The Bug Whisperer/Ishmael Hills/Chp 10"},
+		[4101997] = {"@Res-Dist/SEG/The Journey Begins/Cathedral/Chp 7"},
+
+		--ch8
 		[4101989] = {"@Res-Dist/SEG/Shotgun Diplomacy/Cathedral/Chp 8"},
-		[4101990] = {"@Res-Dist/SEG/Letrick/Aff Shift/Cathedral"},
 		[4101991] = {"@Res-Dist/SEG/Rites of Ruin/Cathedral/Chp 8"},
+
+		--ch9
+		[4101947] = {"@Res-Dist/SEG/Herbivores, Unite!/Deliverance Park/Chp 9"},
+		[4101955] = {"@Res-Dist/SEG/The Line of Fire/Deliverance Park/Chp 9"},
+
+		--ch10
+		[4101948] = {"@Res-Dist/SEG/A Present for Hope/Aff Mission/Deliverance Park/Hope 4/Chp 10"},
+		[4101967] = {"@Res-Dist/SEG/Bread and a Circus/Ishmael Hills/Chp 10"},
+		[4101973] = {"@Res-Dist/SEG/Alexs Last Stand/Ishmael Hills/Chp 10"},
+		[4101988] = {"@Res-Dist/SEG/The Bug Whisperer/Ishmael Hills/Chp 10"},
+
+		--ch11
+		[4101957] = {"@Res-Dist/SEG/Planetary Pioneer V/Deliverance Park/Chp 11"},
+
+		--ch12
+		[4101969] = {"@Res-Dist/SEG/New Frontier/Cathedral/Chp 12"},
+		[4101986] = {"@Res-Dist/SEG/The Divine Nopopon/Ishmael Hills/Chp 12"},
 		[4101992] = {"@Res-Dist/SEG/Definian Love/Ishmael Hills/Chp 12"},
-		[4101993] = {"@Res-Dist/SEG/Phoskeran/Aff Shift/Ishmael Hills"},
+		[4101996] = {"@Res-Dist/SEG/A Fateful Choice/Cathedral/Chp 12"},
+
+
+		--mechanical
 		[4101994] = {"@Res-Dist/SEG/Container/Cathedral/Mechanical 2"},
 		[4101995] = {"@Res-Dist/SEG/Trailer/Cathedral/Mechanical 3"},
-		[4101996] = {"@Res-Dist/SEG/A Fateful Choice/Cathedral/Chp 12"},
-		[4101997] = {"@Res-Dist/SEG/The Journey Begins/Cathedral/Chp 7"},
+
+		--archealogical
+		[4101945] = {"@Res-Dist/SEG/Alien Wreckage/Sports Complex/Archeological 4"},
+		[4101965] = {"@Res-Dist/SEG/Alien Wreckage/Ishmael Hills/Archeological 3"},
+
+
+		--character
+		[4101983] = {"@Res-Dist/SEG/H.B./Water Puri Plant"},
+		[4101956] = {"@Res-Dist/SEG/Hope/Deliverance Park"},
+		[4101941] = {"@Res-Dist/SEG/Phog/Deliverance Park"},
+		[4101981] = {"@Res-Dist/SEG/Wendy/Aff Shift/Ishmael Hills"},
+
+		--missions
+		[4101943] = {"@Res-Dist/SEG/Off the Record Archeological/Deliverance Park"},
+		[4101970] = {"@Res-Dist/SEG/Off the Record Mechanical/Cathedral"},
+		[4101993] = {"@Res-Dist/SEG/Phoskeran/Aff Shift/Ishmael Hills"},
+		[4101972] = {"@Res-Dist/SEG/Caroline/Aff Shift/Ishmael Hills"},
+		[4101990] = {"@Res-Dist/SEG/Letrick/Aff Shift/Cathedral"},
+		[4101975] = {"@Res-Dist/SEG/Konluarb/Aff Shift/Ishmael Hills"},
+
 
 	--admin
 		--H2H
@@ -1818,28 +1847,22 @@ LOCATION_MAPPING = {
 
 		
 		[4101999] = {"@Admi-Disct/SEG/The Duel II/BLADE Tower/Chp 11"},
-		[4102000] = {"@Admi-Disct/SEG/Nagi/BLADE Tower"},
 		[4102001] = {"@Admi-Disct/SEG/Cavern Crushers/BLADE Tower/Chp 9"},
 		[4102002] = {"@Admi-Disct/SEG/Attack on Biahno Hills/BLADE Tower/Chp 7"},
-		[4102003] = {"@Admi-Disct/SEG/Dead Men Tell No Tales/BLADE Tower"},
 		[4102004] = {"@Admi-Disct/SEG/Prone Sweet Prone/BLADE Tower/Chp 5"},
-		[4102005] = {"@Admi-Disct/SEG/Large Container/BLADE Tower/Mechanical 4"},
 		[4102008] = {"@Admi-Disct/SEG/Doug/Hangar/Chp 3"},
-		[4102009] = {"@Admi-Disct/SEG/Trailer/Armory Alley/Mechanical 2"},
 		[4102010] = {"@Admi-Disct/SEG/Manhunt/Aff Mission/BLADE Tower/Chp 8"},
 		[4102011] = {"@Admi-Disct/SEG/Spy Games/Aff Mission/BLADE Tower/Chp 7"},
 		[4102012] = {"@Admi-Disct/SEG/Rescue at the Ensconced Citadel/BLADE Tower/Chp 6"},
 		[4102013] = {"@Admi-Disct/SEG/The Ultimate Price/BLADE Tower/Chp 10"},
 		[4102014] = {"@Admi-Disct/SEG/The Handy Ma-non/Hangar/Chp 5"},
 		[4102015] = {"@Admi-Disct/SEG/My Dream/Aff Mission/Hangar/Chp 5"},
-		[4102016] = {"@Admi-Disct/SEG/Cedric/Aff Shift/Hangar"},
 		[4102017] = {"@Admi-Disct/SEG/The Nopon Heir/Aff Mission/Armory Alley/L 4/Chp 12"},
 		[4102018] = {"@Admi-Disct/SEG/L/Armory Alley/Chp 4"},
 		[4102019] = {"@Admi-Disct/SEG/Thats In-Credible!/BLADE Tower/Chp 5"},
 		[4102020] = {"@Admi-Disct/SEG/Reporting for Duty/Aff Mission/BLADE Tower/Nagi 3/Chp 10"},
 		[4102021] = {"@Admi-Disct/SEG/A False Hope/Aff Mission/BLADE Tower/Hope 2/Chp 5"},
 		[4102022] = {"@Admi-Disct/SEG/Planetary Pioneer II/BLADE Tower/Chp 5"},
-		[4102023] = {"@Admi-Disct/SEG/Nopopon/Aff Shift/BLADE Tower"},
 		[4102024] = {"@Admi-Disct/SEG/Mamma Mia!/Hangar/Chp 3"},
 		[4102025] = {"@Admi-Disct/SEG/Mia Grows Up/Aff Mission/Hangar/Mia 4/Chp 12"},
 		[4102026] = {"@Admi-Disct/SEG/Brotherly Love/Aff Mission/Hangar/Phog 4 Frye 4/Chp 11"},
@@ -1862,19 +1885,32 @@ LOCATION_MAPPING = {
 		[4102046] = {"@Admi-Disct/SEG/City Saviors/Division Drive/Chp 3"},
 		[4102047] = {"@Admi-Disct/SEG/Close Comrades/Aff Mission/BLADE Barracks/Chp 4"},
 		[4102048] = {"@Admi-Disct/SEG/Planetary Pioneer I/BLADE Concourse/Chp 3"},
-		[4102049] = {"@Admi-Disct/SEG/Wolf/Aff Shift/BLADE Concourse"},
 		[4102050] = {"@Admi-Disct/SEG/Ovah and Out/Mimeo Maint Center/Chp 7"},
 		[4102051] = {"@Admi-Disct/SEG/Cooking Schooled/Mimeo Maint Center/Chp 12"},
 		[4102052] = {"@Admi-Disct/SEG/Mia Is Missing!/Mimeo Maint Center/Chp 11"},
 		[4102053] = {"@Admi-Disct/SEG/Unknown Assailant/Division Drive/Chp 10"},
 		[4102054] = {"@Admi-Disct/SEG/Frontier Spirit/Division Drive/Chp 6"},
 		[4102056] = {"@Admi-Disct/SEG/Close Encounters/BLADE Barracks/Chp 6"},
-		[4102057] = {"@Admi-Disct/SEG/The Root of All Evil/BLADE Barracks"},
 		[4102058] = {"@Admi-Disct/SEG/Irina/BLADE Concourse/Chp 3"},
-		[4102059] = {"@Admi-Disct/SEG/Murderess/Mimeo Maint Center"},
 		[4102060] = {"@Admi-Disct/SEG/Myles to Go/East Gate/Chp 2"},
 		[4102061] = {"@Admi-Disct/SEG/Slovitys Rampage/East Gate/Chp 10"},
 		[4102062] = {"@Admi-Disct/SEG/Blitzkrieg/Aff Mission/East Gate/Phog 3 Frye 3/Chp 8"},
+
+		--mechanical
+		[4102005] = {"@Admi-Disct/SEG/Large Container/BLADE Tower/Mechanical 4"},
+		[4102009] = {"@Admi-Disct/SEG/Trailer/Armory Alley/Mechanical 2"},
+
+		--char
+		[4102000] = {"@Admi-Disct/SEG/Nagi/BLADE Tower"},
+		[4102059] = {"@Admi-Disct/SEG/Murderess/Mimeo Maint Center"},
+
+		--mission
+		[4102057] = {"@Admi-Disct/SEG/The Root of All Evil/BLADE Barracks"},
+		[4102049] = {"@Admi-Disct/SEG/Wolf/Aff Shift/BLADE Concourse"},
+		[4102023] = {"@Admi-Disct/SEG/Nopopon/Aff Shift/BLADE Tower"},
+		[4102016] = {"@Admi-Disct/SEG/Cedric/Aff Shift/Hangar"},
+		[4102003] = {"@Admi-Disct/SEG/Dead Men Tell No Tales/BLADE Tower"},
+
 
 	--blade barracks
 
@@ -1977,6 +2013,7 @@ LOCATION_MAPPING = {
 		[4102115] = {"@Prim/SEG/White Whale Debris/North Janpath Plain/Mechanical 4"},
 		[4102128] = {"@Prim/SEG/Patrol Chopper Wreckage/West Gate Plains/Mechanical 4"},
 
+		--missions
 		[4102064] = {"@Prim/SEG/Snipe Hunt/Bedrock Hold"},
 		[4102069] = {"@Prim/SEG/The Repair Job/Starfall Basin"},
 		[4102076] = {"@Prim/SEG/A Day in the Life/Biahno Grassland"},
@@ -2043,6 +2080,7 @@ LOCATION_MAPPING = {
 		[4102174] = {"@Noct/SEG/Skell Wreckage/Tripod Rock/Mechanical 1"},
 		[4102178] = {"@Noct/SEG/Skell Wreckage/Ensanguined Font/Mechanical 2"},
 
+		--missions
 		[4102131] = {"@Noct/SEG/A Fateful Choice/Divine Roost"},
 		[4102132] = {"@Noct/SEG/The Nopon Heir/Divine Roost"},
 		[4102134] = {"@Noct/SEG/House Call/Upper Hush Flood"},
@@ -2132,6 +2170,7 @@ LOCATION_MAPPING = {
 		[4102247] = {"@Obli/SEG/Skell Wreckage/Washington Isle/Mechanical 4"},
 		[4102249] = {"@Obli/SEG/White Whale Debris/Sea Whisper Valley/Mechanical 3"},
 
+		--missions
 		[4102183] = {"@Obli/SEG/Sunceleg Rises/Stoyanov Trail"},
 		[4102194] = {"@Obli/SEG/A Dish Served Cold/Yawning Giant"},
 		[4102196] = {"@Obli/SEG/Prone Sweet Prone/Scabland Fortress"},
@@ -2209,6 +2248,7 @@ LOCATION_MAPPING = {
 		[4102301] = {"@Caul/SEG/Patrol Chopper Wreckage/Mgando Gorge/Mechanical 2"},
 		[4102308] = {"@Caul/SEG/Patrol Chopper Wreckage/Kwarah Villa/Mechanical 4"},
 
+		--missions
 		[4102259] = {"@Caul/SEG/Gorkwa Games/White Phosphorus"},
 		[4102260] = {"@Caul/SEG/Sparking a Smile/Drongo Caravan"},
 		[4102261] = {"@Caul/SEG/Slovitys Revenge/Ancient Warscape"},
@@ -2306,6 +2346,7 @@ LOCATION_MAPPING = {
 		[4102352] = {"@Sylv/SEG/Skell Wreckage/Anvil Sandplains/Mechanical 4"},
 		[4102361] = {"@Sylv/SEG/Skell Wreckage/Lower Delusian Mountains/Mechanical 3"},
 
+		--missions
 		[4102321] = {"@Sylv/SEG/Bottoms Up/Seabirds Beak"},
 		[4102334] = {"@Sylv/SEG/The Line of Fire/Hilal Meadow"},
 		[4102336] = {"@Sylv/SEG/Unknown Assailant/Banshee Cove"},
