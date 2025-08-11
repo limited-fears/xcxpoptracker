@@ -1814,7 +1814,9 @@ LOCATION_MAPPING = {
 		[4102036] = {"@Admi-Disct/SEG/Frye 2 H2H/Hangar/Nighttime"},
 		[4102055] = {"@Admi-Disct/SEG/Lin 3 H2H/Division Drive/Afternoon"},
 
+		--ch2
 
+		
 		[4101999] = {"@Admi-Disct/SEG/The Duel II/BLADE Tower/Chp 11"},
 		[4102000] = {"@Admi-Disct/SEG/Nagi/BLADE Tower"},
 		[4102001] = {"@Admi-Disct/SEG/Cavern Crushers/BLADE Tower/Chp 9"},
