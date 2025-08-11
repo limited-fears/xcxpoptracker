@@ -1718,27 +1718,47 @@ LOCATION_MAPPING = {
 		[4101924] = {"@Manon-ship/SEG/L 2 H2H/Deck/Nighttime"},
 		[4101932] = {"@Manon-ship/SEG/Elma 4 H2H/Starboard/Evening"},
 
-		[4101916] = {"@Manon-ship/SEG/Forbidden Love/Port Side/Chp 8"},
-		[4101917] = {"@Manon-ship/SEG/No-show Nenceleg/Port Side/Chp 10"},
-		[4101918] = {"@Manon-ship/SEG/Gorkwa Games/Port Side/Chp 7"},
-		[4101919] = {"@Manon-ship/SEG/House Call/Port Side/Chp 10"},
-		[4101920] = {"@Manon-ship/SEG/A New Life/Port Side/Chp 11"},
-		[4101921] = {"@Manon-ship/SEG/Here Come the Brides/Port Side/Chp 9"},
-		[4101922] = {"@Manon-ship/SEG/The Unbreakable Sword/Port Side/Chp 12"},
+		--ch5
+		[4101931] = {"@Manon-ship/SEG/Tree-mendous/Starboard/Chp 5"},
+
+		--ch6
 		[4101923] = {"@Manon-ship/SEG/A Grim Undertaking/Port Side/Chp 6"},
+		[4101930] = {"@Manon-ship/SEG/The Membership/Starboard/Chp 6"},
+
+		--ch7
+		[4101918] = {"@Manon-ship/SEG/Gorkwa Games/Port Side/Chp 7"},
+		[4101935] = {"@Manon-ship/SEG/Training Day/Starboard/Chp 7"},
+
+		--ch8
+		[4101916] = {"@Manon-ship/SEG/Forbidden Love/Port Side/Chp 8"},		
+		[4101936] = {"@Manon-ship/SEG/The Art of War/Starboard/Chp 8"},
+
+		--ch9
+		[4101921] = {"@Manon-ship/SEG/Here Come the Brides/Port Side/Chp 9"},
+
+		--ch10
+		[4101917] = {"@Manon-ship/SEG/No-show Nenceleg/Port Side/Chp 10"},
+		[4101919] = {"@Manon-ship/SEG/House Call/Port Side/Chp 10"},
+
+		--ch11
+		[4101920] = {"@Manon-ship/SEG/A New Life/Port Side/Chp 11"},
+		[4101937] = {"@Manon-ship/SEG/Slovitys Revenge/Starboard/Chp 11"},
+
+		--ch12
+		[4101922] = {"@Manon-ship/SEG/The Unbreakable Sword/Port Side/Chp 12"},
 		[4101925] = {"@Manon-ship/SEG/The Lurker/Deck/Chp 12"},
 		[4101926] = {"@Manon-ship/SEG/Snipe Hunt/Deck/Chp 12"},
-		[4101927] = {"@Manon-ship/SEG/Mia/Deck"},
-		[4101928] = {"@Manon-ship/SEG/Sunceleg Rises/Deck"},
-		[4101929] = {"@Manon-ship/SEG/Zurranik/Aff Shift/Deck"},
-		[4101930] = {"@Manon-ship/SEG/The Membership/Starboard/Chp 6"},
-		[4101931] = {"@Manon-ship/SEG/Tree-mendous/Starboard/Chp 5"},
 		[4101933] = {"@Manon-ship/SEG/The Old Gods/Starboard/Chp 12"},
 		[4101934] = {"@Manon-ship/SEG/An Ancient Legend/Starboard/Chp 12"},
-		[4101935] = {"@Manon-ship/SEG/Training Day/Starboard/Chp 7"},
-		[4101936] = {"@Manon-ship/SEG/The Art of War/Starboard/Chp 8"},
-		[4101937] = {"@Manon-ship/SEG/Slovitys Revenge/Starboard/Chp 11"},
 		[4101938] = {"@Manon-ship/SEG/The Party Line/Starboard/Chp 12"},
+
+		--char
+		[4101927] = {"@Manon-ship/SEG/Mia/Deck"},
+
+		--missions
+		[4101928] = {"@Manon-ship/SEG/Sunceleg Rises/Deck"},
+		[4101929] = {"@Manon-ship/SEG/Zurranik/Aff Shift/Deck"},
+
 
 	--resi
 	    --H2H
