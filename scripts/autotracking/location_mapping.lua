@@ -1833,6 +1833,46 @@ LOCATION_MAPPING = {
 		[4102061] = {"@Admi-Disct/SEG/Slovitys Rampage/East Gate/Chp 10"},
 		[4102062] = {"@Admi-Disct/SEG/Blitzkrieg/Aff Mission/East Gate/Phog 3 Frye 3/Chp 8"},
 
+			--blade barracks
+
+		--h2h
+		[4102390] = {"@Blade-Barracks/SEG/Elma 5 H2H/Night"},
+		[4102393] = {"@Blade-Barracks/SEG/Nagi 4 H2H"},
+
+		--characters
+		[4102386] = {"@Blade-Barracks/SEG/Lin"},
+		[4102395] = {"@Blade-Barracks/SEG/Elma},
+
+		--ch12
+		[4102388] = {"@Blade-Barracks/SEG/Then and Now/Aff Mission/Elma 4/Chp 12"},
+		[4102389] = {"@Blade-Barracks/SEG/To Serve Nopon/Aff Mission/Lin 4/Chp 12"},
+
+		--11
+		[4102396] = {"@Blade-Barracks/SEG/Two Peas in a Pod/Aff Mission/Lin 3/Chp 11"},
+		[4102397] = {"@Blade-Barracks/SEG/Fathers and Sons/Aff Mission/Irina 40/Chp 11"},
+
+		--ch10
+		[4102392] = {"@Blade-Barracks/SEG/A Challenger Approaches/Aff Mission/Chp 10"},
+
+		--ch9
+		[4102399] = {"@Blade-Barracks/SEG/Prospective Partners/Aff Mission/Chp 9"},
+
+		--ch8
+		[4102391] = {"@Blade-Barracks/SEG/Nagis Time/Aff Mission/Chp 8"},
+
+		--ch5
+		[4102398] = {"@Blade-Barracks/SEG/BFFs/Aff Mission/Chp 5"},
+		[4102400] = {"@Blade-Barracks/SEG/A Friend in Need/Aff Mission/Chp 5"},
+
+		--ch4
+		[4102387] = {"@Blade-Barracks/SEG/A Day in the Life/Aff Mission/Chp 4"},
+
+		--ch3
+		[4102385] = {"@Blade-Barracks/SEG/The Repair Job/Aff Mission/Lin 1/Chp 3"},
+		[4102394] = {"@Blade-Barracks/SEG/We Were Soldiers/Aff Mission/Elma 1/Chp 3"},
+
+
+
 	--prim
 
 		--tyrants
@@ -2175,44 +2215,6 @@ LOCATION_MAPPING = {
 		[4102381] = {"@Sylv/SEG/Alien Container/North Hardheart Canyon/Archeological 4"},
 		[4102382] = {"@Sylv/SEG/The Sword of Legendaryness/Behemoths Shadows"},
 		[4102383] = {"@Sylv/SEG/Alien Container/Southern Searoad/Archeological 2"},
-
-	--blade barracks
-
-		--h2h
-		[4102390] = {"@Blade-Barracks/SEG/Elma 5 H2H/Night"},
-		[4102393] = {"@Blade-Barracks/SEG/Nagi 4 H2H"},
-
-		--characters
-		[4102386] = {"@Blade-Barracks/SEG/Lin"},
-		[4102395] = {"@Blade-Barracks/SEG/Elma},
-
-		--ch12
-		[4102388] = {"@Blade-Barracks/SEG/Then and Now/Aff Mission/Elma 4/Chp 12"},
-		[4102389] = {"@Blade-Barracks/SEG/To Serve Nopon/Aff Mission/Lin 4/Chp 12"},
-
-		--11
-		[4102396] = {"@Blade-Barracks/SEG/Two Peas in a Pod/Aff Mission/Lin 3/Chp 11"},
-		[4102397] = {"@Blade-Barracks/SEG/Fathers and Sons/Aff Mission/Irina 40/Chp 11"},
-
-		--ch10
-		[4102392] = {"@Blade-Barracks/SEG/A Challenger Approaches/Aff Mission/Chp 10"},
-
-		--ch9
-		[4102399] = {"@Blade-Barracks/SEG/Prospective Partners/Aff Mission/Chp 9"},
-
-		--ch8
-		[4102391] = {"@Blade-Barracks/SEG/Nagis Time/Aff Mission/Chp 8"},
-
-		--ch5
-		[4102398] = {"@Blade-Barracks/SEG/BFFs/Aff Mission/Chp 5"},
-		[4102400] = {"@Blade-Barracks/SEG/A Friend in Need/Aff Mission/Chp 5"},
-
-		--ch4
-		[4102387] = {"@Blade-Barracks/SEG/A Day in the Life/Aff Mission/Chp 4"},
-
-		--ch3
-		[4102385] = {"@Blade-Barracks/SEG/The Repair Job/Aff Mission/Lin 1/Chp 3"},
-		[4102394] = {"@Blade-Barracks/SEG/We Were Soldiers/Aff Mission/Elma 1/Chp 3"},
 
 
 
