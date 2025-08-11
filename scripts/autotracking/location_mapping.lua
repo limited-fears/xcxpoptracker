@@ -1567,24 +1567,31 @@ LOCATION_MAPPING = {
 		[4101856] = {"@Indu Dist/SEG/Celica 1 H2H/Test Hangar"},
 		[4101865] = {"@Indu Dist/SEG/Frye 1 H2H/Repenta Diner"},
 
-		--ch12
-		[4101815] = {"@Indu Dist/SEG/The Gauntlet/Test Hangar/Chp 12"},
-		[4101838] = {"@Indu Dist/SEG/Data Probe Revolution/Test Hangar/Chp 12"},
-		[4101846] = {"@Indu Dist/SEG/Data Probe Evolution/Test Hangar/Chp 12"},
-		[4101848] = {"@Indu Dist/SEG/Professorial/Test Hangar/Chp 12"},
+		--ch3
+		[4101822] = {"@Indu Dist/SEG/Yardleys Scheme/Test Hangar/Chp 3"},
+		[4101823] = {"@Indu Dist/SEG/Off the Record Biological/Test Hangar/Chp 3"},
+		[4101832] = {"@Indu Dist/SEG/Forest Foray/Production Plant/Chp 3"},
+		[4101843] = {"@Indu Dist/SEG/Container/Production Plant/Mechanical 3"},	
+		[4101849] = {"@Indu Dist/SEG/Rise of the Blood Lobster/Test Hangar/Chp 3"},	
 
-		--ch11
-		[4101816] = {"@Indu Dist/SEG/Two Warriors/Test Hangar/Night/Chp 11"},
-		[4101837] = {"@Indu Dist/SEG/Data Probe Breakthrough/Test Hangar/Chp 11"},
-		[4101842] = {"@Indu Dist/SEG/Child of Mira/Central/Chp 11"},
-		[4101862] = {"@Indu Dist/SEG/Fitting In/Aff Mission/Test Hangar/Chp 11"},
-		[4101864] = {"@Indu Dist/SEG/Gold Rush/Central/Night/Chp 11"},	
-		--ch10
-		[4101818] = {"@Indu Dist/SEG/Good Fortun/Central/Chp 10"},
-		[4101824] = {"@Indu Dist/SEG/Boot Camp/Test Hangar/Gwin 1/Chp 10"},	
-		[4101828] = {"@Indu Dist/SEG/Turf War/Central/Chp 10"},
-		[4101844] = {"@Indu Dist/SEG/Orphean Pluck/Production Plant/Chp 10"},
-		[4101845] = {"@Indu Dist/SEG/Data Probe Progress/Production Plant/Chp 10"},
+		--ch4
+		[4101830] = {"@Indu Dist/SEG/A Proper Chopper/Central/Chp 4"},
+		[4101866] = {"@Indu Dist/SEG/Bottoms Up/Aff Mission/Night/Repenta Diner/Chp 4"},
+
+		--ch5
+		[4101847] = {"@Indu Dist/SEG/The Pip-Squeak/Test Hangar/Chp 5"},
+		[4101857] = {"@Indu Dist/SEG/Mystery Man/Central/Chp 5"},
+
+		--ch7
+		[4101833] = {"@Indu Dist/SEG/Pollution Solution/Production Plant/Chp 7"},
+		[4101834] = {"@Indu Dist/SEG/Good Neighbors/Test Hangar/Chp 7"},
+		[4101858] = {"@Indu Dist/SEG/The Voltant Visionary/Central/Chp 7"},
+		[4101863] = {"@Indu Dist/SEG/Professor Bs Return/Central/Chp 7"},
+
+		--ch8
+		[4101817] = {"@Indu Dist/SEG/Data Probe Challenge/Test Hangar/Chp 8"},
+		[4101840] = {"@Indu Dist/SEG/Lone Survivors/Central/Chp 8"},
+		[4101841] = {"@Indu Dist/SEG/Entrepreneurial Spirit/Central/Chp 8"},
 
 		--ch9
 		[4101820] = {"@Indu Dist/SEG/New in New LA/Production Plant/Chp 9"},
@@ -1593,32 +1600,28 @@ LOCATION_MAPPING = {
 		[4101852] = {"@Indu Dist/SEG/Pack It In/Central/Chp 9"},	
 		[4101861] = {"@Indu Dist/SEG/The Good Thief/Repenta Diner/Chp 9"},
 
-		--ch8
-		[4101817] = {"@Indu Dist/SEG/Data Probe Challenge/Test Hangar/Chp 8"},
-		[4101840] = {"@Indu Dist/SEG/Lone Survivors/Central/Chp 8"},
-		[4101841] = {"@Indu Dist/SEG/Entrepreneurial Spirit/Central/Chp 8"},
+		--ch10
+		[4101818] = {"@Indu Dist/SEG/Good Fortun/Central/Chp 10"},
+		[4101824] = {"@Indu Dist/SEG/Boot Camp/Test Hangar/Gwin 1/Chp 10"},	
+		[4101828] = {"@Indu Dist/SEG/Turf War/Central/Chp 10"},
+		[4101844] = {"@Indu Dist/SEG/Orphean Pluck/Production Plant/Chp 10"},
+		[4101845] = {"@Indu Dist/SEG/Data Probe Progress/Production Plant/Chp 10"},
 
-		--ch7
-		[4101833] = {"@Indu Dist/SEG/Pollution Solution/Production Plant/Chp 7"},
-		[4101834] = {"@Indu Dist/SEG/Good Neighbors/Test Hangar/Chp 7"},
-		[4101858] = {"@Indu Dist/SEG/The Voltant Visionary/Central/Chp 7"},
-		[4101863] = {"@Indu Dist/SEG/Professor Bs Return/Central/Chp 7"},
-
-		--ch5
-		[4101847] = {"@Indu Dist/SEG/The Pip-Squeak/Test Hangar/Chp 5"},
-		[4101857] = {"@Indu Dist/SEG/Mystery Man/Central/Chp 5"},
-
-		--ch4
-		[4101830] = {"@Indu Dist/SEG/A Proper Chopper/Central/Chp 4"},
-		[4101866] = {"@Indu Dist/SEG/Bottoms Up/Aff Mission/Night/Repenta Diner/Chp 4"},
+		--ch11
+		[4101816] = {"@Indu Dist/SEG/Two Warriors/Test Hangar/Night/Chp 11"},
+		[4101837] = {"@Indu Dist/SEG/Data Probe Breakthrough/Test Hangar/Chp 11"},
+		[4101842] = {"@Indu Dist/SEG/Child of Mira/Central/Chp 11"},
+		[4101862] = {"@Indu Dist/SEG/Fitting In/Aff Mission/Test Hangar/Chp 11"},
+		[4101864] = {"@Indu Dist/SEG/Gold Rush/Central/Night/Chp 11"},	
 
 
-		--ch3
-		[4101822] = {"@Indu Dist/SEG/Yardleys Scheme/Test Hangar/Chp 3"},
-		[4101823] = {"@Indu Dist/SEG/Off the Record Biological/Test Hangar/Chp 3"},
-		[4101832] = {"@Indu Dist/SEG/Forest Foray/Production Plant/Chp 3"},
-		[4101843] = {"@Indu Dist/SEG/Container/Production Plant/Mechanical 3"},	
-		[4101849] = {"@Indu Dist/SEG/Rise of the Blood Lobster/Test Hangar/Chp 3"},	
+		--ch12
+		[4101815] = {"@Indu Dist/SEG/The Gauntlet/Test Hangar/Chp 12"},
+		[4101838] = {"@Indu Dist/SEG/Data Probe Revolution/Test Hangar/Chp 12"},
+		[4101846] = {"@Indu Dist/SEG/Data Probe Evolution/Test Hangar/Chp 12"},
+		[4101848] = {"@Indu Dist/SEG/Professorial/Test Hangar/Chp 12"},
+
+
 
 		--char
 		[4101821] = {"@Indu Dist/SEG/Celica"},
@@ -1649,40 +1652,66 @@ LOCATION_MAPPING = {
 		[4101913] = {"@Comm-Dist/SEG/Hope 2 H2H/East Melville Street/Evening"},
 		[4101915] = {"@Comm-Dist/SEG/Elma 3 H2H/East Melville Street/Morning"},
 
-		--Chp
-		[4101867] = {"@Comm-Dist/SEG/Going Viral/West Melville Street/Chp 7"},
-		[4101869] = {"@Comm-Dist/SEG/Alien Nation/West Melville Street/Chp 7"},
-		[4101875] = {"@Comm-Dist/SEG/Stop, Thief!/West Melville Street/Chp 9"},
-		[4101876] = {"@Comm-Dist/SEG/A Dubious Operation/West Melville Street/Chp 7"},
+		--ch2
 		[4101880] = {"@Comm-Dist/SEG/A Heros Ride/Barista Court/Chp 2"},
 		[4101881] = {"@Comm-Dist/SEG/Better Latte Than Never/West Melville Street/Day/Chp 2"},
-		[4101885] = {"@Comm-Dist/SEG/Emotion Commotion/Barista Court/Chp 7"},
-		[4101886] = {"@Comm-Dist/SEG/The Matchmaker/Aff Mission/Central Melville Street/Chp 6"},
-		[4101887] = {"@Comm-Dist/SEG/Definian Downfall/Central Melville Street/Chp 11"},
-		[4101890] = {"@Comm-Dist/SEG/Nine Lives/Aff Mission/Barista Court/Chp 5"},
+
+		--ch3
 		[4101891] = {"@Comm-Dist/SEG/Renewed Will/Aff Mission/Central Melville Street/Chp 3"},
+		[4101905] = {"@Comm-Dist/SEG/Alien Wreckage/East Melville Street/Archeological 3"},
+
+		--ch4
+		[4101908] = {"@Comm-Dist/SEG/The Ties That Bind/Aff Mission/East Melville Street/Chp 4"},
+
+		--ch5
+		[4101890] = {"@Comm-Dist/SEG/Nine Lives/Aff Mission/Barista Court/Chp 5"},
 		[4101892] = {"@Comm-Dist/SEG/No Ma-non Need Apply/Central Melville Street- Chp 5"},
-		[4101895] = {"@Comm-Dist/SEG/Sparking a Smile/Barista Court/Chp 8"},
-		[4101896] = {"@Comm-Dist/SEG/Unsatisfied Customer/Barista Court/Chp 11"},
+
+		--ch6
+		[4101886] = {"@Comm-Dist/SEG/The Matchmaker/Aff Mission/Central Melville Street/Chp 6"},
 		[4101897] = {"@Comm-Dist/SEG/The Fashionista/Central Melville Street/Chp 6"},
+
+		--Ch7
+		[4101867] = {"@Comm-Dist/SEG/Going Viral/West Melville Street/Chp 7"},
+		[4101869] = {"@Comm-Dist/SEG/Alien Nation/West Melville Street/Chp 7"},
+		[4101876] = {"@Comm-Dist/SEG/A Dubious Operation/West Melville Street/Chp 7"},
+		[4101885] = {"@Comm-Dist/SEG/Emotion Commotion/Barista Court/Chp 7"},
+		[4101907] = {"@Comm-Dist/SEG/Trade Agreement/East Melville Street/Chp 7"},
+
+		--ch8
+		[4101895] = {"@Comm-Dist/SEG/Sparking a Smile/Barista Court/Chp 8"},
 		[4101898] = {"@Comm-Dist/SEG/Planetary Pioneer III/Central Melville Street/Chp 8"},
 
-		[4101872] = {"@Comm-Dist/SEG/Boze/West Melville Street"},
+		--ch9
+		[4101875] = {"@Comm-Dist/SEG/Stop, Thief!/West Melville Street/Chp 9"},
+		[4101911] = {"@Comm-Dist/SEG/Murder Most Foul/East Melville Street/Chp 9"},
+
+		--ch10
+		[4101904] = {"@Comm-Dist/SEG/My Angel, My Lana/East Melville Street/Chp 10"},
+		[4101912] = {"@Comm-Dist/SEG/Wrothian Innovation/East Melville Street/Chp 10"},
+
+		--ch11
+		[4101887] = {"@Comm-Dist/SEG/Definian Downfall/Central Melville Street/Chp 11"},
+		[4101896] = {"@Comm-Dist/SEG/Unsatisfied Customer/Barista Court/Chp 11"},
+		[4101900] = {"@Comm-Dist/SEG/The Sword of Legendaryness/Central Melville Street/Chp 11"},
+		[4101914] = {"@Comm-Dist/SEG/A Dish Served Cold/East Melville Street/Chp 11"},
+
+		--ch12
+		[4101902] = {"@Comm-Dist/SEG/Serial Thriller/Aff Mission/North Founder Street/Chp 12"},
+
+		--mech
 		[4101874] = {"@Comm-Dist/SEG/Container/West Melville Street/Mechanical 2"},
+
+		--arch
 		[4101878] = {"@Comm-Dist/SEG/Alien Wreckage/West Melville Street/Archeological 4"},
+
+		--char
+		[4101910] = {"@Comm-Dist/SEG/Beats/Aff Shift/East Melville Street"},
+		[4101872] = {"@Comm-Dist/SEG/Boze/West Melville Street"},
 		[4101883] = {"@Comm-Dist/SEG/Quiquat/Aff Shift/West Melville Street"},
 		[4101889] = {"@Comm-Dist/SEG/Veverta/Aff Shift/North Founder Street"},
 		[4101899] = {"@Comm-Dist/SEG/Yelv/North Founder Street"},
-		[4101900] = {"@Comm-Dist/SEG/The Sword of Legendaryness/Central Melville Street/Chp 11"},
-		[4101902] = {"@Comm-Dist/SEG/Serial Thriller/Aff Mission/North Founder Street/Chp 12"},
-		[4101904] = {"@Comm-Dist/SEG/My Angel, My Lana/East Melville Street/Chp 10"},
-		[4101905] = {"@Comm-Dist/SEG/Alien Wreckage/East Melville Street/Archeological 3"},
-		[4101907] = {"@Comm-Dist/SEG/Trade Agreement/East Melville Street/Chp 7"},
-		[4101908] = {"@Comm-Dist/SEG/The Ties That Bind/Aff Mission/East Melville Street/Chp 4"},
-		[4101910] = {"@Comm-Dist/SEG/Beats/Aff Shift/East Melville Street"},
-		[4101911] = {"@Comm-Dist/SEG/Murder Most Foul/East Melville Street/Chp 9"},
-		[4101912] = {"@Comm-Dist/SEG/Wrothian Innovation/East Melville Street/Chp 10"},
-		[4101914] = {"@Comm-Dist/SEG/A Dish Served Cold/East Melville Street/Chp 11"},
+
 
 	--manon
 		--H2H
@@ -1845,45 +1874,43 @@ LOCATION_MAPPING = {
 		[4102061] = {"@Admi-Disct/SEG/Slovitys Rampage/East Gate/Chp 10"},
 		[4102062] = {"@Admi-Disct/SEG/Blitzkrieg/Aff Mission/East Gate/Phog 3 Frye 3/Chp 8"},
 
-			--blade barracks
+	--blade barracks
 
 		--h2h
 		[4102390] = {"@Blade-Barracks/SEG/Elma 5 H2H/Night"},
 		[4102393] = {"@Blade-Barracks/SEG/Nagi 4 H2H"},
 
-		--characters
-		[4102386] = {"@Blade-Barracks/SEG/Lin"},
-		[4102395] = {"@Blade-Barracks/SEG/Elma},
+		--ch3
+		[4102385] = {"@Blade-Barracks/SEG/The Repair Job/Aff Mission/Lin 1/Chp 3"},
+		[4102394] = {"@Blade-Barracks/SEG/We Were Soldiers/Aff Mission/Elma 1/Chp 3"},
 
-		--ch12
-		[4102388] = {"@Blade-Barracks/SEG/Then and Now/Aff Mission/Elma 4/Chp 12"},
-		[4102389] = {"@Blade-Barracks/SEG/To Serve Nopon/Aff Mission/Lin 4/Chp 12"},
-
-		--11
-		[4102396] = {"@Blade-Barracks/SEG/Two Peas in a Pod/Aff Mission/Lin 3/Chp 11"},
-		[4102397] = {"@Blade-Barracks/SEG/Fathers and Sons/Aff Mission/Irina 40/Chp 11"},
-
-		--ch10
-		[4102392] = {"@Blade-Barracks/SEG/A Challenger Approaches/Aff Mission/Chp 10"},
-
-		--ch9
-		[4102399] = {"@Blade-Barracks/SEG/Prospective Partners/Aff Mission/Chp 9"},
-
-		--ch8
-		[4102391] = {"@Blade-Barracks/SEG/Nagis Time/Aff Mission/Chp 8"},
+		--ch4
+		[4102387] = {"@Blade-Barracks/SEG/A Day in the Life/Aff Mission/Chp 4"},
 
 		--ch5
 		[4102398] = {"@Blade-Barracks/SEG/BFFs/Aff Mission/Chp 5"},
 		[4102400] = {"@Blade-Barracks/SEG/A Friend in Need/Aff Mission/Chp 5"},
 
-		--ch4
-		[4102387] = {"@Blade-Barracks/SEG/A Day in the Life/Aff Mission/Chp 4"},
+		--ch8
+		[4102391] = {"@Blade-Barracks/SEG/Nagis Time/Aff Mission/Chp 8"},
 
-		--ch3
-		[4102385] = {"@Blade-Barracks/SEG/The Repair Job/Aff Mission/Lin 1/Chp 3"},
-		[4102394] = {"@Blade-Barracks/SEG/We Were Soldiers/Aff Mission/Elma 1/Chp 3"},
+		--ch9
+		[4102399] = {"@Blade-Barracks/SEG/Prospective Partners/Aff Mission/Chp 9"},
 
+		--ch10
+		[4102392] = {"@Blade-Barracks/SEG/A Challenger Approaches/Aff Mission/Chp 10"},
 
+		--11
+		[4102396] = {"@Blade-Barracks/SEG/Two Peas in a Pod/Aff Mission/Lin 3/Chp 11"},
+		[4102397] = {"@Blade-Barracks/SEG/Fathers and Sons/Aff Mission/Irina 40/Chp 11"},
+
+		--ch12
+		[4102388] = {"@Blade-Barracks/SEG/Then and Now/Aff Mission/Elma 4/Chp 12"},
+		[4102389] = {"@Blade-Barracks/SEG/To Serve Nopon/Aff Mission/Lin 4/Chp 12"},
+
+		--characters
+		[4102386] = {"@Blade-Barracks/SEG/Lin"},
+		[4102395] = {"@Blade-Barracks/SEG/Elma},
 
 	--prim
 
