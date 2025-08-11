@@ -1941,51 +1941,59 @@ LOCATION_MAPPING = {
 		--Chp 2
 		[4102082] = {"@Prim/SEG/Cinicula Assault/Grieving Plains/Chp 2"},
 		[4102103] = {"@Prim/SEG/Welcome Back, Conner/Sayram Northeast Plain/Chp 2"},
+
 		--Chp9
 		[4102077] = {"@Prim/SEG/Haywire!/Water Puri Plant/Chp 9"},
+
 		--Chp11
 		[4102070] = {"@Prim/SEG/The Queen Is Dead/Stickstone Rise/Chp 11"},
 
-		 [4102064] = {"@Prim/SEG/Snipe Hunt/Bedrock Hold"},
-		[4102065] = {"@Prim/SEG/Skell Wreckage/Bedrock Hold/Mechanical 1"},
+		--Archeological
 		[4102066] = {"@Prim/SEG/Alien Container/Bedrock Hold/Archeological 5"},
-		[4102067] = {"@Prim/SEG/Skell Wreckage/Headwater Summit/Mechanical 1"},
-		[4102069] = {"@Prim/SEG/The Repair Job/Starfall Basin"},
+		[4102092] = {"@Prim/SEG/Alien Wreckage/Drop Shaft/Archeological 4"},
+		[4102105] = {"@Prim/SEG/Alien Wreckage/Sickle Rock Rise/Archeological 2"},
+		[4102114] = {"@Prim/SEG/Alien Wreckage/Seaswept Rise/Archeological 4"},
+		[4102124] = {"@Prim/SEG/Alien Wreckage/North Janpath Plain/Archeological 3"},
+
+		--Biological
 		[4102071] = {"@Prim/SEG/Strange Insect Nest/Greater Gemini Bridge/Biological 1"},
+
+		--Mechanical
+		[4102065] = {"@Prim/SEG/Skell Wreckage/Bedrock Hold/Mechanical 1"},
+		[4102067] = {"@Prim/SEG/Skell Wreckage/Headwater Summit/Mechanical 1"},
 		[4102073] = {"@Prim/SEG/White Whale Debris/Headwater Summit/Mechanical 1"},
 		[4102074] = {"@Prim/SEG/Vehicle Wreckage/Shadow Rise/Mechanical 1"},
-		[4102076] = {"@Prim/SEG/A Day in the Life/Biahno Grassland"},
 		[4102078] = {"@Prim/SEG/White Whale Debris/Biahno Lake/Mechanical 1"},
-		[4102079] = {"@Prim/SEG/Forbidden Love/Shadow Beach"},
 		[4102081] = {"@Prim/SEG/Skell Wreckage/Plundered Ruins/Mechanical 2"},
-		[4102083] = {"@Prim/SEG/Renewed Will/Grieving Plains"},
 		[4102085] = {"@Prim/SEG/White Whale Debris/Talon Rock/Mechanical 5"},
-		[4102086] = {"@Prim/SEG/The Lurker/Talon Rock Second Terrane"},
-		[4102091] = {"@Prim/SEG/City Saviors/Sayram Lake"},
-		[4102092] = {"@Prim/SEG/Alien Wreckage/Drop Shaft/Archeological 4"},
 		[4102093] = {"@Prim/SEG/White Whale Debris/Talon Rock Second Terrane/Mechanical 1"},
 		[4102096] = {"@Prim/SEG/Patrol Chopper Wreckage/Arendt Bridge/Mechanical 1"},
-		[4102097] = {"@Prim/SEG/The Good Thief/Northpointe Beach"},
 		[4102098] = {"@Prim/SEG/White Whale Debris/Northpointe Beach/Mechanical 3"},
+		[4102106] = {"@Prim/SEG/Vehicle Wreckage/East Gate Plain/Mechanical 1"},
+		[4102109] = {"@Prim/SEG/White Whale Debris/Northpointe Cove/Mechanical 2"},
+		[4102112] = {"@Prim/SEG/White Whale Debris/Tallpack Peak/Mechanical 1"},
+		[4102115] = {"@Prim/SEG/White Whale Debris/North Janpath Plain/Mechanical 4"},
+		[4102128] = {"@Prim/SEG/Patrol Chopper Wreckage/West Gate Plains/Mechanical 4"},
+
+		[4102064] = {"@Prim/SEG/Snipe Hunt/Bedrock Hold"},
+		[4102069] = {"@Prim/SEG/The Repair Job/Starfall Basin"},
+		[4102076] = {"@Prim/SEG/A Day in the Life/Biahno Grassland"},
+		[4102079] = {"@Prim/SEG/Forbidden Love/Shadow Beach"},
+		[4102083] = {"@Prim/SEG/Renewed Will/Grieving Plains"},
+		[4102086] = {"@Prim/SEG/The Lurker/Talon Rock Second Terrane"},
+		[4102091] = {"@Prim/SEG/City Saviors/Sayram Lake"},
+		[4102097] = {"@Prim/SEG/The Good Thief/Northpointe Beach"},
 		[4102100] = {"@Prim/SEG/Close Encounters/Arendt Brdige"},
 		[4102101] = {"@Prim/SEG/Nagis Time/Northpointe Beach"},
 		[4102104] = {"@Prim/SEG/Here Come the Brides/Sickle Rock Rise"},
-		[4102105] = {"@Prim/SEG/Alien Wreckage/Sickle Rock Rise/Archeological 2"},
-		[4102106] = {"@Prim/SEG/Vehicle Wreckage/East Gate Plain/Mechanical 1"},
 		[4102107] = {"@Prim/SEG/An Ancient Legend/East Gate Plain"},
 		[4102108] = {"@Prim/SEG/We Were Soldiers/Northpointe Cove"},
-		[4102109] = {"@Prim/SEG/White Whale Debris/Northpointe Cove/Mechanical 2"},
-		[4102112] = {"@Prim/SEG/White Whale Debris/Tallpack Peak/Mechanical 1"},
 		[4102113] = {"@Prim/SEG/Nine Lives/East Gate Plain"},
-		[4102114] = {"@Prim/SEG/Alien Wreckage/Seaswept Rise/Archeological 4"},
-		[4102115] = {"@Prim/SEG/White Whale Debris/North Janpath Plain/Mechanical 4"},
 		[4102119] = {"@Prim/SEG/A Dubious Operation/Seaswept Ridge"},
 		[4102120] = {"@Prim/SEG/Muimuis Meltdown/North Janpath Plain"},
 		[4102121] = {"@Prim/SEG/Training Day/Janpath Lake"},
 		[4102122] = {"@Prim/SEG/A False Hope/South Janpath Plain"},
-		[4102124] = {"@Prim/SEG/Alien Wreckage/North Janpath Plain/Archeological 3"},
 		[4102125] = {"@Prim/SEG/Stop, Thief!/East Janpath Plain"},
-		[4102128] = {"@Prim/SEG/Patrol Chopper Wreckage/West Gate Plains/Mechanical 4"},
 
 	--noct
 		--Tyrants
@@ -2008,44 +2016,50 @@ LOCATION_MAPPING = {
 
 		--Chp 3
 		[4102180] = {"@Noct/SEG/Data Miner/Potters Rock/Chp 3"},
+
 		--Chp 5 
 		[4102164] = {"@Noct/SEG/Adventure!/Skybound Coil Tree/Chp 5"},
 		[4102175] = {"@Noct/SEG/Missing in Action/Whales Nostril/Chp 5"},
 
+		--Archeological
+		[4102157] = {"@Noct/SEG/Alien Wreckage/Qing Long Glade/Archeological 2"},
+		[4102179] = {"@Noct/SEG/Alien Container/Lakeview Stronghold/Archeological 4"},
 
+		--Biological
 		[4102129] = {"@Noct/SEG/Strange Tree/Narcissus Tree/Biological 5"},
+		[4102137] = {"@Noct/SEG/Strange Tree/Middle Hush Flood/Biological 4"},
+		[4102168] = {"@Noct/SEG/Strange Tree/Old Dragontail Tree/Biological 1"},
+
+		--Mechanical
 		[4102130] = {"@Noct/SEG/Skell Wreckage/Sato Headwater/Mechanical 2"},
+		[4102149] = {"@Noct/SEG/Patrol Chopper Wreckage/Divie Roost/Mechanical 4"},
+		[4102151] = {"@Noct/SEG/Vehicle Wreckage/Bloodpond Basin/Mechanical 4"},
+		[4102153] = {"@Noct/SEG/Trailer Wreckage/Qing Long Glade/Mechanical 1"},
+		[4102169] = {"@Noct/SEG/White Whale Debris/Fukai Pass/Mechanical 4"},
+		[4102170] = {"@Noct/SEG/Skell Wreckage/Rockmoles Burrow/Mechanical 4"},
+		[4102173] = {"@Noct/SEG/Patrol Chopper Wreckage/Canopied Nightwood/Mechanical 2"},
+		[4102174] = {"@Noct/SEG/Skell Wreckage/Tripod Rock/Mechanical 1"},
+		[4102178] = {"@Noct/SEG/Skell Wreckage/Ensanguined Font/Mechanical 2"},
+
 		[4102131] = {"@Noct/SEG/A Fateful Choice/Divine Roost"},
 		[4102132] = {"@Noct/SEG/The Nopon Heir/Divine Roost"},
 		[4102134] = {"@Noct/SEG/House Call/Upper Hush Flood"},
 		[4102136] = {"@Noct/SEG/Prospective Partners/Middle Hush Flood"},
-		[4102137] = {"@Noct/SEG/Strange Tree/Middle Hush Flood/Biological 4"},
 		[4102138] = {"@Noct/SEG/Frontier Spirit/Everwhelm Falls"},
 		[4102143] = {"@Noct/SEG/The Art of War/Lotus Keep Building Site"},
 		[4102144] = {"@Noct/SEG/Rescue at the Ensconced Citadel/Ensconced Citadel"},
 		[4102145] = {"@Noct/SEG/My Dream/Middle Hushflood"},
 		[4102148] = {"@Noct/SEG/The Voltant Visionary/Serpentine Pass"},
-		[4102149] = {"@Noct/SEG/Patrol Chopper Wreckage/Divie Roost/Mechanical 4"},
 		[4102150] = {"@Noct/SEG/Circle of Life/Dead Mans Ingress"},
-		[4102151] = {"@Noct/SEG/Vehicle Wreckage/Bloodpond Basin/Mechanical 4"},
 		[4102152] = {"@Noct/SEG/No-show Nenceleg/Qing Long Glade"},
-		[4102153] = {"@Noct/SEG/Trailer Wreckage/Qing Long Glade/Mechanical 1"},
 		[4102154] = {"@Noct/SEG/Dodonga Caravan/Cascade Isle"},
 		[4102155] = {"@Noct/SEG/Manhunt/Dead Mens Ingress"},
-		[4102157] = {"@Noct/SEG/Alien Wreckage/Qing Long Glade/Archeological 2"},
 		[4102158] = {"@Noct/SEG/Close Comrades/Qing Long Glade"},
 		[4102159] = {"@Noct/SEG/A Proper Chopper/Sunlit Spring"},
 		[4102160] = {"@Noct/SEG/Dead Men Tell No Tales/Millstone Ridge"},
 		[4102161] = {"@Noct/SEG/Murder Most Foul/Weeping Whitewood"},
 		[4102166] = {"@Noct/SEG/Lone Survivors/Seabound Coil Tree"},
-		[4102168] = {"@Noct/SEG/Strange Tree/Old Dragontail Tree/Biological 1"},
-		[4102169] = {"@Noct/SEG/White Whale Debris/Fukai Pass/Mechanical 4"},
-		[4102170] = {"@Noct/SEG/Skell Wreckage/Rockmoles Burrow/Mechanical 4"},
 		[4102171] = {"@Noct/SEG/The Duel II/Decapotamon"},
-		[4102173] = {"@Noct/SEG/Patrol Chopper Wreckage/Canopied Nightwood/Mechanical 2"},
-		[4102174] = {"@Noct/SEG/Skell Wreckage/Tripod Rock/Mechanical 1"},
-		[4102178] = {"@Noct/SEG/Skell Wreckage/Ensanguined Font/Mechanical 2"},
-		[4102179] = {"@Noct/SEG/Alien Container/Lakeview Stronghold/Archeological 4"},
 
 	--obliv
 		--Tyrants
@@ -2078,54 +2092,60 @@ LOCATION_MAPPING = {
 
 		--Chp 3
 		[4102251] = {"@Obli/SEG/The Trading Floor/Sea Whisper Valley/Chp 3"},
+
 		--Chp 6
 		[4102217] = {"@Obli/SEG/Mighty Mia/Leaning Ring/Chp 6"},
 
-
-		[4102181] = {"@Obli/SEG/White Whale Debris/Oblivia Ingress/Mechanical 4"},
-		[4102183] = {"@Obli/SEG/Sunceleg Rises/Stoyanov Trail"},
-		[4102185] = {"@Obli/SEG/Skell Wreckage/Stoyanov Trail/Mechanical 2"},
-		[4102186] = {"@Obli/SEG/Indigen Nest/Big Arch/Biological 4"},
-		[4102188] = {"@Obli/SEG/Vehicle Wreckage/Twin Arches/Mechanical 2"},
+		--Archeological
 		[4102189] = {"@Obli/SEG/Alien Wreckage/Mesa Fortress/Archeological 2"},
-		[4102194] = {"@Obli/SEG/A Dish Served Cold/Yawning Giant"},
+		[4102252] = {"@Obli/SEG/Alien Container/Jair Fortress/Archeological 4"},
+
+		--Biological
+		[4102186] = {"@Obli/SEG/Indigen Nest/Big Arch/Biological 4"},
 		[4102195] = {"@Obli/SEG/Indigen Nest/Yawning Giant/Biological 2"},
-		[4102196] = {"@Obli/SEG/Prone Sweet Prone/Scabland Fortress"},
+		[4102214] = {"@Obli/SEG/Indigen Dung/Aaroy Plain/Biological 2"},
+		[4102234] = {"@Obli/SEG/Indigen Nest/Mount Edge Peak/Biological 4"},
+		[4102237] = {"@Obli/SEG/Indigen Nest/Giant Ring/Biological 5"},
+		[4102243] = {"@Obli/SEG/Indigen Dung/Victory Rock/Biological 3"},
+
+		--Mechanical
+		[4102181] = {"@Obli/SEG/White Whale Debris/Oblivia Ingress/Mechanical 4"},
+		[4102185] = {"@Obli/SEG/Skell Wreckage/Stoyanov Trail/Mechanical 2"},
+		[4102188] = {"@Obli/SEG/Vehicle Wreckage/Twin Arches/Mechanical 2"},
 		[4102198] = {"@Obli/SEG/Skell Wreckage/Big Arch/Mechanical 4"},
 		[4102200] = {"@Obli/SEG/White Whale Debris/Aaroy Plain/Mechanical 2"},
-		[4102201] = {"@Obli/SEG/Foggy Dilemma/Aaroy Plain"},
 		[4102202] = {"@Obli/SEG/Skell Wreckage/Scabland Fortress/Mechanical 4"},
-		[4102204] = {"@Obli/SEG/Slovitys Rampage/Milligan Supply Base"},
-		[4102205] = {"@Obli/SEG/Mayday/Aaroy Plain/Chapter 2"},
 		[4102206] = {"@Obli/SEG/Skell Wreckage/Aaroy Plain/Mechanical 2"},
-		[4102209] = {"@Obli/SEG/A Friend in Need/Rooney Cavern"},
 		[4102210] = {"@Obli/SEG/White Whale Debris/Milligan Supply Base/Mechanical 4"},
 		[4102211] = {"@Obli/SEG/Skell Wreckage/Milligan Supply Base/Mechanical 4"},
-		[4102214] = {"@Obli/SEG/Indigen Dung/Aaroy Plain/Biological 2"},
 		[4102216] = {"@Obli/SEG/White Whale Debris/Barbarich Desert/Mechanical 2"},
 		[4102218] = {"@Obli/SEG/Trailer Wreckage/Ejiri Promontory/Mechanical 2"},
-		[4102219] = {"@Obli/SEG/The Duel I/Ruins on the Sandbank"},
-		[4102222] = {"@Obli/SEG/A Grim Undertaking/Barbarich Desert"},
 		[4102223] = {"@Obli/SEG/Skell Wreckage/Drowning Ring/Mechanical 4"},
-		[4102224] = {"@Obli/SEG/The Little Rich Girl/Lake Basel"},
-		[4102226] = {"@Obli/SEG/A Challenger Approaches/Wrothian Stronghold"},
 		[4102227] = {"@Obli/SEG/White Whale Debris/Keegan Ridge/Mechanical 4"},
-		[4102228] = {"@Obli/SEG/Then and Now/Keegan Ridge"},
-		[4102231] = {"@Obli/SEG/A Great Divide/South Coast"},
 		[4102232] = {"@Obli/SEG/Skell Wreckage/Lake Basel/Mechanical 4"},
-		[4102234] = {"@Obli/SEG/Indigen Nest/Mount Edge Peak/Biological 4"},
-		[4102235] = {"@Obli/SEG/Bread and a Circus/Beehive Rock"},
-		[4102237] = {"@Obli/SEG/Indigen Nest/Giant Ring/Biological 5"},
-		[4102238] = {"@Obli/SEG/Shotgun Diplomacy/Balance Rock"},
 		[4102240] = {"@Obli/SEG/White Whale Debris/Lake Basel/Mechanical 4"},
-		[4102241] = {"@Obli/SEG/Dorian Caravan/Lake Basel"},
 		[4102242] = {"@Obli/SEG/Vehicle Wreckage/Lake Basel/Mechanical 4"},
-		[4102243] = {"@Obli/SEG/Indigen Dung/Victory Rock/Biological 3"},
 		[4102245] = {"@Obli/SEG/Vehicle Wreckage/Balance Rock/Mechanical 3"},
 		[4102246] = {"@Obli/SEG/Skell Wreckage/South Coast/Mechanical 3"},
 		[4102247] = {"@Obli/SEG/Skell Wreckage/Washington Isle/Mechanical 4"},
 		[4102249] = {"@Obli/SEG/White Whale Debris/Sea Whisper Valley/Mechanical 3"},
-		[4102252] = {"@Obli/SEG/Alien Container/Jair Fortress/Archeological 4"},
+
+		[4102183] = {"@Obli/SEG/Sunceleg Rises/Stoyanov Trail"},
+		[4102194] = {"@Obli/SEG/A Dish Served Cold/Yawning Giant"},
+		[4102196] = {"@Obli/SEG/Prone Sweet Prone/Scabland Fortress"},
+		[4102201] = {"@Obli/SEG/Foggy Dilemma/Aaroy Plain"},
+		[4102204] = {"@Obli/SEG/Slovitys Rampage/Milligan Supply Base"},
+		[4102205] = {"@Obli/SEG/Mayday/Aaroy Plain/Chapter 2"},
+		[4102209] = {"@Obli/SEG/A Friend in Need/Rooney Cavern"},
+		[4102219] = {"@Obli/SEG/The Duel I/Ruins on the Sandbank"},
+		[4102222] = {"@Obli/SEG/A Grim Undertaking/Barbarich Desert"},
+		[4102224] = {"@Obli/SEG/The Little Rich Girl/Lake Basel"},
+		[4102226] = {"@Obli/SEG/A Challenger Approaches/Wrothian Stronghold"},
+		[4102228] = {"@Obli/SEG/Then and Now/Keegan Ridge"},
+		[4102231] = {"@Obli/SEG/A Great Divide/South Coast"},
+		[4102235] = {"@Obli/SEG/Bread and a Circus/Beehive Rock"},
+		[4102238] = {"@Obli/SEG/Shotgun Diplomacy/Balance Rock"},
+		[4102241] = {"@Obli/SEG/Dorian Caravan/Lake Basel"},
 		[4102253] = {"@Obli/SEG/Spy Games/Jair Fortress"},
 
 	--caul
@@ -2147,53 +2167,61 @@ LOCATION_MAPPING = {
 
 		--Chp 4
 		[4102256] = {"@Caul/SEG/Supplies Surprise/Drongo Caravan/Chp 4"},
+
 		--Chp 11
 		[4102281] = {"@Caul/SEG/Black Lifehold/Slavebird Isle/Chp 11"},
 		[4102302] = {"@Caul/SEG/Until the End/Mgando Gorge/Chp 11"},
+
 		--Chp 12
 		[4102284] = {"@Caul/SEG/Lionhearted/Ganglion Weapons Hangar/Chp 12"},
 
-		[4102254] = {"@Caul/SEG/White Whale Debris/Far Isle of Tzuo/Mechanical 1"},
+		--Archeological		
 		[4102255] = {"@Caul/SEG/Alien Reliquary/Scholes Battlegrounds/Archeological 2"},
+		[4102268] = {"@Caul/SEG/Alien Wreckage/Emerian Battlegrounds/Archeological 2"},
+		[4102270] = {"@Caul/SEG/Alien Reliquary/Emerian Battlegrounds/Archeological 2"},
+		[4102274] = {"@Caul/SEG/Alien Reliquary/Adder Byroad/Archeological 2"},
+		[4102283] = {"@Caul/SEG/Alien Container/Abandoned Bivouac/Archeological 2"},
+		[4102286] = {"@Caul/SEG/Alien Container/Forgotten Mining Frigate/Archeological 3"},
+		[4102295] = {"@Caul/SEG/Alien Wreckage/Abandoned Bivouac/Archeological 2"},
+		[4102297] = {"@Caul/SEG/Alien Container/Capital Wreckage/Archeological 2"},
+		[4102299] = {"@Caul/SEG/Alien Reliquary/Bestial Utopia/Archeological 2"},
+		[4102310] = {"@Caul/SEG/Alien Reliquary/Old Ceremonial Hollow/Archeological 4"},
+		[4102311] = {"@Caul/SEG/Alien Wreckage/Mgando Gorge/Archeological 2"},
+
+		--Biological
 		[4102257] = {"@Caul/SEG/Indigen Nest/Ancient Warscape/Biological 1"},
 		[4102258] = {"@Caul/SEG/Indigen Nest/Forgotten Mining Frigate/Biological 5"},
-		[4102259] = {"@Caul/SEG/Gorkwa Games/White Phosphorus"},
-		[4102260] = {"@Caul/SEG/Sparking a Smile/Drongo Caravan"},
-		[4102261] = {"@Caul/SEG/Slovitys Revenge/Ancient Warscape"},
+		[4102296] = {"@Caul/SEG/Indigen Nest/Capital Wreckage/Biological 2"},
+		[4102312] = {"@Caul/SEG/Indigen Nest/Mount Mgando/Biological 3"},
+
+		--Mechanical
+		[4102254] = {"@Caul/SEG/White Whale Debris/Far Isle of Tzuo/Mechanical 1"},
 		[4102262] = {"@Caul/SEG/Lifepod/Emerian Battlegrounds/Mechanical 2"},
 		[4102264] = {"@Caul/SEG/White Whale Debris/Wildcat Fortress/Mechanical 2"},
 		[4102265] = {"@Caul/SEG/White Whale Debris/Gnahan Villa/Mechanical 2"},
-		[4102266] = {"@Caul/SEG/The Bodyguard/FN Site 505"},
-		[4102267] = {"@Caul/SEG/My Angel, My Lana/Emerian Battlegrounds"},
-		[4102268] = {"@Caul/SEG/Alien Wreckage/Emerian Battlegrounds/Archeological 2"},
-		[4102269] = {"@Caul/SEG/Definian Downfall/Ganglion Antropolis"},
-		[4102270] = {"@Caul/SEG/Alien Reliquary/Emerian Battlegrounds/Archeological 2"},
-		[4102273] = {"@Caul/SEG/The Old Gods/Slavebird Isle"},
-		[4102274] = {"@Caul/SEG/Alien Reliquary/Adder Byroad/Archeological 2"},
-		[4102275] = {"@Caul/SEG/Mia Is Missing!/Ganglion Antropolis"},
-		[4102276] = {"@Caul/SEG/The Duel IV/Titans Table"},
 		[4102278] = {"@Caul/SEG/Patrol Chopper Wreckage/Orrh Sim Capital Ruins/Mechanical 3"},
-		[4102279] = {"@Caul/SEG/To Serve Nopon/Dragonbone Promontory"},
-		[4102280] = {"@Caul/SEG/Rites of Ruin/Ternion Fork"},
-		[4102283] = {"@Caul/SEG/Alien Container/Abandoned Bivouac/Archeological 2"},
-		[4102286] = {"@Caul/SEG/Alien Container/Forgotten Mining Frigate/Archeological 3"},
 		[4102287] = {"@Caul/SEG/Lifepod/Slavebird Isle/Mechanical 3"},
 		[4102292] = {"@Caul/SEG/Lifepod/Tengus Playground/Mechanical 3"},
 		[4102293] = {"@Caul/SEG/Lifepod/Kitsune Stronghold/Mechanical 2"},
-		[4102294] = {"@Caul/SEG/A Present for Hope/Forgotten Mining Frigate"},
-		[4102295] = {"@Caul/SEG/Alien Wreckage/Abandoned Bivouac/Archeological 2"},
-		[4102296] = {"@Caul/SEG/Indigen Nest/Capital Wreckage/Biological 2"},
-		[4102297] = {"@Caul/SEG/Alien Container/Capital Wreckage/Archeological 2"},
 		[4102298] = {"@Caul/SEG/Patrol Chopper Wreckage/Kwarah Villa/Mechanical 2"},
-		[4102299] = {"@Caul/SEG/Alien Reliquary/Bestial Utopia/Archeological 2"},
 		[4102301] = {"@Caul/SEG/Patrol Chopper Wreckage/Mgando Gorge/Mechanical 2"},
+		[4102308] = {"@Caul/SEG/Patrol Chopper Wreckage/Kwarah Villa/Mechanical 4"},
+
+		[4102259] = {"@Caul/SEG/Gorkwa Games/White Phosphorus"},
+		[4102260] = {"@Caul/SEG/Sparking a Smile/Drongo Caravan"},
+		[4102261] = {"@Caul/SEG/Slovitys Revenge/Ancient Warscape"},
+		[4102266] = {"@Caul/SEG/The Bodyguard/FN Site 505"},
+		[4102267] = {"@Caul/SEG/My Angel, My Lana/Emerian Battlegrounds"},
+		[4102269] = {"@Caul/SEG/Definian Downfall/Ganglion Antropolis"},
+		[4102273] = {"@Caul/SEG/The Old Gods/Slavebird Isle"},
+		[4102275] = {"@Caul/SEG/Mia Is Missing!/Ganglion Antropolis"},
+		[4102276] = {"@Caul/SEG/The Duel IV/Titans Table"},
+		[4102279] = {"@Caul/SEG/To Serve Nopon/Dragonbone Promontory"},
+		[4102280] = {"@Caul/SEG/Rites of Ruin/Ternion Fork"},
+		[4102294] = {"@Caul/SEG/A Present for Hope/Forgotten Mining Frigate"},
 		[4102305] = {"@Caul/SEG/The Queen Is Dead/Mount Mgando"},
 		[4102307] = {"@Caul/SEG/Alexs Last Stand/Mount Mgando"},
-		[4102308] = {"@Caul/SEG/Patrol Chopper Wreckage/Kwarah Villa/Mechanical 4"},
 		[4102309] = {"@Caul/SEG/The Unbreakable Sword/Mount Mgando"},
-		[4102310] = {"@Caul/SEG/Alien Reliquary/Old Ceremonial Hollow/Archeological 4"},
-		[4102311] = {"@Caul/SEG/Alien Wreckage/Mgando Gorge/Archeological 2"},
-		[4102312] = {"@Caul/SEG/Indigen Nest/Mount Mgando/Biological 3"},
 
 	--sylv
 		--Tyrants
@@ -2222,61 +2250,72 @@ LOCATION_MAPPING = {
 		--Chp 4
 		[4102318] = {"@Sylv/SEG/Lesson from the Grave/Shivering Sands/Chp 4"},
 		[4102326] = {"@Sylv/SEG/Castle in the Sky/Lake Ciel/Night/Chp 4"},
+
 		--Chp 6
 		[4102319] = {"@Sylv/SEG/Predator and Prey/Shivering Sands/Chp 6"},
+
 		--Chp 7
 		[4102369] = {"@Sylv/SEG/Special Delivery/North Silent Sandsea/Chp 7"},
+
 		--Chp 8
 		[4102341] = {"@Sylv/SEG/Hair Apparent/Lake Ciel/Chp 8"},
+
 		--Chp 9
 		[4102350] = {"@Sylv/SEG/Its-a Mia!/Lake Ciel/Chp 9"},
+
 		--Chp 11
 		[4102330] = {"@Sylv/SEG/Plans of Attack/Badr Basin/Chp 11"},
 
+		--Archeological
 		[4102313] = {"@Sylv/SEG/Alien Container/Shivering Sands/Archeological 4"},
-		[4102315] = {"@Sylv/SEG/Strange Petrified Tree/Seabirds Beak/Biological 3"},
 		[4102316] = {"@Sylv/SEG/Alien Wreckage/Cavernous Abyss/Archeological 5"},
-		[4102320] = {"@Sylv/SEG/Strange Petrified Tree/Hilal Meadow/Biological 2"},
-		[4102321] = {"@Sylv/SEG/Bottoms Up/Seabirds Beak"},
 		[4102323] = {"@Sylv/SEG/Alien Container/Badr Stronghold/Archeological 4"},
 		[4102325] = {"@Sylv/SEG/Alien Reliquary/West Ciel Sandsea/Archeological 4"},
 		[4102329] = {"@Sylv/SEG/Alien Container/Lesser Anvil/Archeological 3"},
-		[4102334] = {"@Sylv/SEG/The Line of Fire/Hilal Meadow"},
-		[4102336] = {"@Sylv/SEG/Unknown Assailant/Banshee Cove"},
-		[4102337] = {"@Sylv/SEG/Strange Petrified Tree/Banshee Cove/Biological 5"},
 		[4102339] = {"@Sylv/SEG/Alien Container/Badr Strongbridge/Archeological 4"},
-		[4102340] = {"@Sylv/SEG/Soldier of the Harriers/South Cinderdunes"},
-		[4102342] = {"@Sylv/SEG/Patrol Chopper Wreckage/South Ciel Sandsea/Mechanical 3"},
 		[4102343] = {"@Sylv/SEG/Alien Container/Hilal Stronghold/Archeological 4"},
-		[4102345] = {"@Sylv/SEG/Patrol Chopper Wreckage/Anvil Rock Two/Mechanical 5"},
-		[4102346] = {"@Sylv/SEG/Law and Orders/Anvil Sandplains"},
-		[4102347] = {"@Sylv/SEG/Strange Petrified Tree/South Cinderdunes/Biological 3"},
-		[4102348] = {"@Sylv/SEG/Serial Thriller/Xanadu Overlook"},
 		[4102349] = {"@Sylv/SEG/Alien Reliquary/Lake Ciel/Archeological 5"},
-		[4102351] = {"@Sylv/SEG/Skell Wreckage/Hilal Meadow/Mechanical 3"},
-		[4102352] = {"@Sylv/SEG/Skell Wreckage/Anvil Sandplains/Mechanical 4"},
-		[4102353] = {"@Sylv/SEG/Good Fortun/Anvil Rock One"},
 		[4102358] = {"@Sylv/SEG/Alien Wreckage/Hilal Meadow/Archeological 3"},
 		[4102359] = {"@Sylv/SEG/Alien Wreckage/North Cinderdunes/Archeological 4"},
-		[4102360] = {"@Sylv/SEG/Strange Petrified Tree/North Silent Sandsea/Biological 4"},
-		[4102361] = {"@Sylv/SEG/Skell Wreckage/Lower Delusian Mountains/Mechanical 3"},
-		[4102362] = {"@Sylv/SEG/Strange Petrified Tree/South Silent Sandsea/Biological 3"},
 		[4102363] = {"@Sylv/SEG/Alien Wreckage/South Hardheart Canyon/Archeological 4"},
 		[4102365] = {"@Sylv/SEG/Alien Reliquary/Lake Ciel/Archeological 4"},
 		[4102367] = {"@Sylv/SEG/Alien Container/Quay Hollows/Archeological 4"},
 		[4102368] = {"@Sylv/SEG/Alien Wreckage/Cauldros Threshold/Archeological 2"},
-		[4102370] = {"@Sylv/SEG/The Duel III/Delusian North Summit"},
-		[4102371] = {"@Sylv/SEG/Brotherly Love/South Hardheart Canyon"},
-		[4102373] = {"@Sylv/SEG/Strange Petrified Tree/East Ciel Sandsea/Biological 4"},
-		[4102374] = {"@Sylv/SEG/Leaving the Nest/Cauldros Threshold"},
 		[4102376] = {"@Sylv/SEG/Alien Container/Lower Delusian Mountains/Archeological 4"},
-		[4102377] = {"@Sylv/SEG/Orphean Pluck/Delusians South Summit"},
+		[4102381] = {"@Sylv/SEG/Alien Container/North Hardheart Canyon/Archeological 4"},
+		[4102383] = {"@Sylv/SEG/Alien Container/Southern Searoad/Archeological 2"},
+
+		--Biological
+		[4102315] = {"@Sylv/SEG/Strange Petrified Tree/Seabirds Beak/Biological 3"},
+		[4102320] = {"@Sylv/SEG/Strange Petrified Tree/Hilal Meadow/Biological 2"},
+		[4102337] = {"@Sylv/SEG/Strange Petrified Tree/Banshee Cove/Biological 5"},
+		[4102347] = {"@Sylv/SEG/Strange Petrified Tree/South Cinderdunes/Biological 3"},
+		[4102360] = {"@Sylv/SEG/Strange Petrified Tree/North Silent Sandsea/Biological 4"},
+		[4102362] = {"@Sylv/SEG/Strange Petrified Tree/South Silent Sandsea/Biological 3"},
+		[4102373] = {"@Sylv/SEG/Strange Petrified Tree/East Ciel Sandsea/Biological 4"},
 		[4102378] = {"@Sylv/SEG/Strange Petrified Tree/Southern Searoad/Biological 2"},
 		[4102379] = {"@Sylv/SEG/Strange Petrified Tree/Cleansing Spring/Biological 3"},
 		[4102380] = {"@Sylv/SEG/Strange Petrified Tree/Northern Searoad/Biological 4"},
-		[4102381] = {"@Sylv/SEG/Alien Container/North Hardheart Canyon/Archeological 4"},
+		
+		--Mechanical
+		[4102342] = {"@Sylv/SEG/Patrol Chopper Wreckage/South Ciel Sandsea/Mechanical 3"},
+		[4102345] = {"@Sylv/SEG/Patrol Chopper Wreckage/Anvil Rock Two/Mechanical 5"},
+		[4102351] = {"@Sylv/SEG/Skell Wreckage/Hilal Meadow/Mechanical 3"},
+		[4102352] = {"@Sylv/SEG/Skell Wreckage/Anvil Sandplains/Mechanical 4"},
+		[4102361] = {"@Sylv/SEG/Skell Wreckage/Lower Delusian Mountains/Mechanical 3"},
+
+		[4102321] = {"@Sylv/SEG/Bottoms Up/Seabirds Beak"},
+		[4102334] = {"@Sylv/SEG/The Line of Fire/Hilal Meadow"},
+		[4102336] = {"@Sylv/SEG/Unknown Assailant/Banshee Cove"},
+		[4102340] = {"@Sylv/SEG/Soldier of the Harriers/South Cinderdunes"},
+		[4102346] = {"@Sylv/SEG/Law and Orders/Anvil Sandplains"},
+		[4102348] = {"@Sylv/SEG/Serial Thriller/Xanadu Overlook"},
+		[4102353] = {"@Sylv/SEG/Good Fortun/Anvil Rock One"},
+		[4102370] = {"@Sylv/SEG/The Duel III/Delusian North Summit"},
+		[4102371] = {"@Sylv/SEG/Brotherly Love/South Hardheart Canyon"},
+		[4102374] = {"@Sylv/SEG/Leaving the Nest/Cauldros Threshold"},
+		[4102377] = {"@Sylv/SEG/Orphean Pluck/Delusians South Summit"},
 		[4102382] = {"@Sylv/SEG/The Sword of Legendaryness/Behemoths Shadows"},
-		[4102383] = {"@Sylv/SEG/Alien Container/Southern Searoad/Archeological 2"},
 
 
 
