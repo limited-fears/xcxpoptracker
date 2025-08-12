@@ -1864,57 +1864,76 @@ LOCATION_MAPPING = {
 		[4102055] = {"@Admi-Disct/SEG/Lin 3 H2H/Division Drive/Afternoon"},
 
 		--ch2
-
-		
-		[4101999] = {"@Admi-Disct/SEG/The Duel II/BLADE Tower/Chp 11"},
-		[4102001] = {"@Admi-Disct/SEG/Cavern Crushers/BLADE Tower/Chp 9"},
-		[4102002] = {"@Admi-Disct/SEG/Attack on Biahno Hills/BLADE Tower/Chp 7"},
-		[4102004] = {"@Admi-Disct/SEG/Prone Sweet Prone/BLADE Tower/Chp 5"},
-		[4102008] = {"@Admi-Disct/SEG/Doug/Hangar/Chp 3"},
-		[4102010] = {"@Admi-Disct/SEG/Manhunt/Aff Mission/BLADE Tower/Chp 8"},
-		[4102011] = {"@Admi-Disct/SEG/Spy Games/Aff Mission/BLADE Tower/Chp 7"},
-		[4102012] = {"@Admi-Disct/SEG/Rescue at the Ensconced Citadel/BLADE Tower/Chp 6"},
-		[4102013] = {"@Admi-Disct/SEG/The Ultimate Price/BLADE Tower/Chp 10"},
-		[4102014] = {"@Admi-Disct/SEG/The Handy Ma-non/Hangar/Chp 5"},
-		[4102015] = {"@Admi-Disct/SEG/My Dream/Aff Mission/Hangar/Chp 5"},
-		[4102017] = {"@Admi-Disct/SEG/The Nopon Heir/Aff Mission/Armory Alley/L 4/Chp 12"},
-		[4102018] = {"@Admi-Disct/SEG/L/Armory Alley/Chp 4"},
-		[4102019] = {"@Admi-Disct/SEG/Thats In-Credible!/BLADE Tower/Chp 5"},
-		[4102020] = {"@Admi-Disct/SEG/Reporting for Duty/Aff Mission/BLADE Tower/Nagi 3/Chp 10"},
-		[4102021] = {"@Admi-Disct/SEG/A False Hope/Aff Mission/BLADE Tower/Hope 2/Chp 5"},
-		[4102022] = {"@Admi-Disct/SEG/Planetary Pioneer II/BLADE Tower/Chp 5"},
-		[4102024] = {"@Admi-Disct/SEG/Mamma Mia!/Hangar/Chp 3"},
-		[4102025] = {"@Admi-Disct/SEG/Mia Grows Up/Aff Mission/Hangar/Mia 4/Chp 12"},
-		[4102026] = {"@Admi-Disct/SEG/Brotherly Love/Aff Mission/Hangar/Phog 4 Frye 4/Chp 11"},
-		[4102028] = {"@Admi-Disct/SEG/Ls Conundrum/Aff Mission/Armory Alley/L 2/Chp 10"},
-		[4102029] = {"@Admi-Disct/SEG/Booming Business/Armory Alley/Chp 5"},
-		[4102030] = {"@Admi-Disct/SEG/Lend an Ear/BLADE Tower/Chp 11"},
-		[4102031] = {"@Admi-Disct/SEG/Setting Forth/Mimeo Maint Center/Chp 8"},
-		[4102033] = {"@Admi-Disct/SEG/Planetary Pioneer IV/Division Drive/Chp 8"},
-		[4102034] = {"@Admi-Disct/SEG/Waste Not, Want Not/Hangar/Chp 10"},
-		[4102035] = {"@Admi-Disct/SEG/The Skell License/Hangar/Chp 6"},
-		[4102037] = {"@Admi-Disct/SEG/House of Cards/Armory Alley/Chp 5"},
-		[4102038] = {"@Admi-Disct/SEG/White Lifehold/Armory Alley/Chp 11"},
-		[4102039] = {"@Admi-Disct/SEG/BLADE Level Basics/BLADE Concourse/Chp 3"},
-		[4102040] = {"@Admi-Disct/SEG/Soldier of the Harriers/Aff Mission/Mimeo Maint Center/Doug 3/Chp 7"},
+		[4102060] = {"@Admi-Disct/SEG/Myles to Go/East Gate/Chp 2"},
 		[4102041] = {"@Admi-Disct/SEG/The Probe-fessional/Mimeo Maint Center/Chp 2"},
-		[4102042] = {"@Admi-Disct/SEG/The Duel III/Mimeo Maint Center/Chp 11"},
-		[4102043] = {"@Admi-Disct/SEG/The Little Rich Girl/Aff Mission/Division Drive/Murderess 2/Chp 10"},
-		[4102044] = {"@Admi-Disct/SEG/Lao/Division Drive/Chp 4"},
+
+		--ch3
+		[4102008] = {"@Admi-Disct/SEG/Doug/Hangar/Chp 3"},
+		[4102024] = {"@Admi-Disct/SEG/Mamma Mia!/Hangar/Chp 3"},
+		[4102039] = {"@Admi-Disct/SEG/BLADE Level Basics/BLADE Concourse/Chp 3"},
 		[4102045] = {"@Admi-Disct/SEG/Gwin/Division Drive/Chp 3"},
 		[4102046] = {"@Admi-Disct/SEG/City Saviors/Division Drive/Chp 3"},
-		[4102047] = {"@Admi-Disct/SEG/Close Comrades/Aff Mission/BLADE Barracks/Chp 4"},
 		[4102048] = {"@Admi-Disct/SEG/Planetary Pioneer I/BLADE Concourse/Chp 3"},
-		[4102050] = {"@Admi-Disct/SEG/Ovah and Out/Mimeo Maint Center/Chp 7"},
-		[4102051] = {"@Admi-Disct/SEG/Cooking Schooled/Mimeo Maint Center/Chp 12"},
-		[4102052] = {"@Admi-Disct/SEG/Mia Is Missing!/Mimeo Maint Center/Chp 11"},
-		[4102053] = {"@Admi-Disct/SEG/Unknown Assailant/Division Drive/Chp 10"},
+		[4102058] = {"@Admi-Disct/SEG/Irina/BLADE Concourse/Chp 3"},
+
+		--ch4
+   		[4102018] = {"@Admi-Disct/SEG/L/Armory Alley/Chp 4"},
+		[4102044] = {"@Admi-Disct/SEG/Lao/Division Drive/Chp 4"},
+		[4102047] = {"@Admi-Disct/SEG/Close Comrades/Aff Mission/BLADE Barracks/Chp 4"},
+
+		--ch5
+		[4102004] = {"@Admi-Disct/SEG/Prone Sweet Prone/BLADE Tower/Chp 5"},
+		[4102014] = {"@Admi-Disct/SEG/The Handy Ma-non/Hangar/Chp 5"},
+		[4102015] = {"@Admi-Disct/SEG/My Dream/Aff Mission/Hangar/Chp 5"},
+		[4102019] = {"@Admi-Disct/SEG/Thats In-Credible!/BLADE Tower/Chp 5"},
+		[4102021] = {"@Admi-Disct/SEG/A False Hope/Aff Mission/BLADE Tower/Hope 2/Chp 5"},
+		[4102022] = {"@Admi-Disct/SEG/Planetary Pioneer II/BLADE Tower/Chp 5"},
+		[4102037] = {"@Admi-Disct/SEG/House of Cards/Armory Alley/Chp 5"},
+
+		--ch6
+		[4102012] = {"@Admi-Disct/SEG/Rescue at the Ensconced Citadel/BLADE Tower/Chp 6"},
+		[4102035] = {"@Admi-Disct/SEG/The Skell License/Hangar/Chp 6"},
 		[4102054] = {"@Admi-Disct/SEG/Frontier Spirit/Division Drive/Chp 6"},
 		[4102056] = {"@Admi-Disct/SEG/Close Encounters/BLADE Barracks/Chp 6"},
-		[4102058] = {"@Admi-Disct/SEG/Irina/BLADE Concourse/Chp 3"},
-		[4102060] = {"@Admi-Disct/SEG/Myles to Go/East Gate/Chp 2"},
-		[4102061] = {"@Admi-Disct/SEG/Slovitys Rampage/East Gate/Chp 10"},
+
+		--ch7
+		[4102002] = {"@Admi-Disct/SEG/Attack on Biahno Hills/BLADE Tower/Chp 7"},
+		[4102011] = {"@Admi-Disct/SEG/Spy Games/Aff Mission/BLADE Tower/Chp 7"},
+        [4102040] = {"@Admi-Disct/SEG/Soldier of the Harriers/Aff Mission/Mimeo Maint Center/Doug 3/Chp 7"},
+		[4102050] = {"@Admi-Disct/SEG/Ovah and Out/Mimeo Maint Center/Chp 7"},
+
+		--ch8
+		[4102010] = {"@Admi-Disct/SEG/Manhunt/Aff Mission/BLADE Tower/Chp 8"},
+		[4102031] = {"@Admi-Disct/SEG/Setting Forth/Mimeo Maint Center/Chp 8"},
+		[4102033] = {"@Admi-Disct/SEG/Planetary Pioneer IV/Division Drive/Chp 8"},
 		[4102062] = {"@Admi-Disct/SEG/Blitzkrieg/Aff Mission/East Gate/Phog 3 Frye 3/Chp 8"},
+
+		--ch9
+		[4102001] = {"@Admi-Disct/SEG/Cavern Crushers/BLADE Tower/Chp 9"},
+
+		--ch10
+		[4102013] = {"@Admi-Disct/SEG/The Ultimate Price/BLADE Tower/Chp 10"},
+		[4102020] = {"@Admi-Disct/SEG/Reporting for Duty/Aff Mission/BLADE Tower/Nagi 3/Chp 10"},
+		[4102028] = {"@Admi-Disct/SEG/Ls Conundrum/Aff Mission/Armory Alley/L 2/Chp 10"},
+		[4102034] = {"@Admi-Disct/SEG/Waste Not, Want Not/Hangar/Chp 10"},
+		[4102043] = {"@Admi-Disct/SEG/The Little Rich Girl/Aff Mission/Division Drive/Murderess 2/Chp 10"},
+		[4102053] = {"@Admi-Disct/SEG/Unknown Assailant/Division Drive/Chp 10"},
+		[4102061] = {"@Admi-Disct/SEG/Slovitys Rampage/East Gate/Chp 10"},
+
+		--ch11
+		[4101999] = {"@Admi-Disct/SEG/The Duel II/BLADE Tower/Chp 11"},
+		[4102026] = {"@Admi-Disct/SEG/Brotherly Love/Aff Mission/Hangar/Phog 4 Frye 4/Chp 11"},
+		[4102030] = {"@Admi-Disct/SEG/Lend an Ear/BLADE Tower/Chp 11"},
+		[4102038] = {"@Admi-Disct/SEG/White Lifehold/Armory Alley/Chp 11"},
+		[4102042] = {"@Admi-Disct/SEG/The Duel III/Mimeo Maint Center/Chp 11"},
+		[4102052] = {"@Admi-Disct/SEG/Mia Is Missing!/Mimeo Maint Center/Chp 11"},
+
+		--ch12
+		[4102017] = {"@Admi-Disct/SEG/The Nopon Heir/Aff Mission/Armory Alley/L 4/Chp 12"},
+		[4102051] = {"@Admi-Disct/SEG/Cooking Schooled/Mimeo Maint Center/Chp 12"},
+		[4102025] = {"@Admi-Disct/SEG/Mia Grows Up/Aff Mission/Hangar/Mia 4/Chp 12"},
+
+
 
 		--mechanical
 		[4102005] = {"@Admi-Disct/SEG/Large Container/BLADE Tower/Mechanical 4"},
