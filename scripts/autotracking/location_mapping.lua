@@ -2403,7 +2403,18 @@ LOCATION_MAPPING = {
 
 
 --locations
-	
+		--NLA	
+
+		--prim
+
+		--noct
+
+		--oblivi
+
+		--caul
+
+		--sylv
+
 	[4102401] = {"@LOC/Barracks Interior"},
 	[4102402] = {"@LOC/Interior"},
 	[4102403] = {"@LOC/West Gate"},
