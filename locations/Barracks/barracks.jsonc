@@ -1,19 +1,16 @@
 [{
-		"name": "barracks",
+		"name": "Blade-Barracks",
 		"children":[
 			{
-				"name": "Ch_1",
+				"name": "SEG",
 				"access_rules": [
+					
         ],
 				"sections":[
 				    {
-                    "name": "Barks Sec1",
+                    "name": "Elma 5 H2H",
                     "item_count": 1
-                    },
-					{
-                    "name": "Barks Sec2",
-                    "item_count": 3
-                    }
+                    }					
                 ],
 				"map_locations": [
 					{				

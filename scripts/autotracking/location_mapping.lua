@@ -1954,7 +1954,7 @@ LOCATION_MAPPING = {
 	--blade barracks
 
 		--h2h
-		[4102390] = {"@Blade-Barracks/SEG/Elma 5 H2H/Night"},
+		[4102390] = {"@Blade-Barracks/SEG/Elma 5 H2H"},
 		[4102393] = {"@Blade-Barracks/SEG/Nagi 4 H2H"},
 
 		--ch3
