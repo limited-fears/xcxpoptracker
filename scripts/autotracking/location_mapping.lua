@@ -2169,6 +2169,8 @@ LOCATION_MAPPING = {
 		[4102248] = {"@Obli/SEG/Vilem, the Gold-Scaled/Lake Basel/Tyrant"},
 		[4102250] = {"@Obli/SEG/Bertrand, the Gorge Scourge/East Ibra Ravine/Tyrant"},
 
+		--chp 2
+		[4102205] = {"@Obli/SEG/Mayday/Aaroy Plain/Chp 2"},
 		--Chp 3
 		[4102251] = {"@Obli/SEG/The Trading Floor/Sea Whisper Valley/Chp 3"},
 
@@ -2215,7 +2217,6 @@ LOCATION_MAPPING = {
 		[4102196] = {"@Obli/SEG/Prone Sweet Prone/Scabland Fortress"},
 		[4102201] = {"@Obli/SEG/Foggy Dilemma/Aaroy Plain"},
 		[4102204] = {"@Obli/SEG/Slovitys Rampage/Milligan Supply Base"},
-		[4102205] = {"@Obli/SEG/Mayday/Aaroy Plain/Chapter 2"},
 		[4102209] = {"@Obli/SEG/A Friend in Need/Rooney Cavern"},
 		[4102219] = {"@Obli/SEG/The Duel I/Ruins on the Sandbank"},
 		[4102222] = {"@Obli/SEG/A Grim Undertaking/Barbarich Desert"},
