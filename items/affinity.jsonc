@@ -42,14 +42,14 @@
   },
 
 {
-   "name": "elma",
+   "name": "Elma",
 	"type": "consumable",
   "max_quantity": 5,
   "increment": 1,
 	"allow_disabled": true,
 	"img": "images/affin/elma.png",
   "overlay_background": "#000",
-    "codes": "elma"
+    "codes": "Elma"
   },
 {
      "name": "Frye",
@@ -63,14 +63,14 @@
 },
 
 {
-  "name": "gwin",
+  "name": "Gwin",
 	"type": "consumable",
   "max_quantity": 5,
   "increment": 1,
 	"allow_disabled": true,
 	"img": "images/affin/gwin.png",
   "overlay_background": "#000",
-    "codes": "gwin"
+    "codes": "Gwin"
   },
 {
     "name": "H.B.",
