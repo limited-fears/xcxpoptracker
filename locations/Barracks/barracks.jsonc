@@ -24,7 +24,7 @@
 				{
 				"name":	"Nagi 4 H2H",
 				"item_count":1,
-				"access_rules"[
+				"access_rules":[
 					"Nagi:4"
 				],
 				"map_locations":[
