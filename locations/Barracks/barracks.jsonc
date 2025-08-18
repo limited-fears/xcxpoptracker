@@ -9,7 +9,6 @@
 				"sections":[
 				    {
                     "name": "Elma 5 H2H",
-                    "item_count": 1,
 					"access_rules":
 						["Elma:5"],
 				"map_locations": [
@@ -20,21 +19,6 @@
 						"size": 10
 					}
 				]	             
-				},
-				{
-				"name":	"Nagi 4 H2H",
-				"item_count":1,
-				"access_rules":[
-					"Nagi:4"
-				],
-				"map_locations":[
-										{				
-						"map": "Barks",
-						"x": 559,
-						"y": 532,
-						"size": 10
-					}
-				]
 				}			
                 ]
 				
