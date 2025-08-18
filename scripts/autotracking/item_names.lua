@@ -2,11 +2,11 @@ ITEM_NAMES = {
 
 	--key items
 
-	[key:skelllicense] = "Skell License",
-	[key:flightmodule] = "Flight Module",
+	[key:skelllicense] = "Skell-License",
+	[key:flightmodule] = "Flight-Module",
 	[key:overdrive] = "Overdrive",
 	[key:fnet] = "FNet",
-	[key:bladelicense] = "Blade License",
+	[key:bladelicense] = "Blade-License",
 	[key:death] = "Death",
 	[key:filler] = "Filler",
 	[key:victory] = "Victory",

@@ -6,13 +6,13 @@
     "name": "Skell Licence",
     "type": "toggle",
     "img": "images/items/complete.png",
-    "codes": "Skell License"
+    "codes": "Skell-License"
   },
   {
     "name": "Flight Module",
     "type": "toggle",
     "img": "images/items/complete.png",
-    "codes": "Flight Module"
+    "codes": "Flight-Module"
   },
   {
     "name": "Overdrive",
@@ -30,6 +30,6 @@
     "name": "Blade License",
     "type": "toggle",
     "img": "images/items/complete.png",
-    "codes": "blade license"
+    "codes": "blade-license"
   }
 ]
