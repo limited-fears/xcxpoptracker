@@ -17,9 +17,9 @@
             "h_alignment": "center",
             "item_size":50,
             "rows": [
-              ["fnet","bladelicense"],
-              ["skelllicense","flightmodule"],
-              ["overdrive"]
+              ["FNet","blade license"],
+              ["Skell License","Flight Module"],
+              ["Overdrive"]
             ]
           }
         ]
