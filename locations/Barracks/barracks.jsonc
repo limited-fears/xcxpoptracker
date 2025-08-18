@@ -8,7 +8,9 @@
         ],
 				"sections":[
 				    {
-                    "name": "Elma 5 H2H",
+                    "name": "Elma 5 H2H"
+					}
+				],
 				"map_locations": [
 					{				
 						"map": "Barks",
@@ -17,15 +19,15 @@
 						"size": 10
 					}
 				]	             
-				}			
+			}			
                 ]
 				
 
 			}
 		]
 						
-	}
-	]
+	
+	
 
 
 	///
