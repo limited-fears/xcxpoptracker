@@ -17,8 +17,8 @@
             "h_alignment": "center",
             "item_size":50,
             "rows": [
-              ["FNet","blade-license"],
-              ["key:skelllicense","Flight-Module"],
+              ["FNet","bladelicense"],
+              ["skelllicense","FlightModule"],
               ["Overdrive","Chap"]
             ]
           }

@@ -12,7 +12,7 @@
     "name": "Flight Module",
     "type": "toggle",
     "img": "images/items/complete.png",
-    "codes": "Flight-Module"
+    "codes": "FlightModule"
   },
   {
     "name": "Overdrive",
@@ -30,7 +30,7 @@
     "name": "Blade License",
     "type": "toggle",
     "img": "images/items/complete.png",
-    "codes": "blade-license"
+    "codes": "bladelicense"
   },
   {
     "name":"Chapter",
