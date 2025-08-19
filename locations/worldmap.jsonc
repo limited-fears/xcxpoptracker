@@ -28,9 +28,6 @@
 	},{
 		"name":"Elma 1 H2H",
 		"access_rules":["Elma:1"]
-	},{
-		"name":"",
-		"access_rules":[]
 	}],
 "map_locations": [
 		{				
@@ -129,66 +126,6 @@
 	{
 		"name":"Lin 3 H2H",
 		"access_rules":["Lin:3"]
-	},
-	{
-		"name":"",
-		"access_rules":[]
-	},
-	{
-		"name":"",
-		"access_rules":[]
-	},
-	{
-		"name":"",
-		"access_rules":[]
-	},
-	{
-		"name":"",
-		"access_rules":[]
-	},
-	{
-		"name":"",
-		"access_rules":[]
-	},
-	{
-		"name":"",
-		"access_rules":[]
-	},
-	{
-		"name":"",
-		"access_rules":[]
-	},
-	{
-		"name":"",
-		"access_rules":[]
-	},
-	{
-		"name":"",
-		"access_rules":[]
-	},
-	{
-		"name":"",
-		"access_rules":[]
-	},
-	{
-		"name":"",
-		"access_rules":[]
-	},
-	{
-		"name":"",
-		"access_rules":[]
-	},
-	{
-		"name":"",
-		"access_rules":[]
-	},
-	{
-		"name":"",
-		"access_rules":[]
-	},
-	{
-		"name":"",
-		"access_rules":[]
 	}
 ],
 "map_locations": [
