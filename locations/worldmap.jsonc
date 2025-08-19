@@ -2,7 +2,7 @@
 "name": "SEG",
 "children":[
 	{
-	"name":"Indust",
+	"name":"Industrial-District",
 	"access_rules":["chap:1"],
 	"sections":[{
 		"name":"Celica 5 H2H",
