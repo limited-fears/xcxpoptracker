@@ -1979,7 +1979,7 @@ LOCATION_MAPPING = {
 		[4102392] = {"@SEG/Blade-Barracks/A Challenger Approaches"},
 
 		--11
-		[4102396] = {"@SEG/Blade-Barracks/Two Peas in a "},
+		[4102396] = {"@SEG/Blade-Barracks/Two Peas in a pod"},
 		[4102397] = {"@SEG/Blade-Barracks/Fathers and Sons"},
 
 		--ch12

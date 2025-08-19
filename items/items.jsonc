@@ -6,7 +6,7 @@
     "name": "Skell Licence",
     "type": "toggle",
     "img": "images/items/complete.png",
-    "codes": "Skell-License"
+    "codes": "key:skelllicense"
   },
   {
     "name": "Flight Module",

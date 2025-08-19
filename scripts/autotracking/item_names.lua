@@ -2,15 +2,15 @@ ITEM_NAMES = {
 
 	--key items
 
-	[key:skelllicense] = "Skell-License",
-	[key:flightmodule] = "Flight-Module",
-	[key:overdrive] = "Overdrive",
-	[key:fnet] = "FNet",
-	[key:bladelicense] = "Blade-License",
-	[key:death] = "Death",
-	[key:filler] = "Filler",
-	[key:victory] = "Victory",
-	[key:killenemy] = "Kill Enemy",
+	[skelllicense] = "Skell-License",
+	[flightmodule] = "Flight-Module",
+	[overdrive] = "Overdrive",
+	[fnet] = "FNet",
+	[bladelicense] = "Blade-License",
+	[death] = "Death",
+	[filler] = "Filler",
+	[victory] = "Victory",
+	[killenemy] = "Kill Enemy",
 
 	--affinity
 

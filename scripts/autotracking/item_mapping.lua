@@ -1,15 +1,15 @@
 ITEM_MAPPING = {
 	--important
 	
-	[4100001] = {{"key:skelllicense", "toggle"}},
-	[4100002] = {{"key:flightmodule", "toggle"}},
-	[4100003] = {{"key:overdrive", "toggle"}},
-	[4100004] = {{"key:fnet", "toggle"}},
-	[4100005] = {{"key:bladelicense", "toggle"}},
-	[4100006] = {{"key:death", "toggle"}},
-	[4100007] = {{"key:filler", "toggle"}},
-	[4100008] = {{"key:victory", "toggle"}},
-	[4100013] = {{"key:killenemy", "toggle"}},
+	[4100001] = {{"skelllicense", "toggle"}},
+	[4100002] = {{"flightmodule", "toggle"}},
+	[4100003] = {{"overdrive", "toggle"}},
+	[4100004] = {{"fnet", "toggle"}},
+	[4100005] = {{"bladelicense", "toggle"}},
+	[4100006] = {{"death", "toggle"}},
+	[4100007] = {{"filler", "toggle"}},
+	[4100008] = {{"victory", "toggle"}},
+	[4100013] = {{"killenemy", "toggle"}},
 
 	--affinity
 

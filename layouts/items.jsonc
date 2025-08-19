@@ -18,7 +18,7 @@
             "item_size":50,
             "rows": [
               ["FNet","blade-license"],
-              ["Skell-License","Flight-Module"],
+              ["key:skelllicense","Flight-Module"],
               ["Overdrive","Chap"]
             ]
           }
