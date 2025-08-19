@@ -6,7 +6,7 @@
     "name": "Skell Licence",
     "type": "toggle",
     "img": "images/items/complete.png",
-    "codes": "key:skelllicense"
+    "codes": "SkellLicense"
   },
   {
     "name": "Flight Module",
@@ -30,7 +30,7 @@
     "name": "Blade License",
     "type": "toggle",
     "img": "images/items/complete.png",
-    "codes": "bladelicense"
+    "codes": "BladeLicense"
   },
   {
     "name":"Chapter",
