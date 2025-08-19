@@ -8,7 +8,8 @@
         ],
 				"sections":[
 				    {
-                    "name": "Elma 5 H2H"
+                    "name": "Elma 5 H2H",
+					"access_rules":["Elma:5"]
 					}
 				],
 				"map_locations": [
@@ -18,7 +19,9 @@
 						"y": 332,
 						"size": 10
 					}
-				]	             
+				]
+				
+
 			}			
                 ]
 				

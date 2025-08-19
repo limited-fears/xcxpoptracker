@@ -1,0 +1,110 @@
+[{
+		"name": "SEG",
+		"children":[
+			{
+				"name": "Blade-Barracks",
+				"access_rules": ["chap:1"],
+				"sections":[
+				    {
+                    "name": "Elma 5 H2H",
+					"access_rules":["Elma:5"]
+					},
+					{
+						"name":"Nagi 4 H2H",
+						"access_rules":["Nagi:4"]
+					},
+					{
+						"name": "The Repair Job",
+					"access_rules":["Lin:1","Chap:3"]
+					},
+					{
+						"name":"We Were Soldiers",
+						"access_rules":["Elma:1","Chap:3"]
+					},
+					{
+						"name":"A Day in the Life",
+						"access_rules":["Chap:4"]
+					},
+					{
+						"name":"BFFs",
+						"access_rules":["Chap:5"]
+					},
+					{
+						"name":"A Friend in Need",
+						"access_rules":["Chap:5"]
+					},
+					{
+						"name":"Nagis Time",
+						"access_rules":["Chap:8"]
+					},
+					{
+						"name":"Prospective Partners",
+						"access_rules":["Chap:9"]
+					},
+					{
+						"name":"A Challenger Approaches",
+						"access_rules":["Chap:10"]
+					},
+					{
+						"name":"Two Peas in a Pod",
+						"access_rules":["Lin:3","Chap:11"]
+					},
+					{
+						"name":"Fathers and Sons",
+						"access_rules":["Irina:4","Chap:11"]
+					},
+					{
+						"name":"Then and Now",
+						"access_rules":["Elma:4","Chap:12"]
+					},
+					{
+						"name":"To Serve Nopon",
+						"access_rules":["Lin:4","Chap:12"]
+					},
+					{
+						"name":"Lin",
+						"access_rules":[]
+					},
+					{
+						"name":"Elma",
+						"access_rules":[]
+					}
+				],
+				"map_locations": [
+					{				
+						"map": "WlrdMp",
+						"x": 24,
+						"y": 24,
+						"size": 10
+					}
+				]
+			},
+			{
+"name":"Admin",
+"access_rules":["chap:1"],
+"sections":[
+	{
+		"name":"Gwin 1 H2H",
+		"access_rules":[]
+	}
+],
+"map_locations": [
+					{				
+						"map": "WlrdMp",
+						"x": 54,
+						"y": 24,
+						"size": 10
+					}
+				]
+
+
+			}
+		]
+						
+	}
+	]
+
+
+	///
+	///				"chest_unopened_img": "images/items/incomplete.png",
+    ///     			"chest_opened_img": "images/items/complete.png"},
