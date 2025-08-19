@@ -35,15 +35,15 @@ if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     Tracker:AddMaps("maps/maps.jsonc")
     -- Locations
     Tracker:AddLocations("locations/locations.jsonc")
-    Tracker:AddLocations("locations/barracks/barracks.jsonc")
-    Tracker:AddLocations("locations/Manon Ship/manonship.jsonc")
-    Tracker:AddLocations("locations/Cauldros/cauldros.jsonc")
-    Tracker:AddLocations("locations/NLA/nla.jsonc")
-    Tracker:AddLocations("locations/Noctilum/noctilum.jsonc")
-    Tracker:AddLocations("locations/Oblivia/oblivia.jsonc")
-    Tracker:AddLocations("locations/Primordia/primordia.jsonc")
-    Tracker:AddLocations("locations/Sylum/sylum.jsonc")
-    Tracker:AddLocations("locations/World Map/worldmap.jsonc")
+    Tracker:AddLocations("locations/barracks.jsonc")
+    Tracker:AddLocations("locations/manonship.jsonc")
+    Tracker:AddLocations("locations/cauldros.jsonc")
+    Tracker:AddLocations("locations/nla.jsonc")
+    Tracker:AddLocations("locations/noctilum.jsonc")
+    Tracker:AddLocations("locations/oblivia.jsonc")
+    Tracker:AddLocations("locationsp/rimordia.jsonc")
+    Tracker:AddLocations("locations/sylum.jsonc")
+    Tracker:AddLocations("locations/worldmap.jsonc")
 end
 
 -- Layout
