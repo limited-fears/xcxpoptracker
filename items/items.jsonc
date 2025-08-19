@@ -31,5 +31,15 @@
     "type": "toggle",
     "img": "images/items/complete.png",
     "codes": "blade-license"
+  },
+  {
+    "name":"Chapter",
+    "type":"consumable",
+  "max_quantity": 12,
+  "increment": 1,
+	"allow_disabled": true,
+	"img": "images/items/complete.png",
+  "overlay_background": "#000",
+  "codes":"Chap"
   }
 ]
