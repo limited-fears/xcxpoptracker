@@ -7,28 +7,212 @@
 	"sections":[{
 		"name":"Celica 5 H2H",
 		"access_rules":["Celica:5"]
-	},{
+	},
+	{
 		"name":"Nagi 2 H2H",
 		"access_rules":["Nagi:2"]
-	},{
+	},
+	{
 		"name":"Celica 4 H2H",
 		"access_rules":["Celica:4"]
-	},{
+	},
+	{
 		"name":"Doug 2 H2H",
 		"access_rules":["Doug:2"]
-	},{
+	},
+	{
 		"name":"Murderess 3 H2H",
 		"access_rules":["Murderess:3"]
-	},{
+	},
+	{
 		"name":"Irina 4 H2H",
 		"access_rules":["Irina:4"]
-	},{
+	},
+	{
 		"name":"Lin 1 H2H",
 		"access_rules":["Lin:1"]
-	},{
+	},
+	{
 		"name":"Elma 1 H2H",
 		"access_rules":["Elma:1"]
-	}],
+	},
+	{
+		"name":"Mia 3 H2H",
+		"access_rules":["Mia:3"]
+	},
+	{
+		"name":"Hope 3 H2H",
+		"access_rules":["Hope:3"]
+	},
+	{
+		"name":"Irina 1 H2H",
+		"access_rules":["Irina:1"]
+	},
+	{
+		"name":"Frye 5 H2H",
+		"access_rules":["Frye:5"]
+	},
+	{
+		"name":"Celica 1 H2H",
+		"access_rules":["Celica:1"]
+	},
+	{
+		"name":"Frye 1 H2H",
+		"access_rules":["Frye:1"]
+	},
+	{
+		"name":"Yardleys Scheme",
+		"access_rules":["Chap:3"]
+	},
+	{
+		"name":"Off the Record Biological",
+		"access_rules":["Chap:3"]
+	},
+	{
+		"name":"Forest Foray",
+		"access_rules":["Chap:3"]
+	},
+	{
+		"name":"Rise of the Blood Lobster",
+		"access_rules":["Chap:3"]
+	},
+	{
+		"name":"A Proper Chopper",
+		"access_rules":["Chap:4"]
+	},
+	{
+		"name":"Bottoms Up",
+		"access_rules":["Chap:4"]
+	},
+	{
+		"name":"The Pip-Squeak",
+		"access_rules":["Chap:5"]
+	},
+	{
+		"name":"Mystery Man",
+		"access_rules":["Chap:5"]
+	},
+	{
+		"name":"Pollution Solution",
+		"access_rules":["Chap:7"]
+	},
+	{
+		"name":"Good Neighbors",
+		"access_rules":["Chap:7"]
+	},
+	{
+		"name":"The Voltant Visionary",
+		"access_rules":["Chap:7"]
+	},
+	{
+		"name":"Professor Bs Return",
+		"access_rules":["Chap:7"]
+	},
+	{
+		"name":"Data Probe Challenge",
+		"access_rules":["Chap:8"]
+	},
+	{
+		"name":"Lone Survivors",
+		"access_rules":["Chap:8"]
+	},
+	{
+		"name":"Entrepreneurial Spirit",
+		"access_rules":["Chap:8"]
+	},
+	{
+		"name":"New in New LA",
+		"access_rules":["Chap:9"]
+	},
+	{
+		"name":"A Girls Wings",
+		"access_rules":["Chap:9"]
+	},
+	{
+		"name":"Muimuis Meltdown",
+		"access_rules":["Chap:9"]
+	},
+	{
+		"name":"Pack It In",
+		"access_rules":["Chap:9"]
+	},
+	{
+		"name":"The Good Thief",
+		"access_rules":["Chap:9"]
+	},
+	{
+		"name":"Good Fortun",
+		"access_rules":["Chap:10"]
+	},
+	{
+		"name":"Boot Camp",
+		"access_rules":["Chap:10"]
+	},
+	{
+		"name":"Turf War",
+		"access_rules":["Chap:10"]
+	},
+	{
+		"name":"Orphean Pluck",
+		"access_rules":["Chap:10"]
+	},
+	{
+		"name":"Data Probe Progress",
+		"access_rules":["Chap:10"]
+	},
+	{
+		"name":"Two Warriors",
+		"access_rules":["Chap:11"]
+	},
+	{
+		"name":"Data Probe Breakthrough",
+		"access_rules":["Chap:11"]
+	},
+	{
+		"name":"Child of Mira",
+		"access_rules":["Chap:11"]
+	},
+	{
+		"name":"Fitting In",
+		"access_rules":["Chap:11"]
+	},
+	{
+		"name":"Gold Rush",
+		"access_rules":["Chap:11"]
+	},
+	{
+		"name":"The Gauntlet",
+		"access_rules":["Chap:12"]
+	},
+	{
+		"name":"Data Probe Revolution",
+		"access_rules":["Chap:12"]
+	},
+	{
+		"name":"Data Probe Evolution",
+		"access_rules":["Chap:12"]
+	},
+	{
+		"name":"Professorial",
+		"access_rules":["Chap:12"]
+	},
+	{
+		"name":"Celica",
+		"access_rules":[]
+	},
+	{
+		"name":"Alexa",
+		"access_rules":[]
+	},
+	{
+		"name":"Horonalderon",
+		"access_rules":["Dead Men Tell No Tales"]
+	},
+	{
+		"name":"Frye",
+		"access_rules":[]
+	}
+],
 "map_locations": [
 		{				
 			"map": "WlrdMp",
@@ -120,7 +304,7 @@
 		"access_rules":["Nagi:1"]
 	},
 	{
-		"name":"Frye 2 H2",
+		"name":"Frye 2 H2H",
 		"access_rules":["Frye:2"]
 	},
 	{
@@ -138,11 +322,9 @@
 				]
 
 
-			}
-		]
-						
-	}
-	]
+}
+]					
+}]
 
 
 	///

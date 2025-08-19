@@ -1568,15 +1568,14 @@ LOCATION_MAPPING = {
 		[4101865] = {"@SEG/Indust/Frye 1 H2H/Repenta Diner"},
 
 		--ch3
-		[4101822] = {"@SEG/Indust/Yardleys Scheme/Test Hangar/Chp 3"},
-		[4101823] = {"@SEG/Indust/Off the Record Biological/Test Hangar/Chp 3"},
-		[4101832] = {"@SEG/Indust/Forest Foray/Production Plant/Chp 3"},
-		[4101843] = {"@SEG/Indust/Container/Production Plant/Mechanical 3"},	
+		[4101822] = {"@SEG/Indust/Yardleys Scheme/Test Hangar"},
+		[4101823] = {"@SEG/Indust/Off the Record Biological/Test Hangar"},
+		[4101832] = {"@SEG/Indust/Forest Foray/Production Plant"},	
 		[4101849] = {"@SEG/Indust/Rise of the Blood Lobster/Test Hangar/Chp 3"},	
 
 		--ch4
-		[4101830] = {"@SEG/Indust/A Proper Chopper/Central/Chp 4"},
-		[4101866] = {"@SEG/Indust/Bottoms Up/Night/Repenta Diner/Chp 4"},
+		[4101830] = {"@SEG/Indust/A Proper Chopper/Central"},
+		[4101866] = {"@SEG/Indust/Bottoms Up/Night/Repenta Diner"},
 
 		--ch5
 		[4101847] = {"@SEG/Indust/The Pip-Squeak/Test Hangar/Chp 5"},
@@ -1632,6 +1631,8 @@ LOCATION_MAPPING = {
 		--arc
 		[4101825] = {"@SEG/Indust/Alien Wreckage/Test Hangar/Archeological 2"},
 
+		--mech
+		[4101843] = {"@SEG/Indust/Container/Production Plant/Mechanical 3"},
 	--comm
 		--H2H
 		[4101868] = {"@SEG/Comm-dist/Gwin 5 H2H/West Melville Street/Evening"},
