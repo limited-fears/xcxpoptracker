@@ -1,90 +1,185 @@
 [{
-		"name": "SEG",
-		"children":[
-			{
-				"name": "Blade-Barracks",
-				"access_rules": ["chap:1"],
-				"sections":[
-				    {
-                    "name": "Elma 5 H2H",
-					"access_rules":["Elma:5"]
-					},
-					{
-						"name":"Nagi 4 H2H",
-						"access_rules":["Nagi:4"]
-					},
-					{
-						"name": "The Repair Job",
-					"access_rules":["Lin:1","Chap:3"]
-					},
-					{
-						"name":"We Were Soldiers",
-						"access_rules":["Elma:1","Chap:3"]
-					},
-					{
-						"name":"A Day in the Life",
-						"access_rules":["Chap:4"]
-					},
-					{
-						"name":"BFFs",
-						"access_rules":["Chap:5"]
-					},
-					{
-						"name":"A Friend in Need",
-						"access_rules":["Chap:5"]
-					},
-					{
-						"name":"Nagis Time",
-						"access_rules":["Chap:8"]
-					},
-					{
-						"name":"Prospective Partners",
-						"access_rules":["Chap:9"]
-					},
-					{
-						"name":"A Challenger Approaches",
-						"access_rules":["Chap:10"]
-					},
-					{
-						"name":"Two Peas in a Pod",
-						"access_rules":["Lin:3","Chap:11"]
-					},
-					{
-						"name":"Fathers and Sons",
-						"access_rules":["Irina:4","Chap:11"]
-					},
-					{
-						"name":"Then and Now",
-						"access_rules":["Elma:4","Chap:12"]
-					},
-					{
-						"name":"To Serve Nopon",
-						"access_rules":["Lin:4","Chap:12"]
-					},
-					{
-						"name":"Lin",
-						"access_rules":[]
-					},
-					{
-						"name":"Elma",
-						"access_rules":[]
-					}
-				],
-				"map_locations": [
-					{				
-						"map": "WlrdMp",
-						"x": 24,
-						"y": 24,
-						"size": 10
-					}
-				]
-			},
-			{
+"name": "SEG",
+"children":[
+	{
+	"name":"Indust",
+	"access_rules":["chap:1"],
+	"sections":[{
+		"name":"Celica 5 H2H",
+		"access_rules":["Celica:5"]
+	},{
+		"name":"Nagi 2 H2H",
+		"access_rules":["Nagi:2"]
+	},{
+		"name":"Celica 4 H2H",
+		"access_rules":["Celica:4"]
+	},{
+		"name":"Doug 2 H2H",
+		"access_rules":["Doug:2"]
+	},{
+		"name":"Murderess 3 H2H",
+		"access_rules":["Murderess:3"]
+	},{
+		"name":"Irina 4 H2H",
+		"access_rules":["Irina:4"]
+	},{
+		"name":"Lin 1 H2H",
+		"access_rules":["Lin:1"]
+	},{
+		"name":"Elma 1 H2H",
+		"access_rules":["Elma:1"]
+	},{
+		"name":"",
+		"access_rules":[]
+	}]
+	},
+	{
+	"name": "Blade-Barracks",
+	"access_rules": ["chap:1"],
+	"sections":[{
+        "name": "Elma 5 H2H",
+		"access_rules":["Elma:5"]
+		},{
+			"name":"Nagi 4 H2H",
+			"access_rules":["Nagi:4"]
+		},{
+			"name": "The Repair Job",
+		"access_rules":["Lin:1","Chap:3"]
+		},{
+			"name":"We Were Soldiers",
+			"access_rules":["Elma:1","Chap:3"]
+		},{
+			"name":"A Day in the Life",
+			"access_rules":["Chap:4"]
+		},{
+			"name":"BFFs",
+			"access_rules":["Chap:5"]
+		},{
+			"name":"A Friend in Need",
+			"access_rules":["Chap:5"]
+		},{
+			"name":"Nagis Time",
+			"access_rules":["Chap:8"]
+		},{
+			"name":"Prospective Partners",
+			"access_rules":["Chap:9"]
+		},{
+			"name":"A Challenger Approaches",
+			"access_rules":["Chap:10"]
+		},{
+			"name":"Two Peas in a Pod",
+			"access_rules":["Lin:3","Chap:11"]
+		},{
+			"name":"Fathers and Sons",
+			"access_rules":["Irina:4","Chap:11"]
+		},{
+			"name":"Then and Now",
+			"access_rules":["Elma:4","Chap:12"]
+		},{
+			"name":"To Serve Nopon",
+			"access_rules":["Lin:4","Chap:12"]
+		},{
+			"name":"Lin",
+			"access_rules":[]
+		},{
+			"name":"Elma",
+			"access_rules":[]
+		}],
+	"map_locations": [
+		{				
+			"map": "WlrdMp",
+			"x": 24,
+			"y": 24,
+			"size": 10
+		}
+	]
+},
+{
 "name":"Admin",
 "access_rules":["chap:1"],
 "sections":[
 	{
 		"name":"Gwin 1 H2H",
+		"access_rules":["Gwin:1"]
+	},
+	{
+		"name":"Irina 3 H2H",
+		"access_rules":["Irina:3"]
+	},
+	{
+		"name":"Doug 5 H2H",
+		"access_rules":["Doug:5"]
+	},
+	{
+		"name":"",
+		"access_rules":["Nagi:1"]
+	},
+	{
+		"name":"",
+		"access_rules":["Frye:2"]
+	},
+	{
+		"name":"",
+		"access_rules":["Lin:3"]
+	},
+	{
+		"name":"",
+		"access_rules":[]
+	},
+	{
+		"name":"",
+		"access_rules":[]
+	},
+	{
+		"name":"",
+		"access_rules":[]
+	},
+	{
+		"name":"",
+		"access_rules":[]
+	},
+	{
+		"name":"",
+		"access_rules":[]
+	},
+	{
+		"name":"",
+		"access_rules":[]
+	},
+	{
+		"name":"",
+		"access_rules":[]
+	},
+	{
+		"name":"",
+		"access_rules":[]
+	},
+	{
+		"name":"",
+		"access_rules":[]
+	},
+	{
+		"name":"",
+		"access_rules":[]
+	},
+	{
+		"name":"",
+		"access_rules":[]
+	},
+	{
+		"name":"",
+		"access_rules":[]
+	},
+	{
+		"name":"",
+		"access_rules":[]
+	},
+	{
+		"name":"",
+		"access_rules":[]
+	},
+	{
+		"name":"",
 		"access_rules":[]
 	}
 ],
