@@ -31,7 +31,15 @@
 	},{
 		"name":"",
 		"access_rules":[]
-	}]
+	}],
+"map_locations": [
+					{				
+						"map": "WlrdMp",
+						"x": 74,
+						"y": 24,
+						"size": 10
+					}
+				]
 	},
 	{
 	"name": "Blade-Barracks",
