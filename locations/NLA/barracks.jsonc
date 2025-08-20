@@ -2,14 +2,10 @@
 		"name": "Blade-Barracks",
 		"children":[
 			{
-				"name": "SEG",
-				"access_rules": [
-					
-        ],
+				"name":"Elma heart 2 heart",
 				"sections":[
 				    {
-                    "name": "Elma 5 H2H",
-					"access_rules":["Elma:5"]
+                    "ref":"SEG/Blade-Barracks/Elma 5 H2H"
 					}
 				],
 				"map_locations": [
