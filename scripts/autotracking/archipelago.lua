@@ -177,9 +177,6 @@ function onLocation(location_id, location_name)
     if not location_array or not location_array[1] then
         print(string.format("onLocation: could not find location mapping for id %s", location_id))
         return
-        if (location_id == 4102395) then
-    print("Found it")
-end
     end
 
     for _, location in pairs(location_array) do
