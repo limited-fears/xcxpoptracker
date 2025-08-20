@@ -1,0 +1,26 @@
+[{
+		"name": "Cauldros",
+		"children":[
+			{
+				"name": "CAU Check",
+				"access_rules": [
+        ],
+				"sections":[
+				    {
+                    "name": "Cau Sec1",
+                    "item_count": 1
+                    }
+                ],
+				"map_locations": [
+					{				
+						"map": "Cau",
+						"x": 24,
+						"y": 24,
+						"size": 10
+					}
+				]
+			}
+		]
+						
+	}
+	]
