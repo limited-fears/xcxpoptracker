@@ -173,16 +173,6 @@
     "codes": "Phog"
   },
 {
-    "name": "Tatsu",
-	"type": "consumable",
-  "max_quantity": 5,
-  "increment": 1,
-	"allow_disabled": true,
-	"img": "images/affin/Tatsu.png",
-  "overlay_background": "#000",
-    "codes": "Tatsu"
-  },
-{
     "name": "Yelv",
 	"type": "consumable",
   "max_quantity": 5,
