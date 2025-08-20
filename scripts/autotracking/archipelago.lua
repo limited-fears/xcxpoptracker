@@ -7,11 +7,7 @@ CUR_INDEX = -1
 --SLOT_DATA = nil
 
 SLOT_DATA = {}
-function OnLocation(location_id, location_name)
-  if (location_id == 4102395) then
-    print("Found it")
-  end
-end
+
 local highlight_lvl= {
     [0] = Highlight.Unspecified,
     [10] = Highlight.NoPriority,
@@ -181,6 +177,9 @@ function onLocation(location_id, location_name)
     if not location_array or not location_array[1] then
         print(string.format("onLocation: could not find location mapping for id %s", location_id))
         return
+        if (location_id == 4102395) then
+    print("Found it")
+end
     end
 
     for _, location in pairs(location_array) do
