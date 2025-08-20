@@ -78,7 +78,7 @@
   "max_quantity": 5,
   "increment": 1,
 	"allow_disabled": true,
-  "img": "images/affin/H.B..png",
+  "img": "images/affin/HB.png",
   "overlay_background": "#000",
     "codes": "HB"
   },
