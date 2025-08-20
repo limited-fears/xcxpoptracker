@@ -7,7 +7,11 @@ CUR_INDEX = -1
 --SLOT_DATA = nil
 
 SLOT_DATA = {}
-
+function OnLocation(location_id, location_name)
+  if (location_id == 4102395) then
+    print("Found it")
+  end
+end
 local highlight_lvl= {
     [0] = Highlight.Unspecified,
     [10] = Highlight.NoPriority,

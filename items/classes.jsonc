@@ -17,7 +17,7 @@
     "name": "Samurai Gunner",
     "type": "toggle",
     "img": "images/classes/gunner.png",
-    "codes": "samurai gunner"
+    "codes": "samuraigunner"
   },
   {
     "name": "Duelist",
@@ -29,13 +29,13 @@
     "name": "Sheild Trooper",
     "type": "toggle",
     "img": "images/classes/trooper.png",
-    "codes": "Shield Trooper"
+    "codes": "ShieldTrooper"
   },
   {
     "name": "Bastion Warrior",
     "type": "toggle",
     "img": "images/classes/warrior.png",
-    "codes": "Bastion Warrior"
+    "codes": "BastionWarrior"
   },
   {
     "name": "Commando",
@@ -47,25 +47,25 @@
     "name": "Winged Viper",
     "type": "toggle",
     "img": "images/classes/viper.png",
-    "codes": "Winged Viper"
+    "codes": "WingedViper"
   },
   {
     "name": "Full Metal Jaguar",
     "type": "toggle",
     "img": "images/classes/jaguar.png",
-    "codes": "Full Metal Jaguar"
+    "codes": "FullMetalJaguar"
   },
   {
     "name": "Partisan Eagle",
     "type": "toggle",
     "img": "images/classes/eagle.png",
-    "codes": "Partisan Eagle"
+    "codes": "PartisanEagle"
   },
   {
     "name": "Astral Crusader",
     "type": "toggle",
     "img": "images/classes/crusader.png",
-    "codes": "Astral Crusader"
+    "codes": "AstralCrusader"
   },
   {
     "name": "Enforcer",
@@ -86,11 +86,11 @@
     "name": "Blast Fencer",
     "type": "toggle",
     "img": "images/classes/fencer.png",
-    "codes": "Blast Fencer"
+    "codes": "BlastFencer"
   },{
     "name": "Galactic Knight",
     "type": "toggle",
     "img": "images/classes/knight.png",
-    "codes": "Galactic Knight"
+    "codes": "GalacticKnight"
   }
 ]

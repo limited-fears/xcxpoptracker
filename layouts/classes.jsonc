@@ -16,10 +16,10 @@
             "h_alignment": "left",
             "rows": [
               
-                ["Drifter","Striker","Samurai Gunner","Duelist"],
-                ["Shield Trooper","Bastion Warrior","Commando","Winged Viper"],
-                ["Full Metal Jaguar","Partisan Eagle","Astral Crusader","Enforcer"],
-                ["Psycorruptor","Mastermind","Blast Fencer","Galactic Knight"]
+                ["Drifter","Striker","SamuraiGunner","Duelist"],
+                ["ShieldTrooper","BastionWarrior","Commando","WingedViper"],
+                ["FullMetalJaguar","PartisanEagle","AstralCrusader","Enforcer"],
+                ["Psycorruptor","Mastermind","BlastFencer","GalacticKnight"]
             ]
           }
         ]
