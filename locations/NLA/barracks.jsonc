@@ -25,7 +25,7 @@
 				"access_rules":["Nagi:4"],
 				"sections":[
 				{
-				"ref": "SEG/BladeBarracks/Nagi 4 H2H"
+				"ref": "SEG/Blade-Barracks/Nagi 4 H2H"
 				}
 				],
 				"map_locations": [	
@@ -45,7 +45,7 @@
 			"access_rules":["Lin:1","Chap:3"],
 			"sections":[
 				{
-				"ref":"SEG/BladeBarracks/The Repair Job"
+				"ref":"SEG/Blade-Barracks/The Repair Job"
 				}
 			],
 			"map_locations": [

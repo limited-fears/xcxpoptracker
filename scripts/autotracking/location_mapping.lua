@@ -1960,7 +1960,7 @@ LOCATION_MAPPING = {
 
 		--ch3
 		[4102385] = {"@SEG/Blade-Barracks/The Repair Job"},
-		[4102394] = {"@SEG/Blade-Barracks/We Were soldiers"},
+		[4102394] = {"@SEG/Blade-Barracks/We Were Soldiers"},
 
 		--ch4
 		[4102387] = {"@SEG/Blade-Barracks/A Day in the Life"},
@@ -1979,7 +1979,7 @@ LOCATION_MAPPING = {
 		[4102392] = {"@SEG/Blade-Barracks/A Challenger Approaches"},
 
 		--11
-		[4102396] = {"@SEG/Blade-Barracks/Two Peas in a pod"},
+		[4102396] = {"@SEG/Blade-Barracks/Two Peas in a Pod"},
 		[4102397] = {"@SEG/Blade-Barracks/Fathers and Sons"},
 
 		--ch12
