@@ -216,8 +216,8 @@
 "map_locations": [
 		{				
 			"map": "WlrdMp",
-			"x": 74,
-			"y": 24,
+			"x": 195,
+			"y": 420,
 			"size": 10
 		}
 	]
@@ -294,8 +294,8 @@
 	"map_locations": [
 		{				
 			"map": "WlrdMp",
-			"x": 24,
-			"y": 24,
+			"x": 220,
+			"y": 420,
 			"size": 10
 		}
 	]
@@ -332,8 +332,8 @@
 "map_locations": [
 					{				
 						"map": "WlrdMp",
-						"x": 54,
-						"y": 24,
+						"x": 220,
+						"y": 430,
 						"size": 10
 					}
 				]
