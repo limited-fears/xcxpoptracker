@@ -125,21 +125,11 @@
 			"name":"Elma",
 			"access_rules":[]
 		}
-	],
-	"map_locations": [
-		{				
-			"map": "WlrdMp",
-			"x": 24,
-			"y": 24,
-			"size": 10
-		}
 	]
-    		}
-                ]
-				
-
-			}
-		]
+}
+]
+}
+]
 						
 	
 	
