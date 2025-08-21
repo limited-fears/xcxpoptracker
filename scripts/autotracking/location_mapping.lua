@@ -1549,169 +1549,169 @@ LOCATION_MAPPING = {
 		[4101812] = {"@FNO/Caul/FN Node 516"},
 
 --segments
-	--industrial-District
+	--industrial
 		
 		--h2h
-		[4101813] = {"@SEG/Industrial-District/Celica 5 H2H/Test Hangar"},
-		[4101814] = {"@SEG/Industrial-District/Nagi 2 H2H/Test Hangar"},
-		[4101819] = {"@SEG/Industrial-District/Celica 4 H2H/Production Plant"},
-		[4101829] = {"@SEG/Industrial-District/Doug 2 H2H/Central"},
-		[4101831] = {"@SEG/Industrial-District/Murderess 3 H2H/Production Plant"},
-		[4101835] = {"@SEG/Industrial-District/Irina 4 H2H/Test Hangar"},
-		[4101836] = {"@SEG/Industrial-District/Lin 1 H2H/Test Hangar"},
-		[4101839] = {"@SEG/Industrial-District/Elma 1 H2H/Central"},
-		[4101850] = {"@SEG/Industrial-District/Mia 3 H2H/Test Hangar"},
-		[4101851] = {"@SEG/Industrial-District/Hope 3 H2H/Central "},
-		[4101853] = {"@SEG/Industrial-District/Irina 1 H2H/Central"},
-		[4101854] = {"@SEG/Industrial-District/Frye 5 H2H/Production Plant"},
-		[4101856] = {"@SEG/Industrial-District/Celica 1 H2H/Test Hangar"},
-		[4101865] = {"@SEG/Industrial-District/Frye 1 H2H/Repenta Diner"},
+		[4101813] = {"@SEG/Industrial/Celica 5 H2H/Test Hangar"},
+		[4101814] = {"@SEG/Industrial/Nagi 2 H2H/Test Hangar"},
+		[4101819] = {"@SEG/Industrial/Celica 4 H2H/Production Plant"},
+		[4101829] = {"@SEG/Industrial/Doug 2 H2H/Central"},
+		[4101831] = {"@SEG/Industrial/Murderess 3 H2H/Production Plant"},
+		[4101835] = {"@SEG/Industrial/Irina 4 H2H/Test Hangar"},
+		[4101836] = {"@SEG/Industrial/Lin 1 H2H/Test Hangar"},
+		[4101839] = {"@SEG/Industrial/Elma 1 H2H/Central"},
+		[4101850] = {"@SEG/Industrial/Mia 3 H2H/Test Hangar"},
+		[4101851] = {"@SEG/Industrial/Hope 3 H2H/Central "},
+		[4101853] = {"@SEG/Industrial/Irina 1 H2H/Central"},
+		[4101854] = {"@SEG/Industrial/Frye 5 H2H/Production Plant"},
+		[4101856] = {"@SEG/Industrial/Celica 1 H2H/Test Hangar"},
+		[4101865] = {"@SEG/Industrial/Frye 1 H2H/Repenta Diner"},
 
 		--ch3
-		[4101822] = {"@SEG/Industrial-District/Yardleys Scheme/Test Hangar"},
-		[4101823] = {"@SEG/Industrial-District/Off the Record Biological/Test Hangar"},
-		[4101832] = {"@SEG/Industrial-District/Forest Foray/Production Plant"},	
-		[4101849] = {"@SEG/Industrial-District/Rise of the Blood Lobster/Test Hangar"},	
+		[4101822] = {"@SEG/Industrial/Yardleys Scheme/Test Hangar"},
+		[4101823] = {"@SEG/Industrial/Off the Record Biological/Test Hangar"},
+		[4101832] = {"@SEG/Industrial/Forest Foray/Production Plant"},	
+		[4101849] = {"@SEG/Industrial/Rise of the Blood Lobster/Test Hangar"},	
 
 		--ch4
-		[4101830] = {"@SEG/Industrial-District/A Proper Chopper/Central"},
-		[4101866] = {"@SEG/Industrial-District/Bottoms Up/Repenta Diner"},
+		[4101830] = {"@SEG/Industrial/A Proper Chopper/Central"},
+		[4101866] = {"@SEG/Industrial/Bottoms Up/Repenta Diner"},
 
 		--ch5
-		[4101847] = {"@SEG/Industrial-District/The Pip-Squeak/Test Hangar/Chp 5"},
-		[4101857] = {"@SEG/Industrial-District/Mystery Man/Central/Chp 5"},
+		[4101847] = {"@SEG/Industrial/The Pip-Squeak/Test Hangar/Chp 5"},
+		[4101857] = {"@SEG/Industrial/Mystery Man/Central/Chp 5"},
 
 		--ch7
-		[4101833] = {"@SEG/Industrial-District/Pollution Solution/Production Plant/Chp 7"},
-		[4101834] = {"@SEG/Industrial-District/Good Neighbors/Test Hangar/Chp 7"},
-		[4101858] = {"@SEG/Industrial-District/The Voltant Visionary/Central/Chp 7"},
-		[4101863] = {"@SEG/Industrial-District/Professor Bs Return/Central/Chp 7"},
+		[4101833] = {"@SEG/Industrial/Pollution Solution/Production Plant/Chp 7"},
+		[4101834] = {"@SEG/Industrial/Good Neighbors/Test Hangar/Chp 7"},
+		[4101858] = {"@SEG/Industrial/The Voltant Visionary/Central/Chp 7"},
+		[4101863] = {"@SEG/Industrial/Professor Bs Return/Central/Chp 7"},
 
 		--ch8
-		[4101817] = {"@SEG/Industrial-District/Data Probe Challenge/Test Hangar/Chp 8"},
-		[4101840] = {"@SEG/Industrial-District/Lone Survivors/Central/Chp 8"},
-		[4101841] = {"@SEG/Industrial-District/Entrepreneurial Spirit/Central/Chp 8"},
+		[4101817] = {"@SEG/Industrial/Data Probe Challenge/Test Hangar/Chp 8"},
+		[4101840] = {"@SEG/Industrial/Lone Survivors/Central/Chp 8"},
+		[4101841] = {"@SEG/Industrial/Entrepreneurial Spirit/Central/Chp 8"},
 
 		--ch9
-		[4101820] = {"@SEG/Industrial-District/New in New LA/Production Plant/Chp 9"},
-		[4101826] = {"@SEG/Industrial-District/A Girls Wings/Test Hangar/Chp 9"},
-		[4101827] = {"@SEG/Industrial-District/Muimuis Meltdown/Central/Chp 9"},
-		[4101852] = {"@SEG/Industrial-District/Pack It In/Central/Chp 9"},	
-		[4101861] = {"@SEG/Industrial-District/The Good Thief/Repenta Diner/Chp 9"},
+		[4101820] = {"@SEG/Industrial/New in New LA/Production Plant/Chp 9"},
+		[4101826] = {"@SEG/Industrial/A Girls Wings/Test Hangar/Chp 9"},
+		[4101827] = {"@SEG/Industrial/Muimuis Meltdown/Central/Chp 9"},
+		[4101852] = {"@SEG/Industrial/Pack It In/Central/Chp 9"},	
+		[4101861] = {"@SEG/Industrial/The Good Thief/Repenta Diner/Chp 9"},
 
 		--ch10
-		[4101818] = {"@SEG/Industrial-District/Good Fortun/Central/Chp 10"},
-		[4101824] = {"@SEG/Industrial-District/Boot Camp/Test Hangar/Gwin 1/Chp 10"},	
-		[4101828] = {"@SEG/Industrial-District/Turf War/Central/Chp 10"},
-		[4101844] = {"@SEG/Industrial-District/Orphean Pluck/Production Plant/Chp 10"},
-		[4101845] = {"@SEG/Industrial-District/Data Probe Progress/Production Plant/Chp 10"},
+		[4101818] = {"@SEG/Industrial/Good Fortun/Central/Chp 10"},
+		[4101824] = {"@SEG/Industrial/Boot Camp/Test Hangar/Gwin 1/Chp 10"},	
+		[4101828] = {"@SEG/Industrial/Turf War/Central/Chp 10"},
+		[4101844] = {"@SEG/Industrial/Orphean Pluck/Production Plant/Chp 10"},
+		[4101845] = {"@SEG/Industrial/Data Probe Progress/Production Plant/Chp 10"},
 
 		--ch11
-		[4101816] = {"@SEG/Industrial-District/Two Warriors/Test Hangar/Chp 11"},
-		[4101837] = {"@SEG/Industrial-District/Data Probe Breakthrough/Test Hangar/Chp 11"},
-		[4101842] = {"@SEG/Industrial-District/Child of Mira/Central/Chp 11"},
-		[4101862] = {"@SEG/Industrial-District/Fitting In/Test Hangar/Chp 11"},
-		[4101864] = {"@SEG/Industrial-District/Gold Rush/Central/Chp 11"},	
+		[4101816] = {"@SEG/Industrial/Two Warriors/Test Hangar/Chp 11"},
+		[4101837] = {"@SEG/Industrial/Data Probe Breakthrough/Test Hangar/Chp 11"},
+		[4101842] = {"@SEG/Industrial/Child of Mira/Central/Chp 11"},
+		[4101862] = {"@SEG/Industrial/Fitting In/Test Hangar/Chp 11"},
+		[4101864] = {"@SEG/Industrial/Gold Rush/Central/Chp 11"},	
 
 
 		--ch12
-		[4101815] = {"@SEG/Industrial-District/The Gauntlet/Test Hangar/Chp 12"},
-		[4101838] = {"@SEG/Industrial-District/Data Probe Revolution/Test Hangar/Chp 12"},
-		[4101846] = {"@SEG/Industrial-District/Data Probe Evolution/Test Hangar/Chp 12"},
-		[4101848] = {"@SEG/Industrial-District/Professorial/Test Hangar/Chp 12"},
+		[4101815] = {"@SEG/Industrial/The Gauntlet/Test Hangar/Chp 12"},
+		[4101838] = {"@SEG/Industrial/Data Probe Revolution/Test Hangar/Chp 12"},
+		[4101846] = {"@SEG/Industrial/Data Probe Evolution/Test Hangar/Chp 12"},
+		[4101848] = {"@SEG/Industrial/Professorial/Test Hangar/Chp 12"},
 
 
 
 		--char
-		[4101821] = {"@SEG/Industrial-District/Celica"},
-		[4101855] = {"@SEG/Industrial-District/Alexa/Test Hangar"},
-		[4101859] = {"@SEG/Industrial-District/Horonalderon/Aff Shift"},
-		[4101860] = {"@SEG/Industrial-District/Frye/Repenta Diner"},
+		[4101821] = {"@SEG/Industrial/Celica"},
+		[4101855] = {"@SEG/Industrial/Alexa/Test Hangar"},
+		[4101859] = {"@SEG/Industrial/Horonalderon/Aff Shift"},
+		[4101860] = {"@SEG/Industrial/Frye/Repenta Diner"},
 
 		--arc
-		[4101825] = {"@SEG/Industrial-District/Alien Wreckage/Test Hangar/Archeological 2"},
+		[4101825] = {"@SEG/Industrial/Alien Wreckage/Test Hangar/Archeological 2"},
 
 		--mech
-		[4101843] = {"@SEG/Industrial-District/Container/Production Plant/Mechanical 3"},
+		[4101843] = {"@SEG/Industrial/Container/Production Plant/Mechanical 3"},
 	--comm
 		--H2H
-		[4101868] = {"@SEG/Comm-dist/Gwin 5 H2H/West Melville Street/Evening"},
-		[4101870] = {"@SEG/Comm-dist/Lin 2 H2H/West Melville Street"},
-		[4101871] = {"@SEG/Comm-dist/Mia 4 H2H/West Melville Street"},
-		[4101873] = {"@SEG/Comm-dist/Celica 3 H2H/West Melville Street"},
-		[4101877] = {"@SEG/Comm-dist/Mia 2 H2H/West Melville Street"},
-		[4101879] = {"@SEG/Comm-dist/Phog 4 H2H/Barista Court"},
-		[4101882] = {"@SEG/Comm-dist/Doug 4 H2H/West Melville Street"},
-		[4101884] = {"@SEG/Comm-dist/Lin 4 H2H/Barista Court/Evening"},
-		[4101888] = {"@SEG/Comm-dist/Irina 5 H2H/North Founder Street"},
-		[4101893] = {"@SEG/Comm-dist/L 4 H2H/North Founder Street"},
-		[4101894] = {"@SEG/Comm-dist/Nagi 3 H2H/North Founder Street"},
-		[4101901] = {"@SEG/Comm-dist/Murderess 2 H2H/North Founder Streettime"},
-		[4101903] = {"@SEG/Comm-dist/Frye 4 H2H/East Melville Street"},
-		[4101906] = {"@SEG/Comm-dist/Hope 5 H2H/East Melville Street"},
-		[4101909] = {"@SEG/Comm-dist/L 1 H2H/East Melville Street"},
-		[4101913] = {"@SEG/Comm-dist/Hope 2 H2H/East Melville Street/Evening"},
-		[4101915] = {"@SEG/Comm-dist/Elma 3 H2H/East Melville Street"},
+		[4101868] = {"@SEG/Commercial/Gwin 5 H2H/West Melville Street/Evening"},
+		[4101870] = {"@SEG/Commercial/Lin 2 H2H/West Melville Street"},
+		[4101871] = {"@SEG/Commercial/Mia 4 H2H/West Melville Street"},
+		[4101873] = {"@SEG/Commercial/Celica 3 H2H/West Melville Street"},
+		[4101877] = {"@SEG/Commercial/Mia 2 H2H/West Melville Street"},
+		[4101879] = {"@SEG/Commercial/Phog 4 H2H/Barista Court"},
+		[4101882] = {"@SEG/Commercial/Doug 4 H2H/West Melville Street"},
+		[4101884] = {"@SEG/Commercial/Lin 4 H2H/Barista Court/Evening"},
+		[4101888] = {"@SEG/Commercial/Irina 5 H2H/North Founder Street"},
+		[4101893] = {"@SEG/Commercial/L 4 H2H/North Founder Street"},
+		[4101894] = {"@SEG/Commercial/Nagi 3 H2H/North Founder Street"},
+		[4101901] = {"@SEG/Commercial/Murderess 2 H2H/North Founder Streettime"},
+		[4101903] = {"@SEG/Commercial/Frye 4 H2H/East Melville Street"},
+		[4101906] = {"@SEG/Commercial/Hope 5 H2H/East Melville Street"},
+		[4101909] = {"@SEG/Commercial/L 1 H2H/East Melville Street"},
+		[4101913] = {"@SEG/Commercial/Hope 2 H2H/East Melville Street/Evening"},
+		[4101915] = {"@SEG/Commercial/Elma 3 H2H/East Melville Street"},
 
 		--ch2
-		[4101880] = {"@SEG/Comm-dist/A Heros Ride/Barista Court/Chp 2"},
-		[4101881] = {"@SEG/Comm-dist/Better Latte Than Never/West Melville Street/Day/Chp 2"},
+		[4101880] = {"@SEG/Commercial/A Heros Ride/Barista Court/Chp 2"},
+		[4101881] = {"@SEG/Commercial/Better Latte Than Never/West Melville Street/Day/Chp 2"},
 
 		--ch3
-		[4101891] = {"@SEG/Comm-dist/Renewed Will/Central Melville Street/Chp 3"},
-		[4101905] = {"@SEG/Comm-dist/Alien Wreckage/East Melville Street/Archeological 3"},
+		[4101891] = {"@SEG/Commercial/Renewed Will/Central Melville Street/Chp 3"},
+		[4101905] = {"@SEG/Commercial/Alien Wreckage/East Melville Street/Archeological 3"},
 
 		--ch4
-		[4101908] = {"@SEG/Comm-dist/The Ties That Bind/East Melville Street/Chp 4"},
+		[4101908] = {"@SEG/Commercial/The Ties That Bind/East Melville Street/Chp 4"},
 
 		--ch5
-		[4101890] = {"@SEG/Comm-dist/Nine Lives/Barista Court/Chp 5"},
-		[4101892] = {"@SEG/Comm-dist/No Ma-non Need Apply/Central Melville Street- Chp 5"},
+		[4101890] = {"@SEG/Commercial/Nine Lives/Barista Court/Chp 5"},
+		[4101892] = {"@SEG/Commercial/No Ma-non Need Apply/Central Melville Street- Chp 5"},
 
 		--ch6
-		[4101886] = {"@SEG/Comm-dist/The Matchmaker/Central Melville Street/Chp 6"},
-		[4101897] = {"@SEG/Comm-dist/The Fashionista/Central Melville Street/Chp 6"},
+		[4101886] = {"@SEG/Commercial/The Matchmaker/Central Melville Street/Chp 6"},
+		[4101897] = {"@SEG/Commercial/The Fashionista/Central Melville Street/Chp 6"},
 
 		--Ch7
-		[4101867] = {"@SEG/Comm-dist/Going Viral/West Melville Street/Chp 7"},
-		[4101869] = {"@SEG/Comm-dist/Alien Nation/West Melville Street/Chp 7"},
-		[4101876] = {"@SEG/Comm-dist/A Dubious Operation/West Melville Street/Chp 7"},
-		[4101885] = {"@SEG/Comm-dist/Emotion Commotion/Barista Court/Chp 7"},
-		[4101907] = {"@SEG/Comm-dist/Trade Agreement/East Melville Street/Chp 7"},
+		[4101867] = {"@SEG/Commercial/Going Viral/West Melville Street/Chp 7"},
+		[4101869] = {"@SEG/Commercial/Alien Nation/West Melville Street/Chp 7"},
+		[4101876] = {"@SEG/Commercial/A Dubious Operation/West Melville Street/Chp 7"},
+		[4101885] = {"@SEG/Commercial/Emotion Commotion/Barista Court/Chp 7"},
+		[4101907] = {"@SEG/Commercial/Trade Agreement/East Melville Street/Chp 7"},
 
 		--ch8
-		[4101895] = {"@SEG/Comm-dist/Sparking a Smile/Barista Court/Chp 8"},
-		[4101898] = {"@SEG/Comm-dist/Planetary Pioneer III/Central Melville Street/Chp 8"},
+		[4101895] = {"@SEG/Commercial/Sparking a Smile/Barista Court/Chp 8"},
+		[4101898] = {"@SEG/Commercial/Planetary Pioneer III/Central Melville Street/Chp 8"},
 
 		--ch9
-		[4101875] = {"@SEG/Comm-dist/Stop, Thief!/West Melville Street/Chp 9"},
-		[4101911] = {"@SEG/Comm-dist/Murder Most Foul/East Melville Street/Chp 9"},
+		[4101875] = {"@SEG/Commercial/Stop, Thief!/West Melville Street/Chp 9"},
+		[4101911] = {"@SEG/Commercial/Murder Most Foul/East Melville Street/Chp 9"},
 
 		--ch10
-		[4101904] = {"@SEG/Comm-dist/My Angel, My Lana/East Melville Street/Chp 10"},
-		[4101912] = {"@SEG/Comm-dist/Wrothian Innovation/East Melville Street/Chp 10"},
+		[4101904] = {"@SEG/Commercial/My Angel, My Lana/East Melville Street/Chp 10"},
+		[4101912] = {"@SEG/Commercial/Wrothian Innovation/East Melville Street/Chp 10"},
 
 		--ch11
-		[4101887] = {"@SEG/Comm-dist/Definian Downfall/Central Melville Street/Chp 11"},
-		[4101896] = {"@SEG/Comm-dist/Unsatisfied Customer/Barista Court/Chp 11"},
-		[4101900] = {"@SEG/Comm-dist/The Sword of Legendaryness/Central Melville Street/Chp 11"},
-		[4101914] = {"@SEG/Comm-dist/A Dish Served Cold/East Melville Street/Chp 11"},
+		[4101887] = {"@SEG/Commercial/Definian Downfall/Central Melville Street/Chp 11"},
+		[4101896] = {"@SEG/Commercial/Unsatisfied Customer/Barista Court/Chp 11"},
+		[4101900] = {"@SEG/Commercial/The Sword of Legendaryness/Central Melville Street/Chp 11"},
+		[4101914] = {"@SEG/Commercial/A Dish Served Cold/East Melville Street/Chp 11"},
 
 		--ch12
-		[4101902] = {"@SEG/Comm-dist/Serial Thriller/North Founder Street/Chp 12"},
+		[4101902] = {"@SEG/Commercial/Serial Thriller/North Founder Street/Chp 12"},
 
 		--mech
-		[4101874] = {"@SEG/Comm-dist/Container/West Melville Street/Mechanical 2"},
+		[4101874] = {"@SEG/Commercial/Container/West Melville Street/Mechanical 2"},
 
 		--arch
-		[4101878] = {"@SEG/Comm-dist/Alien Wreckage/West Melville Street/Archeological 4"},
+		[4101878] = {"@SEG/Commercial/Alien Wreckage/West Melville Street/Archeological 4"},
 
 		--char
-		[4101910] = {"@SEG/Comm-dist/Beats/Aff Shift/East Melville Street"},
-		[4101872] = {"@SEG/Comm-dist/Boze/West Melville Street"},
-		[4101883] = {"@SEG/Comm-dist/Quiquat/Aff Shift/West Melville Street"},
-		[4101889] = {"@SEG/Comm-dist/Veverta/Aff Shift/North Founder Street"},
-		[4101899] = {"@SEG/Comm-dist/Yelv/North Founder Street"},
+		[4101910] = {"@SEG/Commercial/Beats/Aff Shift/East Melville Street"},
+		[4101872] = {"@SEG/Commercial/Boze/West Melville Street"},
+		[4101883] = {"@SEG/Commercial/Quiquat/Aff Shift/West Melville Street"},
+		[4101889] = {"@SEG/Commercial/Veverta/Aff Shift/North Founder Street"},
+		[4101899] = {"@SEG/Commercial/Yelv/North Founder Street"},
 
 
 	--manon
@@ -1763,96 +1763,96 @@ LOCATION_MAPPING = {
 
 	--resi
 	    --H2H
-		[4101939] = {"@SEG/Resi-dist/Phog 1 H2H/Deliverance Park"},
-		[4101942] = {"@SEG/Resi-dist/Lin 5 H2H/Deliverance Park"},
-		[4101944] = {"@SEG/Resi-dist/Phog 3 H2H/Sports Complex"},
-		[4101946] = {"@SEG/Resi-dist/Gwin 2 H2H/Sports Complex"},
-		[4101950] = {"@SEG/Resi-dist/L 5 H2H/Sports Complex/Early Morning"},
-		[4101951] = {"@SEG/Resi-dist/Celica 2 H2H/Sports Complex"},
-		[4101952] = {"@SEG/Resi-dist/Doug 3 H2H/Sports Complex/Daytime"},
-		[4101953] = {"@SEG/Resi-dist/Gwin 3 H2H/Water Puri Plant"},
-		[4101954] = {"@SEG/Resi-dist/Frye 3 H2H/Water Purification Plant"},
-		[4101958] = {"@SEG/Resi-dist/Gwin 4 H2H/Sports Complex"},
-		[4101959] = {"@SEG/Resi-dist/Mia 5 H2H/Sports Complex"},
-		[4101960] = {"@SEG/Resi-dist/Hope 4 H2H/Sports Complex"},
-		[4101961] = {"@SEG/Resi-dist/Phog 5 H2H/Water Puri Plant"},
-		[4101963] = {"@SEG/Resi-dist/Murderess 1 H2H/Cathedral"},
-		[4101964] = {"@SEG/Resi-dist/Murderess 4 H2H/Cathedral"},
-		[4101966] = {"@SEG/Resi-dist/Doug 1 H2H/Ishmael Hills"},
-		[4101968] = {"@SEG/Resi-dist/Elma 2 H2H/Water Puri Plant"},
-		[4101971] = {"@SEG/Resi-dist/Mia 1 H2H/Cathedral"},
-		[4101974] = {"@SEG/Resi-dist/Phog 2 H2H/Ishmael Hills"},
-		[4101978] = {"@SEG/Resi-dist/Irina 2 H2H/Cathedral/Evening"},
-		[4101979] = {"@SEG/Resi-dist/L 3 H2H/Cathedral"},
-		[4101980] = {"@SEG/Resi-dist/Murderess 5 H2H/Ishmael Hills"},
-		[4101982] = {"@SEG/Resi-dist/Nagi 5 H2H/Ishmael Hills"},
-		[4101998] = {"@SEG/Resi-dist/Hope 1 H2H/Ishmael Hills"},
+		[4101939] = {"@SEG/Residental/Phog 1 H2H/Deliverance Park"},
+		[4101942] = {"@SEG/Residental/Lin 5 H2H/Deliverance Park"},
+		[4101944] = {"@SEG/Residental/Phog 3 H2H/Sports Complex"},
+		[4101946] = {"@SEG/Residental/Gwin 2 H2H/Sports Complex"},
+		[4101950] = {"@SEG/Residental/L 5 H2H/Sports Complex/Early Morning"},
+		[4101951] = {"@SEG/Residental/Celica 2 H2H/Sports Complex"},
+		[4101952] = {"@SEG/Residental/Doug 3 H2H/Sports Complex/Daytime"},
+		[4101953] = {"@SEG/Residental/Gwin 3 H2H/Water Puri Plant"},
+		[4101954] = {"@SEG/Residental/Frye 3 H2H/Water Purification Plant"},
+		[4101958] = {"@SEG/Residental/Gwin 4 H2H/Sports Complex"},
+		[4101959] = {"@SEG/Residental/Mia 5 H2H/Sports Complex"},
+		[4101960] = {"@SEG/Residental/Hope 4 H2H/Sports Complex"},
+		[4101961] = {"@SEG/Residental/Phog 5 H2H/Water Puri Plant"},
+		[4101963] = {"@SEG/Residental/Murderess 1 H2H/Cathedral"},
+		[4101964] = {"@SEG/Residental/Murderess 4 H2H/Cathedral"},
+		[4101966] = {"@SEG/Residental/Doug 1 H2H/Ishmael Hills"},
+		[4101968] = {"@SEG/Residental/Elma 2 H2H/Water Puri Plant"},
+		[4101971] = {"@SEG/Residental/Mia 1 H2H/Cathedral"},
+		[4101974] = {"@SEG/Residental/Phog 2 H2H/Ishmael Hills"},
+		[4101978] = {"@SEG/Residental/Irina 2 H2H/Cathedral/Evening"},
+		[4101979] = {"@SEG/Residental/L 3 H2H/Cathedral"},
+		[4101980] = {"@SEG/Residental/Murderess 5 H2H/Ishmael Hills"},
+		[4101982] = {"@SEG/Residental/Nagi 5 H2H/Ishmael Hills"},
+		[4101998] = {"@SEG/Residental/Hope 1 H2H/Ishmael Hills"},
 
 		--ch3
-		[4101984] = {"@SEG/Resi-dist/Hope Springs Eternal/Cathedral/Chp 3"},
+		[4101984] = {"@SEG/Residental/Hope Springs Eternal/Cathedral/Chp 3"},
 
 		--ch4
-		[4101949] = {"@SEG/Resi-dist/The Celeste Three/Deliverance Park/Chp 4"},
-		[4101962] = {"@SEG/Resi-dist/Foggy Dilemma/Water Puri Plant/Chp 4"},
+		[4101949] = {"@SEG/Residental/The Celeste Three/Deliverance Park/Chp 4"},
+		[4101962] = {"@SEG/Residental/Foggy Dilemma/Water Puri Plant/Chp 4"},
 
 		--ch5
-		[4101977] = {"@SEG/Resi-dist/Water Woes/Water Puri Plant/Chp 5"},
+		[4101977] = {"@SEG/Residental/Water Woes/Water Puri Plant/Chp 5"},
 
 		--ch6
-		[4101976] = {"@SEG/Resi-dist/Lakeside Getaway/Water Puri Plant/Chp 6"},
-		[4101985] = {"@SEG/Resi-dist/The Miracle Maker/Cathedral/Chp 6"},
+		[4101976] = {"@SEG/Residental/Lakeside Getaway/Water Puri Plant/Chp 6"},
+		[4101985] = {"@SEG/Residental/The Miracle Maker/Cathedral/Chp 6"},
 
 		--ch7
-		[4101940] = {"@SEG/Resi-dist/Circle of Life/Deliverance Park/Chp 7"},
-		[4101987] = {"@SEG/Resi-dist/A Great Divide/Ishmael Hills/Phog 2/Chp 7"},
-		[4101997] = {"@SEG/Resi-dist/The Journey Begins/Cathedral/Chp 7"},
+		[4101940] = {"@SEG/Residental/Circle of Life/Deliverance Park/Chp 7"},
+		[4101987] = {"@SEG/Residental/A Great Divide/Ishmael Hills/Phog 2/Chp 7"},
+		[4101997] = {"@SEG/Residental/The Journey Begins/Cathedral/Chp 7"},
 
 		--ch8
-		[4101989] = {"@SEG/Resi-dist/Shotgun Diplomacy/Cathedral/Chp 8"},
-		[4101991] = {"@SEG/Resi-dist/Rites of Ruin/Cathedral/Chp 8"},
+		[4101989] = {"@SEG/Residental/Shotgun Diplomacy/Cathedral/Chp 8"},
+		[4101991] = {"@SEG/Residental/Rites of Ruin/Cathedral/Chp 8"},
 
 		--ch9
-		[4101947] = {"@SEG/Resi-dist/Herbivores, Unite!/Deliverance Park/Chp 9"},
-		[4101955] = {"@SEG/Resi-dist/The Line of Fire/Deliverance Park/Chp 9"},
+		[4101947] = {"@SEG/Residental/Herbivores, Unite!/Deliverance Park/Chp 9"},
+		[4101955] = {"@SEG/Residental/The Line of Fire/Deliverance Park/Chp 9"},
 
 		--ch10
-		[4101948] = {"@SEG/Resi-dist/A Present for Hope/Deliverance Park/Hope 4/Chp 10"},
-		[4101967] = {"@SEG/Resi-dist/Bread and a Circus/Ishmael Hills/Chp 10"},
-		[4101973] = {"@SEG/Resi-dist/Alexs Last Stand/Ishmael Hills/Chp 10"},
-		[4101988] = {"@SEG/Resi-dist/The Bug Whisperer/Ishmael Hills/Chp 10"},
+		[4101948] = {"@SEG/Residental/A Present for Hope/Deliverance Park/Hope 4/Chp 10"},
+		[4101967] = {"@SEG/Residental/Bread and a Circus/Ishmael Hills/Chp 10"},
+		[4101973] = {"@SEG/Residental/Alexs Last Stand/Ishmael Hills/Chp 10"},
+		[4101988] = {"@SEG/Residental/The Bug Whisperer/Ishmael Hills/Chp 10"},
 
 		--ch11
-		[4101957] = {"@SEG/Resi-dist/Planetary Pioneer V/Deliverance Park/Chp 11"},
+		[4101957] = {"@SEG/Residental/Planetary Pioneer V/Deliverance Park/Chp 11"},
 
 		--ch12
-		[4101969] = {"@SEG/Resi-dist/New Frontier/Cathedral/Chp 12"},
-		[4101986] = {"@SEG/Resi-dist/The Divine Nopopon/Ishmael Hills/Chp 12"},
-		[4101992] = {"@SEG/Resi-dist/Definian Love/Ishmael Hills/Chp 12"},
-		[4101996] = {"@SEG/Resi-dist/A Fateful Choice/Cathedral/Chp 12"},
+		[4101969] = {"@SEG/Residental/New Frontier/Cathedral/Chp 12"},
+		[4101986] = {"@SEG/Residental/The Divine Nopopon/Ishmael Hills/Chp 12"},
+		[4101992] = {"@SEG/Residental/Definian Love/Ishmael Hills/Chp 12"},
+		[4101996] = {"@SEG/Residental/A Fateful Choice/Cathedral/Chp 12"},
 
 
 		--mechanical
-		[4101994] = {"@SEG/Resi-dist/Container/Cathedral/Mechanical 2"},
-		[4101995] = {"@SEG/Resi-dist/Trailer/Cathedral/Mechanical 3"},
+		[4101994] = {"@SEG/Residental/Container/Cathedral/Mechanical 2"},
+		[4101995] = {"@SEG/Residental/Trailer/Cathedral/Mechanical 3"},
 
 		--archealogical
-		[4101945] = {"@SEG/Resi-dist/Alien Wreckage/Sports Complex/Archeological 4"},
-		[4101965] = {"@SEG/Resi-dist/Alien Wreckage/Ishmael Hills/Archeological 3"},
+		[4101945] = {"@SEG/Residental/Alien Wreckage/Sports Complex/Archeological 4"},
+		[4101965] = {"@SEG/Residental/Alien Wreckage/Ishmael Hills/Archeological 3"},
 
 
 		--character
-		[4101983] = {"@SEG/Resi-dist/H.B./Water Puri Plant"},
-		[4101956] = {"@SEG/Resi-dist/Hope/Deliverance Park"},
-		[4101941] = {"@SEG/Resi-dist/Phog/Deliverance Park"},
-		[4101981] = {"@SEG/Resi-dist/Wendy/Aff Shift/Ishmael Hills"},
+		[4101983] = {"@SEG/Residental/H.B./Water Puri Plant"},
+		[4101956] = {"@SEG/Residental/Hope/Deliverance Park"},
+		[4101941] = {"@SEG/Residental/Phog/Deliverance Park"},
+		[4101981] = {"@SEG/Residental/Wendy/Aff Shift/Ishmael Hills"},
 
 		--missions
-		[4101943] = {"@SEG/Resi-dist/Off the Record Archeological/Deliverance Park"},
-		[4101970] = {"@SEG/Resi-dist/Off the Record Mechanical/Cathedral"},
-		[4101993] = {"@SEG/Resi-dist/Phoskeran/Aff Shift/Ishmael Hills"},
-		[4101972] = {"@SEG/Resi-dist/Caroline/Aff Shift/Ishmael Hills"},
-		[4101990] = {"@SEG/Resi-dist/Letrick/Aff Shift/Cathedral"},
-		[4101975] = {"@SEG/Resi-dist/Konluarb/Aff Shift/Ishmael Hills"},
+		[4101943] = {"@SEG/Residental/Off the Record Archeological/Deliverance Park"},
+		[4101970] = {"@SEG/Residental/Off the Record Mechanical/Cathedral"},
+		[4101993] = {"@SEG/Residental/Phoskeran/Aff Shift/Ishmael Hills"},
+		[4101972] = {"@SEG/Residental/Caroline/Aff Shift/Ishmael Hills"},
+		[4101990] = {"@SEG/Residental/Letrick/Aff Shift/Cathedral"},
+		[4101975] = {"@SEG/Residental/Konluarb/Aff Shift/Ishmael Hills"},
 
 
 	--admin
@@ -2419,7 +2419,7 @@ LOCATION_MAPPING = {
 	[4102401] = {"@LOC/Barracks Interior"},
 	[4102402] = {"@LOC/Interior"},
 	[4102403] = {"@LOC/West Gate"},
-	[4102404] = {"@LOC/Central Industrial-Districtrial District"},
+	[4102404] = {"@LOC/Central Industrialrial District"},
 	[4102405] = {"@LOC/Integrated Production Plant"},
 	[4102406] = {"@LOC/Outfitters Test Hangar"},
 	[4102407] = {"@LOC/Repenta Diner"},

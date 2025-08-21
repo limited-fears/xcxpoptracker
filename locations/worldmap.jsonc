@@ -1,7 +1,7 @@
 [{
 "name": "SEG",
 "children":[
-	{
+{
 	"name":"Industrial-District",
 	"access_rules":["chap:1"],
 	"sections":[{
@@ -221,13 +221,81 @@
 			"size": 10
 		}
 	]
+},
+{ 
+	"name":"Commercial-District",
+	"access_rules":["chap:1"],
+	"sections":[
+
+	],
+	"map_locations": [
+		{				
+			"map": "WlrdMp",
+			"x": 220,
+			"y": 430,
+			"size": 10
+		}
+	]
+},
+{ 
+	"name":"Residental-District",
+	"access_rules":["chap:1"],
+	"sections":[
+
+	],
+	"map_locations": [
+		{				
+			"map": "WlrdMp",
+			"x": 195,
+			"y": 435,
+			"size": 10
+		}
+	]
+},
+{
+	"name":"Administrative-District",
+	"access_rules":["chap:1"],
+	"sections":[
+	{
+		"name":"Gwin 1 H2H",
+		"access_rules":["Gwin:1"]
 	},
 	{
+		"name":"Irina 3 H2H",
+		"access_rules":["Irina:3"]
+	},
+	{
+		"name":"Doug 5 H2H",
+		"access_rules":["Doug:5"]
+	},
+	{
+		"name":"Nagi 1 H2H",
+		"access_rules":["Nagi:1"]
+	},
+	{
+		"name":"Frye 2 H2H",
+		"access_rules":["Frye:2"]
+	},
+	{
+		"name":"Lin 3 H2H",
+		"access_rules":["Lin:3"]
+	}
+	],
+	"map_locations": [
+		{				
+			"map": "WlrdMp",
+			"x": 220,
+			"y": 430,
+			"size": 10
+		}
+	]
+},
+{
 	"name": "Blade-Barracks",
 	"access_rules": ["chap:1"],
 	"sections":[
 		{
-        "name": "Elma 5 H2H",
+	    "name": "Elma 5 H2H",
 		"access_rules":["Elma:5"]
 		},
 		{
@@ -300,45 +368,20 @@
 		}
 	]
 },
-{
-"name":"Admin",
-"access_rules":["chap:1"],
-"sections":[
-	{
-		"name":"Gwin 1 H2H",
-		"access_rules":["Gwin:1"]
-	},
-	{
-		"name":"Irina 3 H2H",
-		"access_rules":["Irina:3"]
-	},
-	{
-		"name":"Doug 5 H2H",
-		"access_rules":["Doug:5"]
-	},
-	{
-		"name":"Nagi 1 H2H",
-		"access_rules":["Nagi:1"]
-	},
-	{
-		"name":"Frye 2 H2H",
-		"access_rules":["Frye:2"]
-	},
-	{
-		"name":"Lin 3 H2H",
-		"access_rules":["Lin:3"]
-	}
-],
-"map_locations": [
-					{				
-						"map": "WlrdMp",
-						"x": 220,
-						"y": 430,
-						"size": 10
-					}
-				]
+{ 
+	"name":"Commercial-District",
+	"access_rules":["chap:1"],
+	"sections":[
 
-
+	],
+	"map_locations": [
+		{				
+			"map": "WlrdMp",
+			"x": 220,
+			"y": 430,
+			"size": 10
+		}
+	]
 }
 ]					
 }]
