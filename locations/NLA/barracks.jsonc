@@ -3,6 +3,7 @@
 		"children":[
 			{
 				"name":"Elma heart 2 heart",
+				"access_rules":["Elma:5"],
 				"sections":[
 				    {
                     "ref":"SEG/Blade-Barracks/Elma 5 H2H"
@@ -18,7 +19,122 @@
 				]
 				
 
-			}			
+			},
+			{
+				"name":"Nagi 4 H2H",
+				"access_rules":["Nagi:4"],
+				"sections":[
+				{
+				"ref": "SEG/BladeBarracks/Nagi 4 H2H"
+				}
+				],
+				"map_locations": [	
+					{				
+						"map": "Barks",
+						"x": 469,
+						"y": 332,
+						"size": 10
+					}
+
+				]
+			},
+			
+				
+			{
+			"name": "The Repair Job",
+			"access_rules":["Lin:1","Chap:3"],
+			"sections":[
+				{
+				"ref":"SEG/BladeBarracks/The Repair Job"
+				}
+			],
+			"map_locations": [
+					{				
+						"map": "Barks",
+						"x": 479,
+						"y": 332,
+						"size": 10
+					}
+
+			]
+			},
+			
+	///	for copy/paste purposes
+		{
+	"name": "Blade-Barracks",
+	"access_rules": ["chap:1"],
+	"sections":[
+
+		{
+			"name":"Nagi 4 H2H",
+			"access_rules":["Nagi:4"]
+		},
+		{
+			"name": "The Repair Job",
+		"access_rules":["Lin:1","Chap:3"]
+		},
+		{
+			"name":"We Were Soldiers",
+			"access_rules":["Elma:1","Chap:3"]
+		},
+		{
+			"name":"A Day in the Life",
+			"access_rules":["Chap:4"]
+		},
+		{
+			"name":"BFFs",
+			"access_rules":["Chap:5"]
+		},
+		{
+			"name":"A Friend in Need",
+			"access_rules":["Chap:5"]
+		},
+		{
+			"name":"Nagis Time",
+			"access_rules":["Chap:8"]
+		},
+		{
+			"name":"Prospective Partners",
+			"access_rules":["Chap:9"]
+		},
+		{
+			"name":"A Challenger Approaches",
+			"access_rules":["Chap:10"]
+		},
+		{
+			"name":"Two Peas in a Pod",
+			"access_rules":["Lin:3","Chap:11"]
+		},
+		{
+			"name":"Fathers and Sons",
+			"access_rules":["Irina:4","Chap:11"]
+		},
+		{
+			"name":"Then and Now",
+			"access_rules":["Elma:4","Chap:12"]
+		},
+		{
+			"name":"To Serve Nopon",
+			"access_rules":["Lin:4","Chap:12"]
+		},
+		{
+			"name":"Lin",
+			"access_rules":[]
+		},
+		{
+			"name":"Elma",
+			"access_rules":[]
+		}
+	],
+	"map_locations": [
+		{				
+			"map": "WlrdMp",
+			"x": 24,
+			"y": 24,
+			"size": 10
+		}
+	]
+    		}
                 ]
 				
 
