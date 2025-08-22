@@ -438,6 +438,188 @@
 	"name":"Residental-District",
 	"access_rules":["chap:1"],
 	"sections":[
+	{
+		"name":"Phog 1 H2H"
+	},
+	{
+		"name":"Lin 5 H2H"
+	},
+	{
+		"name":"Phog 3 H2H"
+	},
+	{
+		"name":"Gwin 2 H2H"
+	},
+	{
+		"name":"L 5 H2H"
+	},
+	{
+		"name":"Celica 2 H2H"
+	},
+	{
+		"name":"Doug 3 H2Htime"
+	},
+	{
+		"name":"Gwin 3 H2H/Water Puri Plant"
+	},
+	{
+		"name":"Frye 3 H2H/Water Purification Plant"
+	},
+	{
+		"name":"Gwin 4 H2H"
+	},
+	{
+		"name":"Mia 5 H2H"
+	},
+	{
+		"name":"Hope 4 H2H"
+	},
+	{
+		"name":"Phog 5 H2H/Water Puri Plant"
+	},
+	{
+		"name":"Murderess 1 H2H/Cathedral"
+	},
+	{
+		"name":"Murderess 4 H2H/Cathedral"
+	},
+	{
+		"name":"Doug 1 H2H/Ishmael Hills"
+	},
+	{
+		"name":"Elma 2 H2H/Water Puri Plant"
+	},
+	{
+		"name":"Mia 1 H2H/Cathedral"
+	},
+	{
+		"name":"Phog 2 H2H/Ishmael Hills"
+	},
+	{
+		"name":"Irina 2 H2H/Cathedral"
+	},
+	{
+		"name":"L 3 H2H/Cathedral"
+	},
+	{
+		"name":"Murderess 5 H2H/Ishmael Hills"
+	},
+	{
+		"name":"Nagi 5 H2H/Ishmael Hills"
+	},
+	{
+		"name":"Hope 1 H2H/Ishmael Hills"
+	},
+	{
+		"name":"Hope Springs Eternal/Cathedral/Chp 3"
+	},
+	{
+		"name":"The Celeste Three/Chp 4"
+	},
+	{
+		"name":"Foggy Dilemma/Water Puri Plant/Chp 4"
+	},
+	{
+		"name":"Water Woes/Water Puri Plant/Chp 5"
+	},
+	{
+		"name":"Lakeside Getaway/Water Puri Plant/Chp 6"
+	},
+	{
+		"name":"The Miracle Maker/Cathedral/Chp 6"
+	},
+	{
+		"name":"Circle of Life/Chp 7"
+	},
+	{
+		"name":"A Great Divide/Ishmael Hills/Phog 2/Chp 7"
+	},
+	{
+		"name":"The Journey Begins/Cathedral/Chp 7"
+	},
+	{
+		"name":"Shotgun Diplomacy/Cathedral/Chp 8"
+	},
+	{
+		"name":"Rites of Ruin/Cathedral/Chp 8"
+	},
+	{
+		"name":"Herbivores, Unite!/Chp 9"
+	},
+	{
+		"name":"The Line of Fire/Chp 9"
+	},
+	{
+		"name":"A Present for Hope/Hope 4/Chp 10"
+	},
+	{
+		"name":"Bread and a Circus/Ishmael Hills/Chp 10"
+	},
+	{
+		"name":"Alexs Last Stand/Ishmael Hills/Chp 10"
+	},
+	{
+		"name":"The Bug Whisperer/Ishmael Hills/Chp 10"
+	},
+	{
+		"name":"Planetary Pioneer V/Chp 11"
+	},
+	{
+		"name":"New Frontier/Cathedral/Chp 12"
+	},
+	{
+		"name":"The Divine Nopopon/Ishmael Hills/Chp 12"
+	},
+	{
+		"name":"Definian Love/Ishmael Hills/Chp 12"
+	},
+	{
+		"name":"A Fateful Choice/Cathedral/Chp 12"
+	},
+	{
+		"name":"Container/Cathedral/Mechanical 2"
+	},
+	{
+		"name":"Trailer/Cathedral/Mechanical 3"
+	},
+	{
+		"name":"Alien Wreckage/Archeological 4"
+	},
+	{
+		"name":"Alien Wreckage/Ishmael Hills/Archeological 3"
+	},
+	{
+		"name":"H.B./Water Puri Plant"
+	},
+	{
+		"name":"Hope"
+	},
+	{
+		"name":"Phog"
+	},
+	{
+		"name":"Wendy/Aff Shift/Ishmael Hills"
+	},
+
+
+	// missions
+	{
+		"name":"Off the Record Archeological"},
+	{
+		"name":"Off the Record Mechanical/Cathedral"
+	},
+	{
+		"name":"Phoskeran/Aff Shift/Ishmael Hills"
+	},
+	{
+		"name":"Caroline/Aff Shift/Ishmael Hills"
+	},
+	{
+		"name":"Letrick/Aff Shift/Cathedral"
+	},
+	{
+		"name":"Konluarb/Aff Shift/Ishmael Hills"
+}
 
 	],
 	"map_locations": [
@@ -476,6 +658,177 @@
 	{
 		"name":"Lin 3 H2H",
 		"access_rules":["Lin:3"]
+	},
+	{
+		"name":"Myles to Go/Chp 2"
+	},
+	{
+		"name":"The Probe-fessional/Chp 2"
+	},
+	{
+		"name":"Doug/Chp 3"
+	},
+	{
+		"name":"Mamma Mia!/Chp 3"
+	},
+	{
+		"name":"BLADE Level Basics/Chp 3"
+	},
+	{
+		"name":"Gwin/Chp 3"
+	},
+	{
+		"name":"City Saviors/Chp 3"
+	},
+	{
+		"name":"Planetary Pioneer I/Chp 3"
+	},
+	{
+		"name":"Irina/Chp 3"
+	},
+   	{
+		"name":"L/Chp 4"
+	},
+	{
+		"name":"Lao/Chp 4"
+	},
+	{
+		"name":"Close Comrades/Chp 4"
+	},
+	{
+		"name":"Prone Sweet Prone/Chp 5"
+	},
+	{
+		"name":"The Handy Ma-non/Chp 5"
+	},
+	{
+		"name":"My Dream/Chp 5"
+	},
+	{
+		"name":"Thats In-Credible!/Chp 5"
+	},
+	{
+		"name":"A False Hope/Hope 2/Chp 5"
+	},
+	{
+		"name":"Planetary Pioneer II/Chp 5"
+	},
+	{
+		"name":"House of Cards/Chp 5"
+	},
+	{
+		"name":"Rescue at the Ensconced Citadel/Chp 6"
+	},
+	{
+		"name":"The Skell License/Chp 6"
+	},
+	{
+		"name":"Frontier Spirit/Chp 6"
+	},
+	{
+		"name":"Close Encounters/Chp 6"
+	},
+	{
+		"name":"Attack on Biahno Hills/Chp 7"
+	},
+	{
+		"name":"Spy Games/Chp 7"
+	},
+    {
+		"name":"Soldier of the Harriers/Doug 3/Chp 7"
+	},
+	{
+		"name":"Ovah and Out/Chp 7"
+	},
+	{
+		"name":"Manhunt/Chp 8"
+	},
+	{
+		"name":"Setting Forth/Chp 8"
+	},
+	{
+		"name":"Planetary Pioneer IV/Chp 8"
+	},
+	{
+		"name":"Blitzkrieg/Phog 3 Frye 3/Chp 8"
+	},
+	{
+		"name":"Cavern Crushers/Chp 9"
+	},
+	{
+		"name":"The Ultimate Price/Chp 10"
+	},
+	{
+		"name":"Reporting for Duty/Nagi 3/Chp 10"
+	},
+	{
+		"name":"Ls Conundrum/L 2/Chp 10"
+	},
+	{
+		"name":"Waste Not, Want Not/Chp 10"
+	},
+	{
+		"name":"The Little Rich Girl/Murderess 2/Chp 10"
+	},
+	{
+		"name":"Unknown Assailant/Chp 10"
+	},
+	{
+		"name":"Slovitys Rampage/Chp 10"
+	},
+	{
+		"name":"The Duel II/Chp 11"
+	},
+	{
+		"name":"Brotherly Love/Phog 4 Frye 4/Chp 11"
+	},
+	{
+		"name":"Lend an Ear/Chp 11"
+	},
+	{
+		"name":"White Lifehold/Chp 11"
+	},
+	{
+		"name":"The Duel III/Chp 11"
+	},
+	{
+		"name":"Mia Is Missing!/Chp 11"
+	},
+	{
+		"name":"The Nopon Heir/L 4/Chp 12"
+	},
+	{
+		"name":"Cooking Schooled/Chp 12"
+	},
+	{
+		"name":"Mia Grows Up/Mia 4/Chp 12"
+	},
+	{
+		"name":"Large Container/Mechanical 4"
+	},
+	{
+		"name":"Trailer/Mechanical 2"
+	},
+	{
+		"name":"Nagi"
+	},
+	{
+		"name":"Murderess"
+	},
+	{
+		"name":"The Root of All Evil"
+	},
+	{
+		"name":"Wolf/Aff Shift"
+	},
+	{
+		"name":"Nopopon/Aff Shift"
+	},
+	{
+		"name":"Cedric/Aff Shift"
+	},
+	{
+		"name":"Dead Men Tell No Tales"
 	}
 	],
 	"map_locations": [
@@ -569,7 +922,78 @@
 	"name":"Manon-Ship",
 	"access_rules":["chap:4"],
 	"sections":[
+{
+	"name":"L 2 H2H"
+},
+{
+	"name":"Elma 4 H2H"
+},
+{
+	"name":"Tree-mendous/Chp 5"
+},
+{
+	"name":"A Grim Undertaking/Chp 6"
+},
+{
+	"name":"The Membership/Chp 6"
+},
+{
+	"name":"Gorkwa Games/Chp 7"
+},
+{
+	"name":"Training Day/Chp 7"
+},
+{
+	"name":"Forbidden Love/Chp 8"
+},		
+{
+	"name":"The Art of War/Chp 8"
+},
+{
+	"name":"Here Come the Brides/Chp 9"
+},
+{
+	"name":"No-show Nenceleg/Chp 10"
+},
+{
+	"name":"House Call/Chp 10"
+},
+{
+	"name":"A New Life/Chp 11"
+},
+{
+	"name":"Slovitys Revenge/Chp 11"
+},
+{
+	"name":"The Unbreakable Sword/Chp 12"
+},
+{
+	"name":"The Lurker/Chp 12"
+},
+{
+	"name":"Snipe Hunt/Chp 12"
+},
+{
+	"name":"The Old Gods/Chp 12"
+},
+{
+	"name":"An Ancient Legend/Chp 12"
+},
+{
+	"name":"The Party Line/Chp 12"
+},
+{
+	"name":"Mia"
+},
 
+	//missions
+
+{
+	"name":"Sunceleg Rises"
+},
+{
+	"name":"Zurranik/Aff Shift"
+}
 	],
 	"map_locations": [
 		{				
