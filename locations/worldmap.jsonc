@@ -4,7 +4,8 @@
 {
 	"name":"Industrial-District",
 	"access_rules":["chap:1"],
-	"sections":[{
+	"sections":[
+	{
 		"name":"Celica 5 H2H",
 		"access_rules":["Celica:5"]
 	},
@@ -226,7 +227,203 @@
 	"name":"Commercial-District",
 	"access_rules":["chap:1"],
 	"sections":[
-
+	
+{
+	"name":"Gwin 5 H2H",
+	"access_rules":["Gwin:5"]
+},
+{
+	"name":"Lin 2 H2H",
+	"access_rules":["Lin:2"]
+},
+{
+	"name":"Mia 4 H2H",
+	"access_rules":["Mia:4"]
+},
+{
+	"name":"Celica 3 H2H",
+	"access_rules":["Celica:3"]
+},
+{
+	"name":"Mia 2 H2H",
+	"access_rules":["Mia:2"]
+},
+{
+	"name":"Phog 4 H2H",
+	"access_rules":["Phog:4"]
+},
+{
+	"name":"Doug 4 H2H",
+	"access_rules":["Doug:4"]
+},
+{
+	"name":"Lin 4 H2H",
+	"access_rules":["Lin:4"]
+},
+{
+	"name":"Irina 5 H2H",
+	"access_rules":["Irina:5"]
+},
+{
+	"name":"L 4 H2H",
+	"access_rules":["L:4"]
+},
+{
+	"name":"Nagi 3 H2H",
+	"access_rules":["Nagi:3"]
+},
+{
+	"name":"Murderess 2 H2H",
+	"access_rules":["Murderess:2"]
+},
+{
+	"name":"Frye 4 H2H",
+	"access_rules":["Frye:4"]
+},
+{
+	"name":"Hope 5 H2H",
+	"access_rules":["Hope:5"]
+},
+{
+	"name":"L 1 H2H",
+	"access_rules":["L:1"]
+},
+{
+	"name":"Hope 2 H2H",
+	"access_rules":["Hope:2"]
+},
+{
+	"name":"Elma 3 H2H",
+	"access_rules":["Elma:3"]
+},
+{
+	"name":"A Heros Ride",
+	"access_rules":["Chap:2"]
+},
+{
+	"name":"Better Latte Than Never",
+	"access_rules":["Chap:2"]
+},
+{
+	"name":"Renewed Will",
+	"access_rules":["Chap:3"]
+},
+{
+	"name":"The Ties That Bind",
+	"access_rules":["Chap:4"]
+},
+{
+	"name":"Nine Lives",
+	"access_rules":["Chap:5"]
+},
+{
+	"name":"No Ma-non Need Apply",
+	"access_rules":["Chap:5"]
+},
+{
+	"name":"The Matchmaker",
+	"access_rules":["Chap:6"]
+},
+{
+	"name":"The Fashionista",
+	"access_rules":["Chap:6"]
+},
+{
+	"name":"Going Viral",
+	"access_rules":["Chap:7"]
+},
+{
+	"name":"Alien Nation",
+	"access_rules":["Chap:7"]
+},
+{
+	"name":"A Dubious Operation",
+	"access_rules":["Chap:7"]
+},
+{
+	"name":"Emotion Commotion",
+	"access_rules":["Chap:7"]
+},
+{
+	"name":"Trade Agreement",
+	"access_rules":["Chap:7"]
+},
+{
+	"name":"Sparking a Smile",
+	"access_rules":["Chap:8"]
+},
+{
+	"name":"Planetary Pioneer III",
+	"access_rules":["Chap:8"]
+},
+{
+	"name":"Stop, Thief!",
+	"access_rules":["Chap:9"]
+},
+{
+	"name":"Murder Most Foul",
+	"access_rules":["Chap:9"]
+},
+{
+	"name":"My Angel, My Lana",
+	"access_rules":["Chap:10"]
+},
+{
+	"name":"Wrothian Innovation",
+	"access_rules":["Chap:10"]
+},
+{
+	"name":"Definian Downfall",
+	"access_rules":["Chap:11"]
+},
+{
+	"name":"Unsatisfied Customer",
+	"access_rules":["Chap:11"]
+},
+{
+	"name":"The Sword of Legendaryness",
+	"access_rules":["Chap:11"]
+},
+{
+	"name":"A Dish Served Cold",
+	"access_rules":["Chap:11"]
+},
+{
+	"name":"Serial Thriller",
+	"access_rules":["Chap:12"]
+},
+{
+	"name":"Container",
+	"access_rules":["Mechanical:2"]
+},
+{
+	"name":"Alien Wreckage",
+	"access_rules":["Archeological:4"]
+},
+{
+	"name":"Alien Wreckage",
+	"access_rules":["Archeological:3"]
+},
+{
+	"name":"Beats/Aff Shift",
+	"access_rules":[]
+},
+{
+	"name":"Boze",
+	"access_rules":[]
+},
+{
+	"name":"Quiquat/Aff Shift",
+	"access_rules":[]
+},
+{
+	"name":"Veverta/Aff Shift",
+	"access_rules":[]
+},
+{
+	"name":"Yelv",
+	"access_rules":[]
+}
 	],
 	"map_locations": [
 		{				
