@@ -1,4 +1,5 @@
-[{
+[
+	{
 "name": "SEG",
 "children":[
 {
@@ -1732,8 +1733,303 @@
 		}
 	]
 }
-]					
-}]
+]
+	},
+{
+	"name":"Node",
+	"children":[
+{
+	"name":"Primordia",
+	"access_rules":["chap:2"],
+	"sections":[
+		//Primordia
+		{
+			"name":"FN Node 101"},
+		{
+			"name":"FN Node 102"},
+		{
+			"name":"FN Node 103"},
+		{
+			"name":"FN Node 104"},
+		{
+			"name":"FN Node 106"},
+		{
+			"name":"FN Node 108"},
+		{
+			"name":"FN Node 107"},
+		{
+			"name":"FN Node 109"},
+		{
+			"name":"FN Node 110"},
+		{
+			"name":"FN Node 111"},
+		{
+			"name":"FN Node 112"},
+		{
+			"name":"FN Node 113"},
+		{
+			"name":"FN Node 114"},
+		{
+			"name":"FN Node 115"},
+		{
+			"name":"FN Node 116"},
+		{
+			"name":"FN Node 117"},
+		{
+			"name":"FN Node 118"},
+		{
+			"name":"FN Node 119"},
+		{
+			"name":"FN Node 120"},
+		{
+			"name":"FN Node 121"},
+		{
+			"name":"FN Node 105"}
+		],
+		"map_locations": [
+		{				
+			"map": "WlrdMp",
+			"x": 180,
+			"y": 380,
+			"size": 5
+		}
+	]
+},
+
+{
+	"name":"Noctilum",
+	"access_rules":["chap:2"],
+	"sections":[
+	//Noctilum
+		{
+			"name":"FN Node 201"},
+		{
+			"name":"FN Node 202"},
+		{
+			"name":"FN Node 203"},
+		{
+			"name":"FN Node 204"},
+		{
+			"name":"FN Node 205"},
+		{
+			"name":"FN Node 206"},
+		{
+			"name":"FN Node 207"},
+		{
+			"name":"FN Node 208"},
+		{
+			"name":"FN Node 209"},
+		{
+			"name":"FN Node 210"},
+		{
+			"name":"FN Node 211"},
+		{
+			"name":"FN Node 212"},
+		{
+			"name":"FN Node 213"},
+		{
+			"name":"FN Node 214"},
+		{
+			"name":"FN Node 215"},
+		{
+			"name":"FN Node 216"},
+		{
+			"name":"FN Node 217"},
+		{
+			"name":"FN Node 218"},
+		{
+			"name":"FN Node 219"},
+		{
+			"name":"FN Node 220"},
+		{
+			"name":"FN Node 221"},
+		{
+			"name":"FN Node 222"},
+		{
+			"name":"FN Node 223"},
+		{
+			"name":"FN Node 224"},
+		{
+			"name":"FN Node 225"}
+	],
+	"map_locations": [
+		{				
+			"map": "WlrdMp",
+			"x": 130,
+			"y": 360,
+			"size": 5
+		}
+	]
+},
+
+{
+	"name":"Oblivia",
+	"access_rules":["chap:2"],
+	"sections":[
+	//Oblivia
+		{
+			"name":"FN Node 301"},
+		{
+			"name":"FN Node 302"},
+		{
+			"name":"FN Node 303"},
+		{
+			"name":"FN Node 304"},
+		{
+			"name":"FN Node 305"},
+		{
+			"name":"FN Node 306"},
+		{
+			"name":"FN Node 307"},
+		{
+			"name":"FN Node 308"},
+		{
+			"name":"FN Node 309"},
+		{
+			"name":"FN Node 310"},
+		{
+			"name":"FN Node 311"},
+		{
+			"name":"FN Node 312"},
+		{
+			"name":"FN Node 313"},
+		{
+			"name":"FN Node 314"},
+		{
+			"name":"FN Node 315"},
+		{
+			"name":"FN Node 316"},
+		{
+			"name":"FN Node 317"},
+		{
+			"name":"FN Node 318"},
+		{
+			"name":"FN Node 320"},
+		{
+			"name":"FN Node 321"},
+		{
+			"name":"FN Node 319"},
+		{
+			"name":"FN Node 322"}
+		],
+		"map_locations": [
+		{				
+			"map": "WlrdMp",
+			"x": 315,
+			"y": 385,
+			"size": 5
+		}
+	]
+},
+
+{
+	"name":"Sylvalum",
+	"access_rules":["chap:2"],
+	"sections":[
+	//Sylvalum
+		{
+			"name":"FN Node 401"},
+		{
+			"name":"FN Node 402"},
+		{
+			"name":"FN Node 403"},
+		{
+			"name":"FN Node 404"},
+		{
+			"name":"FN Node 405"},
+		{
+			"name":"FN Node 406"},
+		{
+			"name":"FN Node 407"},
+		{
+			"name":"FN Node 408"},
+		{
+			"name":"FN Node 409"},
+		{
+			"name":"FN Node 410"},
+		{
+			"name":"FN Node 411"},
+		{
+			"name":"FN Node 412"},
+		{
+			"name":"FN Node 413"},
+		{
+			"name":"FN Node 414"},
+		{
+			"name":"FN Node 415"},
+		{
+			"name":"FN Node 416"},
+		{
+			"name":"FN Node 417"},
+		{
+			"name":"FN Node 418"},
+		{
+			"name":"FN Node 419"},
+		{
+			"name":"FN Node 420"}
+		],
+		"map_locations": [
+		{				
+			"map": "WlrdMp",
+			"x": 265,
+			"y": 225,
+			"size": 5
+		}
+	]
+},
+
+{
+	"name":"Cauldros",
+	"access_rules":["chap:2"],
+	"sections":[
+	//Cauldros
+		{
+			"name":"FN Node 501"},
+		{
+			"name":"FN Node 502"},
+		{
+			"name":"FN Node 503"},
+		{
+			"name":"FN Node 504"},
+		{
+			"name":"FN Node 505"},
+		{
+			"name":"FN Node 506"},
+		{
+			"name":"FN Node 507"},
+		{
+			"name":"FN Node 508"},
+		{
+			"name":"FN Node 509"},
+		{
+			"name":"FN Node 510"},
+		{
+			"name":"FN Node 511"},
+		{
+			"name":"FN Node 512"},
+		{
+			"name":"FN Node 513"},
+		{
+			"name":"FN Node 514"},
+		{
+			"name":"FN Node 515"},
+		{
+			"name":"FN Node 516"}
+	],
+	"map_locations": [
+		{				
+			"map": "WlrdMp",
+			"x": 335,
+			"y": 105,
+			"size": 5
+		}
+	]
+}
+	]
+}
+]
+
+
 
 
 	///
