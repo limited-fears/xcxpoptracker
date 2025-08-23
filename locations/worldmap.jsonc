@@ -217,12 +217,13 @@
 "map_locations": [
 		{				
 			"map": "WlrdMp",
-			"x": 195,
-			"y": 420,
+			"x": 185,
+			"y": 425,
 			"size": 5
 		}
 	]
 },
+
 { 
 	"name":"Commercial-District",
 	"access_rules":["chap:1"],
@@ -428,12 +429,13 @@
 	"map_locations": [
 		{				
 			"map": "WlrdMp",
-			"x": 220,
-			"y": 430,
+			"x": 208,
+			"y": 425,
 			"size": 5
 		}
 	]
 },
+
 { 
 	"name":"Residental-District",
 	"access_rules":["chap:1"],
@@ -625,12 +627,13 @@
 	"map_locations": [
 		{				
 			"map": "WlrdMp",
-			"x": 195,
-			"y": 435,
+			"x": 216,
+			"y": 440,
 			"size": 5
 		}
 	]
 },
+
 {
 	"name":"Administrative-District",
 	"access_rules":["chap:1"],
@@ -834,12 +837,13 @@
 	"map_locations": [
 		{				
 			"map": "WlrdMp",
-			"x": 220,
-			"y": 430,
+			"x": 216,
+			"y": 423,
 			"size": 5
 		}
 	]
 },
+
 {
 	"name": "Blade-Barracks",
 	"access_rules": ["chap:1"],
@@ -912,12 +916,13 @@
 	"map_locations": [
 		{				
 			"map": "WlrdMp",
-			"x": 220,
-			"y": 420,
+			"x": 235,
+			"y": 425,
 			"size": 5
 		}
 	]
 },
+
 { 
 	"name":"Manon-Ship",
 	"access_rules":["chap:4"],
@@ -998,8 +1003,731 @@
 	"map_locations": [
 		{				
 			"map": "WlrdMp",
-			"x": 220,
-			"y": 430,
+			"x": 190,
+			"y": 440,
+			"size": 5
+		}
+	]
+},
+
+{
+	"name":"Primordia",
+	"access_rules":["chap:1"],
+	"sections":[
+	{
+		"name":"Caesar, the Hundred-Eyed"},
+	{
+		"name":"Celestin, the Spring Storm"},
+	{
+		"name":"Zdenka, the Raucous"},
+	{
+		"name":"Sapara, the Laconic"},
+	{
+		"name":"Bohdan, the Mistral"},
+	{
+		"name":"Casper, the Unhealthy Eater"},
+	{
+		"name":"Eckart, the Indestructible"},
+	{
+		"name":"Ridill, the Arrogant"},
+	{
+		"name":"Necro, the Cavelord"},
+	{
+		"name":"Experimental Composite Qmoeva"},
+	{
+		"name":"Dieter, the Epicure"},
+	{
+		"name":"Daril, the Eradicator"},
+	{
+		"name":"Mesgen, the Fairweathered"},
+	{
+		"name":"Shatskikh, the Flash"},
+	{
+		"name":"Etutanne, the Bloodthirsty"},
+	{
+		"name":"Hephaestus, the Absconder"},
+	{
+		"name":"Gugli, the Relentless"},
+	{
+		"name":"Luciel, the Eternal"},
+	{
+		"name":"Eutropio, the Sea Rumble"},
+	{
+		"name":"Bogdan, the Dense"},
+	{
+		"name":"Ji-ett, the Thunderclap"},
+	{
+		"name":"Rajidi, the Cumuliform"},
+	{
+		"name":"Cinicula Assault/Grieving Plains/Chp 2"},
+	{
+		"name":"Welcome Back, Conner/Sayram Northeast Plain/Chp 2"},
+	{
+		"name":"Haywire!/Water Puri Plant/Chp 9"},
+	{
+		"name":"The Queen Is Dead/Stickstone Rise/Chp 11"},
+	{
+		"name":"Alien Container/Bedrock Hold/Archeological 5"},
+	{
+		"name":"Alien Wreckage/Drop Shaft/Archeological 4"},
+	{
+		"name":"Alien Wreckage/Sickle Rock Rise/Archeological 2"},
+	{
+		"name":"Alien Wreckage/Seaswept Rise/Archeological 4"},
+	{
+		"name":"Alien Wreckage/North Janpath Plain/Archeological 3"},
+	{
+		"name":"Strange Insect Nest/Greater Gemini Bridge/Biological 1"},
+	{
+		"name":"Skell Wreckage/Bedrock Hold/Mechanical 1"},
+	{
+		"name":"Skell Wreckage/Headwater Summit/Mechanical 1"},
+	{
+		"name":"White Whale Debris/Headwater Summit/Mechanical 1"},
+	{
+		"name":"Vehicle Wreckage/Shadow Rise/Mechanical 1"},
+	{
+		"name":"White Whale Debris/Biahno Lake/Mechanical 1"},
+	{
+		"name":"Skell Wreckage/Plundered Ruins/Mechanical 2"},
+	{
+		"name":"White Whale Debris/Talon Rock/Mechanical 5"},
+	{
+		"name":"White Whale Debris/Talon Rock Second Terrane/Mechanical 1"},
+	{
+		"name":"Patrol Chopper Wreckage/Arendt Bridge/Mechanical 1"},
+	{
+		"name":"White Whale Debris/Northpointe Beach/Mechanical 3"},
+	{
+		"name":"Vehicle Wreckage/East Gate Plain/Mechanical 1"},
+	{
+		"name":"White Whale Debris/Northpointe Cove/Mechanical 2"},
+	{
+		"name":"White Whale Debris/Tallpack Peak/Mechanical 1"},
+	{
+		"name":"White Whale Debris/North Janpath Plain/Mechanical 4"},
+	{
+		"name":"Patrol Chopper Wreckage/West Gate Plains/Mechanical 4"},
+	{
+		"name":"Snipe Hunt/Bedrock Hold"},
+	{
+		"name":"The Repair Job/Starfall Basin"},
+	{
+		"name":"A Day in the Life/Biahno Grassland"},
+	{
+		"name":"Forbidden Love/Shadow Beach"},
+	{
+		"name":"Renewed Will/Grieving Plains"},
+	{
+		"name":"The Lurker/Talon Rock Second Terrane"},
+	{
+		"name":"City Saviors/Sayram Lake"},
+	{
+		"name":"The Good Thief/Northpointe Beach"},
+	{
+		"name":"Close Encounters/Arendt Brdige"},
+	{
+		"name":"Nagis Time/Northpointe Beach"},
+	{
+		"name":"Here Come the Brides/Sickle Rock Rise"},
+	{
+		"name":"An Ancient Legend/East Gate Plain"},
+	{
+		"name":"We Were Soldiers/Northpointe Cove"},
+	{
+		"name":"Nine Lives/East Gate Plain"},
+	{
+		"name":"A Dubious Operation/Seaswept Ridge"},
+	{
+		"name":"Muimuis Meltdown/North Janpath Plain"},
+	{
+		"name":"Training Day/Janpath Lake"},
+	{
+		"name":"A False Hope/South Janpath Plain"},
+	{
+		"name":"Stop, Thief!/East Janpath Plain"}
+	],
+	"map_locations": [
+		{				
+			"map": "WlrdMp",
+			"x": 210,
+			"y": 380,
+			"size": 5
+		}
+	]
+},
+
+{
+//noct
+"name":"Noctilum",
+	"access_rules":["chap:2"],
+	"sections":[
+	{
+		"name":"Planetes, the Torrential/Divine Roost/Tyrant"},
+	{
+		"name":"Pyotr, the Shepherd/Upper Hush Flood /Tyrant"},
+	{
+		"name":"Froste, the Courteous/Vitriol Cesspool/Tyrant"},
+	{
+		"name":"Telethia, the Endbringer/Divine Roost/Tyrant"},
+	{
+		"name":"Joker, the Unknowable/Divine Roost/Tyrant"},
+	{
+		"name":"Frajeel, the Purgatorial/Divine Roost/Tyrant"},
+	{
+		"name":"Katerina, the Cliffhanger/Everwhelm Falls/Tyrant"},
+	{
+		"name":"Schneider, the Cliffpercher/Everwhelm Falls/Tyrant"},
+	{
+		"name":"Demetrio, the Tempestuous/Ensconced Citadel/Tyrant"},
+	{
+		"name":"Elena, the Infernal/Weeping Whitewood/Tyrant/Fog"},
+	{
+		"name":"Griffus, the Tartarean/Fukai Pass/Tyrant"},
+	{
+		"name":"Tormenta, the Scarlet-Clad/Decapotamon/Tyrant"},
+	{
+		"name":"Sarcosuchus, the Iron-Eater/Rust Lake/Tyrant"},
+	{
+		"name":"Clemente, the Iron Meteor/Nopon Braidbridge/Tyrant"},
+	{
+		"name":"Desdemona, the Subterranean/Rustpool Banks/Tyrant"},
+	{
+		"name":"Buchwald, the Guardian/Rockmoles Burrow/Tyrant"},
+	{
+		"name":"Data Miner/Potters Rock/Chp 3"},
+	{
+		"name":"Adventure!/Skybound Coil Tree/Chp 5"},
+	{
+		"name":"Missing in Action/Whales Nostril/Chp 5"},
+	{
+		"name":"Alien Wreckage/Qing Long Glade/Archeological 2"},
+	{
+		"name":"Alien Container/Lakeview Stronghold/Archeological 4"},
+	{
+		"name":"Strange Tree/Narcissus Tree/Biological 5"},
+	{
+		"name":"Strange Tree/Middle Hush Flood/Biological 4"},
+	{
+		"name":"Strange Tree/Old Dragontail Tree/Biological 1"},
+	{
+		"name":"Skell Wreckage/Sato Headwater/Mechanical 2"},
+	{
+		"name":"Patrol Chopper Wreckage/Divie Roost/Mechanical 4"},
+	{
+		"name":"Vehicle Wreckage/Bloodpond Basin/Mechanical 4"},
+	{
+		"name":"Trailer Wreckage/Qing Long Glade/Mechanical 1"},
+	{
+		"name":"White Whale Debris/Fukai Pass/Mechanical 4"},
+	{
+		"name":"Skell Wreckage/Rockmoles Burrow/Mechanical 4"},
+	{
+		"name":"Patrol Chopper Wreckage/Canopied Nightwood/Mechanical 2"},
+	{
+		"name":"Skell Wreckage/Tripod Rock/Mechanical 1"},
+	{
+		"name":"Skell Wreckage/Ensanguined Font/Mechanical 2"},
+	{
+		"name":"A Fateful Choice/Divine Roost"},
+	{
+		"name":"The Nopon Heir/Divine Roost"},
+	{
+		"name":"House Call/Upper Hush Flood"},
+	{
+		"name":"Prospective Partners/Middle Hush Flood"},
+	{
+		"name":"Frontier Spirit/Everwhelm Falls"},
+	{
+		"name":"The Art of War/Lotus Keep Building Site"},
+	{
+		"name":"Rescue at the Ensconced Citadel/Ensconced Citadel"},
+	{
+		"name":"My Dream/Middle Hushflood"},
+	{
+		"name":"The Voltant Visionary/Serpentine Pass"},
+	{
+		"name":"Circle of Life/Dead Mans Ingress"},
+	{
+		"name":"No-show Nenceleg/Qing Long Glade"},
+	{
+		"name":"Dodonga Caravan/Cascade Isle"},
+	{
+		"name":"Manhunt/Dead Mens Ingress"},
+	{
+		"name":"Close Comrades/Qing Long Glade"},
+	{
+		"name":"A Proper Chopper/Sunlit Spring"},
+	{
+		"name":"Dead Men Tell No Tales/Millstone Ridge"},
+	{
+		"name":"Murder Most Foul/Weeping Whitewood"},
+	{
+		"name":"Lone Survivors/Seabound Coil Tree"},
+	{
+		"name":"The Duel II/Decapotamon"}
+	],
+	"map_locations": [
+		{				
+			"map": "WlrdMp",
+			"x": 110,
+			"y": 245,
+			"size": 5
+		}
+	]
+},
+
+{
+//obliv
+"name":"Oblivia",
+	"access_rules":["chap:2"],
+	"sections":[
+	{
+		"name":"Melanya, the Sound Sleeper/Oblivia Ingress/Tyrant"},
+	{
+		"name":"Gotthard, the Intimidating/Yawning Giant/Tyrant"},
+	{
+		"name":"Germaine, the Treasure Keeper/Eddies Conquest/Tyrant"},
+	{
+		"name":"Vendura, the Spellbinder/Mesa Fortress/Tyranttime"},
+	{
+		"name":"Libra, the Long-Lived/North Coast/Tyrant"},
+	{
+		"name":"Jindriska, the Serene/Twin Arches/Tyrant"},
+	{
+		"name":"Barnabas, the Despot/Cliffside Camp/Tyranttime"},
+	{
+		"name":"Edgardo, the Carefree/North Coast/Tyrant"},
+	{
+		"name":"Squallo, the Sand Mirer/Aaroy Plain/Tyranttime"},
+	{
+		"name":"Ro-darm, the Demon Claw/North Coast/Tyrant"},
+	{
+		"name":"Hartmut, the Calamity/Yawning Giant/Tyrant"},
+	{
+		"name":"Valeriano, the Rolling Thunder/Leaning Ring/Tyrant/Electromagnetic storm"},
+	{
+		"name":"Ernest, the Contemplative/King Falls/Tyrant"},
+	{
+		"name":"Celedonio, the Battle-Tested/Keegan Ridge/Tyrant"},
+	{
+		"name":"Vittorio, the Battle-Scarred/Barbarich Desert/Tyrant"},
+	{
+		"name":"Rolf, the Sonorous/King Falls/Tyrant"},
+	{
+		"name":"Ludvik, the Picky Eater/Keegan Ridge/Tyranttime"},
+	{
+		"name":"Elaine, the Lunar Eclipse/Lake Basel/Tyranttime"},
+	{
+		"name":"Eliane, the Unmoved/Barbarich Desert/Tyrant"},
+	{
+		"name":"Sviatoslav, the Reproachful/Balance Rock/Tyrant/Rain"},
+	{
+		"name":"Ferdinand, the Fortuitous/Lake Basel/Tyrant"},
+	{
+		"name":"Climati, the Chilling Wind/Central Ibra Ravine/Tyrant"},
+	{
+		"name":"Silvestre, the Morning Light/South Coast/Tyrant"},
+	{
+		"name":"Feliciano, the All-Seeing/Central Ibra Ravine/Tyranttime"},
+	{
+		"name":"Vilem, the Gold-Scaled/Lake Basel/Tyrant"},
+	{
+		"name":"Bertrand, the Gorge Scourge/East Ibra Ravine/Tyrant"},
+	{
+		"name":"Mayday/Aaroy Plain/Chp 2"},
+	{
+		"name":"The Trading Floor/Sea Whisper Valley/Chp 3"},
+	{
+		"name":"Mighty Mia/Leaning Ring/Chp 6"},
+	{
+		"name":"Alien Wreckage/Mesa Fortress/Archeological 2"},
+	{
+		"name":"Alien Container/Jair Fortress/Archeological 4"},
+	{
+		"name":"Indigen Nest/Big Arch/Biological 4"},
+	{
+		"name":"Indigen Nest/Yawning Giant/Biological 2"},
+	{
+		"name":"Indigen Dung/Aaroy Plain/Biological 2"},
+	{
+		"name":"Indigen Nest/Mount Edge Peak/Biological 4"},
+	{
+		"name":"Indigen Nest/Giant Ring/Biological 5"},
+	{
+		"name":"Indigen Dung/Victory Rock/Biological 3"},
+	{
+		"name":"White Whale Debris/Oblivia Ingress/Mechanical 4"},
+	{
+		"name":"Skell Wreckage/Stoyanov Trail/Mechanical 2"},
+	{
+		"name":"Vehicle Wreckage/Twin Arches/Mechanical 2"},
+	{
+		"name":"Skell Wreckage/Big Arch/Mechanical 4"},
+	{
+		"name":"White Whale Debris/Aaroy Plain/Mechanical 2"},
+	{
+		"name":"Skell Wreckage/Scabland Fortress/Mechanical 4"},
+	{
+		"name":"Skell Wreckage/Aaroy Plain/Mechanical 2"},
+	{
+		"name":"White Whale Debris/Milligan Supply Base/Mechanical 4"},
+	{
+		"name":"Skell Wreckage/Milligan Supply Base/Mechanical 4"},
+	{
+		"name":"White Whale Debris/Barbarich Desert/Mechanical 2"},
+	{
+		"name":"Trailer Wreckage/Ejiri Promontory/Mechanical 2"},
+	{
+		"name":"Skell Wreckage/Drowning Ring/Mechanical 4"},
+	{
+		"name":"White Whale Debris/Keegan Ridge/Mechanical 4"},
+	{
+		"name":"Skell Wreckage/Lake Basel/Mechanical 4"},
+	{
+		"name":"White Whale Debris/Lake Basel/Mechanical 4"},
+	{
+		"name":"Vehicle Wreckage/Lake Basel/Mechanical 4"},
+	{
+		"name":"Vehicle Wreckage/Balance Rock/Mechanical 3"},
+	{
+		"name":"Skell Wreckage/South Coast/Mechanical 3"},
+	{
+		"name":"Skell Wreckage/Washington Isle/Mechanical 4"},
+	{
+		"name":"White Whale Debris/Sea Whisper Valley/Mechanical 3"},
+	{
+		"name":"Sunceleg Rises/Stoyanov Trail"},
+	{
+		"name":"A Dish Served Cold/Yawning Giant"},
+	{
+		"name":"Prone Sweet Prone/Scabland Fortress"},
+	{
+		"name":"Foggy Dilemma/Aaroy Plain"},
+	{
+		"name":"Slovitys Rampage/Milligan Supply Base"},
+	{
+		"name":"A Friend in Need/Rooney Cavern"},
+	{
+		"name":"The Duel I/Ruins on the Sandbank"},
+	{
+		"name":"A Grim Undertaking/Barbarich Desert"},
+	{
+		"name":"The Little Rich Girl/Lake Basel"},
+	{
+		"name":"A Challenger Approaches/Wrothian Stronghold"},
+	{
+		"name":"Then and Now/Keegan Ridge"},
+	{
+		"name":"A Great Divide/South Coast"},
+	{
+		"name":"Bread and a Circus/Beehive Rock"},
+	{
+		"name":"Shotgun Diplomacy/Balance Rock"},
+	{
+		"name":"Dorian Caravan/Lake Basel"},
+	{
+		"name":"Spy Games/Jair Fortress"}
+	],
+	"map_locations": [
+		{				
+			"map": "WlrdMp",
+			"x": 375,
+			"y": 400,
+			"size": 5
+		}
+	]
+},
+
+{	
+//caul
+"name":"Cauldros",
+	"access_rules":["chap:2"],
+	"sections":[
+	{
+		"name":"Kringe, the Hunting Arrow/Scholes Battleground/Tyrant"},
+	{
+		"name":"Coil, the Never-Ending/Forgotten Mining Frigate/Tyrant/Electromagnetic storm"},
+	{
+		"name":"Prinsipe, the Ravenous/Forgotten Mining Frigate/Tyranttime"},
+	{
+		"name":"Chantais Galdr/Orrh Sim Capital Ruins/Tyranttime"},
+	{
+		"name":"Eisen, the Ebon Rock/Abandoned Bivouac/Tyranttime"},
+	{
+		"name":"Pelicollo, the Panzer/Ternion Fork/Tyrant"},
+	{
+		"name":"Chantai, the Insect Maiden/Forgotten Mining Frigate/Tyranttime"},
+	{
+		"name":"Armored Cruiser Seidr/Orrh Sim Watchtowers/Tyranttime"},
+	{
+		"name":"Duran, the Draconian/Tphnom Shelf/Tyrant"},
+	{
+		"name":"Ilithios, the Enlightened/Sunset Falls/Tyrant"},
+	{
+		"name":"Terenty, the Blademaster/Mgando Gorge/Tyrant"},
+	{
+		"name":"Gi-zho, the Iron Deity/Kwarah Villa/Tyrant"},
+	{
+		"name":"Jia Mian, the Beloved/Mount Mgando/Tyrant"},
+	{
+		"name":"Sharnaak, the Technician/Mount Mgando/Tyranttime"},
+	{
+		"name":"Supplies Surprise/Drongo Caravan/Chp 4"},
+	{
+		"name":"Black Lifehold/Slavebird Isle/Chp 11"},
+	{
+		"name":"Until the End/Mgando Gorge/Chp 11"},
+	{
+		"name":"Lionhearted/Ganglion Weapons Hangar/Chp 12"},		
+	{
+		"name":"Alien Reliquary/Scholes Battlegrounds/Archeological 2"},
+	{
+		"name":"Alien Wreckage/Emerian Battlegrounds/Archeological 2"},
+	{
+		"name":"Alien Reliquary/Emerian Battlegrounds/Archeological 2"},
+	{
+		"name":"Alien Reliquary/Adder Byroad/Archeological 2"},
+	{
+		"name":"Alien Container/Abandoned Bivouac/Archeological 2"},
+	{
+		"name":"Alien Container/Forgotten Mining Frigate/Archeological 3"},
+	{
+		"name":"Alien Wreckage/Abandoned Bivouac/Archeological 2"},
+	{
+		"name":"Alien Container/Capital Wreckage/Archeological 2"},
+	{
+		"name":"Alien Reliquary/Bestial Utopia/Archeological 2"},
+	{
+		"name":"Alien Reliquary/Old Ceremonial Hollow/Archeological 4"},
+	{
+		"name":"Alien Wreckage/Mgando Gorge/Archeological 2"},
+	{
+		"name":"Indigen Nest/Ancient Warscape/Biological 1"},
+	{
+		"name":"Indigen Nest/Forgotten Mining Frigate/Biological 5"},
+	{
+		"name":"Indigen Nest/Capital Wreckage/Biological 2"},
+	{
+		"name":"Indigen Nest/Mount Mgando/Biological 3"},
+	{
+		"name":"White Whale Debris/Far Isle of Tzuo/Mechanical 1"},
+	{
+		"name":"Lifepod/Emerian Battlegrounds/Mechanical 2"},
+	{
+		"name":"White Whale Debris/Wildcat Fortress/Mechanical 2"},
+	{
+		"name":"White Whale Debris/Gnahan Villa/Mechanical 2"},
+	{
+		"name":"Patrol Chopper Wreckage/Orrh Sim Capital Ruins/Mechanical 3"},
+	{
+		"name":"Lifepod/Slavebird Isle/Mechanical 3"},
+	{
+		"name":"Lifepod/Tengus Playground/Mechanical 3"},
+	{
+		"name":"Lifepod/Kitsune Stronghold/Mechanical 2"},
+	{
+		"name":"Patrol Chopper Wreckage/Kwarah Villa/Mechanical 2"},
+	{
+		"name":"Patrol Chopper Wreckage/Mgando Gorge/Mechanical 2"},
+	{
+		"name":"Patrol Chopper Wreckage/Kwarah Villa/Mechanical 4"},
+	{
+		"name":"Gorkwa Games/White Phosphorus"},
+	{
+		"name":"Sparking a Smile/Drongo Caravan"},
+	{
+		"name":"Slovitys Revenge/Ancient Warscape"},
+	{
+		"name":"The Bodyguard/FN Site 505"},
+	{
+		"name":"My Angel, My Lana/Emerian Battlegrounds"},
+	{
+		"name":"Definian Downfall/Ganglion Antropolis"},
+	{
+		"name":"The Old Gods/Slavebird Isle"},
+	{
+		"name":"Mia Is Missing!/Ganglion Antropolis"},
+	{
+		"name":"The Duel IV/Titans Table"},
+	{
+		"name":"To Serve Nopon/Dragonbone Promontory"},
+	{
+		"name":"Rites of Ruin/Ternion Fork"},
+	{
+		"name":"A Present for Hope/Forgotten Mining Frigate"},
+	{
+		"name":"The Queen Is Dead/Mount Mgando"},
+	{
+		"name":"Alexs Last Stand/Mount Mgando"},
+	{
+		"name":"The Unbreakable Sword/Mount Mgando"}
+	],
+	"map_locations": [
+		{				
+			"map": "WlrdMp",
+			"x": 380,
+			"y": 80,
+			"size": 5
+		}
+	]
+},
+
+{
+//sylv
+"name":"Sylvalum",
+	"access_rules":["chap:2"],
+	"sections":[
+	{
+		"name":"Yune, the Ambusher/Seabirds Beak/Tyrant/Rarely"},
+	{
+		"name":"Behemoth, the Netherdweller/Cavernous Abyss/Tyrant/Rarely"},
+	{
+		"name":"Stola, the Champion/Seabirds Beak/Tyrant/Crimson aurora"},
+	{
+		"name":"Alexei, the Jade/West Ciel Sandsea/Tyrant"},
+	{
+		"name":"Florence, the Hell Maggot/Hilal Meadow/Tyranttime"},
+	{
+		"name":"Antara, the Water Diviner/West Cinderdunes/Tyrant"},
+	{
+		"name":"Radovan, the Sky Baron/Lake Ciel/Tyranttime"},
+	{
+		"name":"Laurencio, the Fog Bow/Lake Ciel/Tyrant"},
+	{
+		"name":"Asana, the Azure Star/Lake Ciel/Tyrant"},
+	{
+		"name":"Damaged Zig/Hilal Stronghold/Tyrant"},
+	{
+		"name":"Candelario, the Bronze/Anvil Sandplain/Tyrant"},
+	{
+		"name":"Luxaars Xern/Arc Rock/Tyrant"},
+	{
+		"name":"Gesserith, the Wileworm/South Silent Sandsea/Tyrant"},
+	{
+		"name":"Ramus, the Supersonic/Lake Ciel/Tyrant"},
+	{
+		"name":"Ignit, the Ultimate Chaos/Lake Ciel/Tyrant/Crimson auroras"},
+	{
+		"name":"Lockhart, the Killer of Hope/Lake Ciel/Tyrant/Rarely"},
+	{
+		"name":"Manan, the Water Whisperer/Lake Ciel/Tyrant"},
+	{
+		"name":"Thaddaeus, the Ultramafic/East Lake Ciel/Tyrant"},
+	{
+		"name":"Sadars Qmoeva/North Ciel Sandsea/Tyranttime"},
+	{
+		"name":"Clara, the Pure White/North Silent Sandsea/Tyranttime"},
+	{
+		"name":"Oc-serv, the Ancient/Sylvalum Searoad/Tyrant"},
+	{
+		"name":"Lesson from the Grave/Shivering Sands/Chp 4"},
+	{
+		"name":"Castle in the Sky/Lake Ciel/Chp 4"},
+	{
+		"name":"Predator and Prey/Shivering Sands/Chp 6"},
+	{
+		"name":"Special Delivery/North Silent Sandsea/Chp 7"},
+	{
+		"name":"Hair Apparent/Lake Ciel/Chp 8"},
+	{
+		"name":"Its-a Mia!/Lake Ciel/Chp 9"},
+	{
+		"name":"Plans of Attack/Badr Basin/Chp 11"},
+	{
+		"name":"Alien Container/Shivering Sands/Archeological 4"},
+	{
+		"name":"Alien Wreckage/Cavernous Abyss/Archeological 5"},
+	{
+		"name":"Alien Container/Badr Stronghold/Archeological 4"},
+	{
+		"name":"Alien Reliquary/West Ciel Sandsea/Archeological 4"},
+	{
+		"name":"Alien Container/Lesser Anvil/Archeological 3"},
+	{
+		"name":"Alien Container/Badr Strongbridge/Archeological 4"},
+	{
+		"name":"Alien Container/Hilal Stronghold/Archeological 4"},
+	{
+		"name":"Alien Reliquary/Lake Ciel/Archeological 5"},
+	{
+		"name":"Alien Wreckage/Hilal Meadow/Archeological 3"},
+	{
+		"name":"Alien Wreckage/North Cinderdunes/Archeological 4"},
+	{
+		"name":"Alien Wreckage/South Hardheart Canyon/Archeological 4"},
+	{
+		"name":"Alien Reliquary/Lake Ciel/Archeological 4"},
+	{
+		"name":"Alien Container/Quay Hollows/Archeological 4"},
+	{
+		"name":"Alien Wreckage/Cauldros Threshold/Archeological 2"},
+	{
+		"name":"Alien Container/Lower Delusian Mountains/Archeological 4"},
+	{
+		"name":"Alien Container/North Hardheart Canyon/Archeological 4"},
+	{
+		"name":"Alien Container/Southern Searoad/Archeological 2"},
+	{
+		"name":"Strange Petrified Tree/Seabirds Beak/Biological 3"},
+	{
+		"name":"Strange Petrified Tree/Hilal Meadow/Biological 2"},
+	{
+		"name":"Strange Petrified Tree/Banshee Cove/Biological 5"},
+	{
+		"name":"Strange Petrified Tree/South Cinderdunes/Biological 3"},
+	{
+		"name":"Strange Petrified Tree/North Silent Sandsea/Biological 4"},
+	{
+		"name":"Strange Petrified Tree/South Silent Sandsea/Biological 3"},
+	{
+		"name":"Strange Petrified Tree/East Ciel Sandsea/Biological 4"},
+	{
+		"name":"Strange Petrified Tree/Southern Searoad/Biological 2"},
+	{
+		"name":"Strange Petrified Tree/Cleansing Spring/Biological 3"},
+	{
+		"name":"Strange Petrified Tree/Northern Searoad/Biological 4"},
+	{
+		"name":"Patrol Chopper Wreckage/South Ciel Sandsea/Mechanical 3"},
+	{
+		"name":"Patrol Chopper Wreckage/Anvil Rock Two/Mechanical 5"},
+	{
+		"name":"Skell Wreckage/Hilal Meadow/Mechanical 3"},
+	{
+		"name":"Skell Wreckage/Anvil Sandplains/Mechanical 4"},
+	{
+		"name":"Skell Wreckage/Lower Delusian Mountains/Mechanical 3"},
+	{
+		"name":"Bottoms Up/Seabirds Beak"},
+	{
+		"name":"The Line of Fire/Hilal Meadow"},
+	{
+		"name":"Unknown Assailant/Banshee Cove"},
+	{
+		"name":"Soldier of the Harriers/South Cinderdunes"},
+	{
+		"name":"Law and Orders/Anvil Sandplains"},
+	{
+		"name":"Serial Thriller/Xanadu Overlook"},
+	{
+		"name":"Good Fortun/Anvil Rock One"},
+	{
+		"name":"The Duel III/Delusian North Summit"},
+	{
+		"name":"Brotherly Love/South Hardheart Canyon"},
+	{
+		"name":"Leaving the Nest/Cauldros Threshold"},
+	{
+		"name":"Orphean Pluck/Delusians South Summit"},
+	{
+		"name":"The Sword of Legendaryness/Behemoths Shadows"}
+	],
+	"map_locations": [
+		{				
+			"map": "WlrdMp",
+			"x": 305,
+			"y": 175,
 			"size": 5
 		}
 	]
