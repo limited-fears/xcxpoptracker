@@ -20,18 +20,19 @@
 				
 
 			},
+
 			{
-				"name":"Nagi 4 H2H",
-				"access_rules":["Nagi:4"],
-				"sections":[
+			"name":"Nagi 4 H2H",
+			"access_rules":["Nagi:4"],
+			"sections":[
 				{
 				"ref": "SEG/Blade-Barracks/Nagi 4 H2H"
 				}
 				],
-				"map_locations": [	
+			"map_locations": [	
 					{				
 						"map": "Barks",
-						"x": 469,
+						"x": 479,
 						"y": 332,
 						"size": 10
 					}
@@ -47,88 +48,261 @@
 				{
 				"ref":"SEG/Blade-Barracks/The Repair Job"
 				}
-			],
+				],
 			"map_locations": [
 					{				
 						"map": "Barks",
-						"x": 479,
+						"x": 499,
+						"y": 332,
+						"size": 10
+					}
+				]
+			},
+
+			{
+			"name":"We Were Soldiers",
+			"access_rules":["Elma:1","Chap:3"],
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/We Were Soldiers"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 519,
+						"y": 332,
+						"size": 10
+					}
+				]
+		    },
+
+			{
+			"name":"A Day in the Life",
+			"access_rules":["Chap:4"],
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/A Day in the Life"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 539,
+						"y": 332,
+						"size": 10
+					}
+				]
+			},
+
+			{
+			"name":"BFFs",
+			"access_rules":["Chap:5"],
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/BFFs"
+				}
+			],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 559,
+						"y": 332,
+						"size": 10
+					}
+				]
+			},
+
+			{
+			"name":"A Friend in Need",
+			"access_rules":["Chap:5"],
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/A Friend in Need"
+				}
+			],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 579,
+						"y": 332,
+						"size": 10
+					}
+				]
+			},
+
+			{
+			"name":"Nagis Time",
+			"access_rules":["Chap:8"],
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/Nagis Time"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 599,
 						"y": 332,
 						"size": 10
 					}
 
-			]
+				]
+			},
+
+			{
+			"name":"Prospective Partners",
+			"access_rules":["Chap:9"],
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/Prospective Partners"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 619,
+						"y": 332,
+						"size": 10
+					}
+
+				]
+			},
+
+			{
+			"name":"A Challenger Approaches",
+			"access_rules":["Chap:10"],
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/A Challenger Approaches"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 639,
+						"y": 332,
+						"size": 10
+					}
+
+				]
+			},
+
+			{
+			"name":"Two Peas in a Pod",
+			"access_rules":["Lin:3","Chap:11"],
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/Two Peas in a Pod"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 659,
+						"y": 332,
+						"size": 10
+					}
+
+				]
 			},
 			
-	///	for copy/paste purposes
-		{
-	"name": "Blade-Barracks",
-	"access_rules": ["chap:1"],
-	"sections":[
-
-		{
-			"name":"Nagi 4 H2H",
-			"access_rules":["Nagi:4"]
-		},
-		{
-			"name": "The Repair Job",
-		"access_rules":["Lin:1","Chap:3"]
-		},
-		{
-			"name":"We Were Soldiers",
-			"access_rules":["Elma:1","Chap:3"]
-		},
-		{
-			"name":"A Day in the Life",
-			"access_rules":["Chap:4"]
-		},
-		{
-			"name":"BFFs",
-			"access_rules":["Chap:5"]
-		},
-		{
-			"name":"A Friend in Need",
-			"access_rules":["Chap:5"]
-		},
-		{
-			"name":"Nagis Time",
-			"access_rules":["Chap:8"]
-		},
-		{
-			"name":"Prospective Partners",
-			"access_rules":["Chap:9"]
-		},
-		{
-			"name":"A Challenger Approaches",
-			"access_rules":["Chap:10"]
-		},
-		{
-			"name":"Two Peas in a Pod",
-			"access_rules":["Lin:3","Chap:11"]
-		},
-		{
+			{
 			"name":"Fathers and Sons",
-			"access_rules":["Irina:4","Chap:11"]
-		},
-		{
+			"access_rules":["Irina:4","Chap:11"],
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/Fathers and Sons"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 679,
+						"y": 332,
+						"size": 10
+					}
+
+				]
+			},
+			
+			{
 			"name":"Then and Now",
-			"access_rules":["Elma:4","Chap:12"]
-		},
-		{
+			"access_rules":["Elma:4","Chap:12"],
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/Then and Now"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 699,
+						"y": 332,
+						"size": 10
+					}
+
+				]
+			},
+
+			{
 			"name":"To Serve Nopon",
-			"access_rules":["Lin:4","Chap:12"]
-		},
-		{
+			"access_rules":["Lin:4","Chap:12"],
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/To Serve Nopon"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 719,
+						"y": 332,
+						"size": 10
+					}
+
+				]
+			},
+			
+			{
 			"name":"Lin",
-			"access_rules":[]
-		},
-		{
+			"access_rules":[],
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/Lin"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 739,
+						"y": 332,
+						"size": 10
+					}
+
+				]
+			},
+			
+			{
 			"name":"Elma",
-			"access_rules":[]
-		}
-	]
-}
-]
-}
+			"access_rules":[],
+			"sections":[
+				{
+				"ref":"SEG/Blade-Barracks/Elma"
+				}
+				],
+		    "map_locations": [
+					{				
+						"map": "Barks",
+						"x": 759,
+						"y": 332,
+						"size": 10
+					}
+
+				]
+			}
+		]
+	}
 ]
 						
 	
