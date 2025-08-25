@@ -2406,7 +2406,8 @@ LOCATION_MAPPING = {
 
 --locations
 		--NLA	
-
+			--blade barracks
+				[4102401] = {"@LOC/Blade-Barracks/Barracks Interior"},
 		--primordia
 
 		--noctilum
@@ -2417,8 +2418,8 @@ LOCATION_MAPPING = {
 
 		--sylvalum
 
-	[4102401] = {"@LOC/Barracks Interior"},
-	[4102402] = {"@LOC/Interior"},
+
+
 	[4102403] = {"@LOC/West Gate"},
 	[4102404] = {"@LOC/Central Industrial-Districtrial District"},
 	[4102405] = {"@LOC/Integrated Production Plant"},
@@ -2660,6 +2661,7 @@ LOCATION_MAPPING = {
 	[4102641] = {"@LOC/Mount Edge Peak"},
 	[4102642] = {"@LOC/Beehive Rock"},
 	[4102643] = {"@LOC/Eddies Conquest"},
+
 	[4102644] = {"@LOC/FN Site 301"},
 	[4102645] = {"@LOC/FN Site 302"},
 	[4102646] = {"@LOC/FN Site 303"},
@@ -2730,6 +2732,7 @@ LOCATION_MAPPING = {
 	[4102711] = {"@LOC/Lower Delusian Mountains"},
 	[4102712] = {"@LOC/Sandsprint Cavity"},
 	[4102713] = {"@LOC/Noctilumilucent Sphere Interior"},
+
 	[4102714] = {"@LOC/FN Site 401"},
 	[4102715] = {"@LOC/FN Site 402"},
 	[4102716] = {"@LOC/FN Site 403"},
@@ -2856,4 +2859,5 @@ LOCATION_MAPPING = {
 	[4102843] = {"@LOC/Zu Pharg Interception Line"},
 	[4102844] = {"@LOC/Lifehold Core"},
 	[4102845] = {"@LOC/Orrh Sim Keep"},
+	[4102402] = {"@LOC/Interior"},
 }

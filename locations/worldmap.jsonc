@@ -2026,6 +2026,20 @@
 	]
 }
 	]
+},
+{
+	"name":"LOC",
+	"children":[
+		{
+		"name":"Barracks-Barracks",
+		"sections":[
+			{
+				"name":"Barracks Interior",
+				"access_rules":["chap:1"]
+			}
+		]
+		}
+	]
 }
 ]
 
