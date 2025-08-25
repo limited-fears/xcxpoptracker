@@ -2037,7 +2037,15 @@
 				"name":"Barracks Interior",
 				"access_rules":["chap:1"]
 			}
-		]
+		],
+		"map_locations": [
+		{				
+			"map": "WlrdMp",
+			"x": 5,
+			"y": 5,
+			"size": 5
+		}
+	]
 		}
 	]
 }
