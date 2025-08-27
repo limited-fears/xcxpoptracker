@@ -2408,18 +2408,7 @@ LOCATION_MAPPING = {
 		--NLA	
 			--blade barracks
 				[4102401] = {"@LOC/Blade-Barracks/Barracks Interior"},
-		--primordia
-
-		--noctilum
-
-		--obliviavi
-
-		--cauldros
-
-		--sylvalum
-
-
-
+			--Administrative district
 	[4102403] = {"@LOC/West Gate"},
 	[4102404] = {"@LOC/Central Industrial-Districtrial District"},
 	[4102405] = {"@LOC/Integrated Production Plant"},
@@ -2450,6 +2439,20 @@ LOCATION_MAPPING = {
 	[4102430] = {"@LOC/Mimeosome Maintenance Center"},
 	[4102431] = {"@LOC/Hangar"},
 	[4102432] = {"@LOC/Restricted Hangar Entrance"},
+
+				--primordia
+
+		--noctilum
+
+		--obliviavi
+
+		--cauldros
+
+		--sylvalum
+
+
+
+	
 	[4102433] = {"@LOC/Bedrock Hold"},
 	[4102434] = {"@LOC/Stonelattice Cavern"},
 	[4102435] = {"@LOC/Greater Gemini Bridge"},
