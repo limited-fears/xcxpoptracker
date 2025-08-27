@@ -41,7 +41,7 @@ if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     Tracker:AddLocations("locations/nla.jsonc")
     Tracker:AddLocations("locations/noctilum.jsonc")
     Tracker:AddLocations("locations/oblivia.jsonc")
-    Tracker:AddLocations("locationsp/rimordia.jsonc")
+    Tracker:AddLocations("locations/primordia.jsonc")
     Tracker:AddLocations("locations/sylum.jsonc")
     Tracker:AddLocations("locations/worldmap.jsonc")
 end

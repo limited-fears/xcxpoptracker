@@ -1552,7 +1552,7 @@ LOCATION_MAPPING = {
 	--industrial-District
 		
 		--h2h
-		[4101813] = {"@SEG/Industrial-District/Celica 5 H2H/Test Hangar"},
+		[4101813] = {"@SEG/Industrial-District/Celica 5 H2H"}, --- /Test Hangar
 		[4101814] = {"@SEG/Industrial-District/Nagi 2 H2H/Test Hangar"},
 		[4101819] = {"@SEG/Industrial-District/Celica 4 H2H/Production Plant"},
 		[4101829] = {"@SEG/Industrial-District/Doug 2 H2H/Central"},

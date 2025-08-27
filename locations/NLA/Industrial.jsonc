@@ -1,26 +1,948 @@
-[{
-		"name": "Cauldros",
-		"children":[
-			{
-				"name": "CAU Check",
-				"access_rules": [
-        ],
-				"sections":[
-				    {
-                    "name": "Cau Sec1",
-                    "item_count": 1
-                    }
-                ],
-				"map_locations": [
-					{				
-						"map": "Cau",
-						"x": 24,
-						"y": 24,
-						"size": 10
-					}
-				]
-			}
-		]
-						
-	}
+[
+	{
+"name": "Industrial-District",
+"children":[
+	{
+
+	"name":"Celica 5 H2H",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Celica 5 H2H"
+		}
 	]
+	},
+	{
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 200,
+			"y": 400,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Nagi 2 H2H",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Nagi 2 H2H"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 200,
+			"y": 380,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Celica 4 H2H",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Celica 4 H2H"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 200,
+			"y": 360,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Doug 2 H2H",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Doug 2 H2H"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 200,
+			"y": 340,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Murderess 3 H2H",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Murderess 3 H2H"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 200,
+			"y": 320,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Irina 4 H2H",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Irina 4 H2H"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 200,
+			"y": 300,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Lin 1 H2H",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Lin 1 H2H"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 200,
+			"y": 280,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Elma 1 H2H",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Elma 1 H2H"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 200,
+			"y": 260,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Mia 3 H2H",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Mia 3 H2H"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 200,
+			"y": 240,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Hope 3 H2H",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Hope 3 H2H"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 200,
+			"y": 220,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Irina 1 H2H",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Irina 1 H2H"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 200,
+			"y": 200,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Frye 5 H2H",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Frye 5 H2H"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 200,
+			"y": 180,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Celica 1 H2H",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Celica 1 H2H"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 200,
+			"y": 160,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Frye 1 H2H",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Frye 1 H2H"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 200,
+			"y": 140,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Yardleys Scheme",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Yardleys Scheme"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 200,
+			"y": 120,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Off the Record Biological",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Off the Record Biological"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 200,
+			"y": 100,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Forest Foray",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Forest Foray"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 200,
+			"y": 80,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Rise of the Blood Lobster",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Rise of the Blood Lobster"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 400,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"A Proper Chopper",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/A Proper Chopper"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 380,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Bottoms Up",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Bottoms Up"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 360,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"The Pip-Squeak",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/The Pip-Squeak"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 340,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Mystery Man",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Mystery Man"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 320,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Pollution Solution",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Pollution Solution"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 300,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Good Neighbors",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Good Neighbors"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 280,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"The Voltant Visionary",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/The Voltant Visionary"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 260,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Professor Bs Return",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Professor Bs Return"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 260,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Data Probe Challenge",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Data Probe Challenge"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 240,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Lone Survivors",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Lone Survivors"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 220,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Entrepreneurial Spirit",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Entrepreneurial Spirit"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 200,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"New in New LA",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/New in New LA"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 180,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"A Girls Wings",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/A Girls Wings"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 160,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Muimuis Meltdown",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Muimuis Meltdown"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 140,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Pack It In",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Pack It In"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 120,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"The Good Thief",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/The Good Thief"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 100,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Good Fortun",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Good Fortun"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 220,
+			"y": 80,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Boot Camp",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Boot Camp"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 240,
+			"y": 400,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Turf War",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Turf War"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 240,
+			"y": 380,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Orphean Pluck",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Orphean Pluck"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 240,
+			"y": 360,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Data Probe Progress",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Data Probe Progress"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 240,
+			"y": 340,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Two Warriors",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Two Warriors"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 240,
+			"y": 320,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Data Probe Breakthrough",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Data Probe Breakthrough"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 240,
+			"y": 300,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Child of Mira",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Child of Mira"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 240,
+			"y": 280,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Fitting In",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Fitting In"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 240,
+			"y": 260,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Gold Rush",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Gold Rush"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 240,
+			"y": 240,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"The Gauntlet",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/The Gauntlet"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 240,
+			"y": 220,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Data Probe Revolution",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Data Probe Revolution"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 240,
+			"y": 200,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Data Probe Evolution",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Data Probe Evolution"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 240,
+			"y": 180,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Professorial",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Professorial"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 240,
+			"y": 160,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Celica",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Celica"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 240,
+			"y": 140,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Alexa",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Alexa"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 240,
+			"y": 120,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Horonalderon",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Horonalderon"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 240,
+			"y": 100,
+			"size": 10
+
+		}
+	]
+	},
+	{
+
+	"name":"Frye",
+	"sections":[
+	    {
+        "ref":"SEG/Industrial-District/Frye"
+		}
+	],
+	"map_locations": [
+		{
+			"map": "NLA",
+			"x": 240,
+			"y": 80,
+			"size": 10
+
+		}
+	]
+	},
+]
+}]
+	
+
+
+
