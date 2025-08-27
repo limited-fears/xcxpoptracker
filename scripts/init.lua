@@ -37,6 +37,7 @@ if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     Tracker:AddLocations("locations/locations.jsonc")
     Tracker:AddLocations("locations/NLA/barracks.jsonc")
     Tracker:AddLocations("locations/NLA/manonship.jsonc")
+    Tracker:AddLocations("locations/NLA/industrial.jsonc")
     Tracker:AddLocations("locations/cauldros.jsonc")
     Tracker:AddLocations("locations/nla.jsonc")
     Tracker:AddLocations("locations/noctilum.jsonc")
